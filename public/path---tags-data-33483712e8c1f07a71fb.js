@@ -1,0 +1,2 @@
+webpackJsonp([0xad58b7b64db],{502:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/lorem-ipsum-dolor-situm.1/"},frontmatter:{title:"Brand Success: Only with the right consumer data"}}}]}},pathContext:{tag:"data"}}}});
+//# sourceMappingURL=path---tags-data-33483712e8c1f07a71fb.js.map

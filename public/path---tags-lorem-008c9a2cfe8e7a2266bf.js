@@ -1,0 +1,2 @@
+webpackJsonp([25206779908695],{472:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/lorem-ipsum-dolor-situm/"},frontmatter:{title:"Lorem Ipsum Dolor Situm"}}}]}},pathContext:{tag:"lorem"}}}});
+//# sourceMappingURL=path---tags-lorem-008c9a2cfe8e7a2266bf.js.map
