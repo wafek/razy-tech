@@ -2,8 +2,6 @@ backend:
   name: github
   repo: razytech/Razy-Tech
   branch: master
-  app_id: 7e7d294ec6255f78df18
-  auth_type: implicit
   # name: git-gateway
   # repo: osamajandali/Razy-Tech
   # branch: master
