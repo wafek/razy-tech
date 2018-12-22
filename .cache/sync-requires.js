@@ -1,0 +1,50 @@
+// prefer default export if available
+const preferDefault = m => m && m.default || m
+
+
+exports.layouts = {
+  "layout---index": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/.cache/layouts/index.js"))
+}
+
+exports.components = {
+  "component---node-modules-gatsby-plugin-offline-app-shell-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/node_modules/gatsby-plugin-offline/app-shell.js")),
+  "component---src-templates-brand-page-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js")),
+  "component---src-templates-home-page-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/home-page.js")),
+  "component---src-templates-contact-page-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/contact-page.js")),
+  "component---src-templates-about-page-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/about-page.js")),
+  "component---src-templates-article-page-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js")),
+  "component---src-templates-project-page-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js")),
+  "component---src-templates-solutions-page-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/solutions-page.js")),
+  "component---src-templates-tags-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js")),
+  "component---src-pages-404-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/pages/404.js")),
+  "component---src-pages-blog-index-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/pages/blog/index.js")),
+  "component---src-pages-projects-index-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/pages/projects/index.js")),
+  "component---src-pages-tags-index-js": preferDefault(require("/Users/osamajandali/Desktop/razy-tech/src/pages/tags/index.js"))
+}
+
+exports.json = {
+  "layout-index.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/layout-index.json"),
+  "offline-plugin-app-shell-fallback.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/offline-plugin-app-shell-fallback.json"),
+  "brands.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/brands.json"),
+  "index.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/index.json"),
+  "contact.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/contact.json"),
+  "about.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/about.json"),
+  "blog-lorem-ipsum-dolor-situm-2.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/blog-lorem-ipsum-dolor-situm-2.json"),
+  "projects-lorem-ipsum-dolor-situm-1.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/projects-lorem-ipsum-dolor-situm-1.json"),
+  "blog-lorem-ipsum-dolor-situm-1.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/blog-lorem-ipsum-dolor-situm-1.json"),
+  "projects-lorem-ipsum-dolor-situm-2.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/projects-lorem-ipsum-dolor-situm-2.json"),
+  "solutions.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/solutions.json"),
+  "tags-coffee.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-coffee.json"),
+  "tags-promotion.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-promotion.json"),
+  "tags-4-millions.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-4-millions.json"),
+  "tags-lorem.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-lorem.json"),
+  "tags-ipsum.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-ipsum.json"),
+  "tags-consumer.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-consumer.json"),
+  "tags-data.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-data.json"),
+  "tags-brand-success.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-brand-success.json"),
+  "404.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/404.json"),
+  "blog.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/blog.json"),
+  "projects.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/projects.json"),
+  "tags.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/tags.json"),
+  "404-html.json": require("/Users/osamajandali/Desktop/razy-tech/.cache/json/404-html.json")
+}
