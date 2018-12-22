@@ -1,10 +1,10 @@
 backend:
-  # name: github
+  name: github
+  repo: razytech/Razy-Tech
+  branch: master
+  # name: git-gateway
   # repo: osamajandali/Razy-Tech
   # branch: master
-  name: git-gateway
-  repo: osamajandali/Razy-Tech
-  branch: master
 
 publish_mode: editorial_workflow
 media_folder: static/img
