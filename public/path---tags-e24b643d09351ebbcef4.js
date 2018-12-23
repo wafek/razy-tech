@@ -1,2 +1,0 @@
-webpackJsonp([55702396619907],{473:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{group:[{fieldValue:"ipsum",totalCount:1},{fieldValue:"lorem",totalCount:1}]}},pathContext:{}}}});
-//# sourceMappingURL=path---tags-e24b643d09351ebbcef4.js.map
