@@ -19,7 +19,7 @@ brands:
         platform offers you a wide range of digital channels for you to reach
         out to your base; either through a single channel or a multi-channel
         approach.
-      title: iMakaseb(2014)
+      title: iMakaseb
       url: '#'
     - logo: /img/minds-outsourcing.png
       text: >-
@@ -31,14 +31,14 @@ brands:
         Software development, embedded systems, and Hardware development. We
         have acknowledged ability to deliver Smart Automated solutions for your
         business processes and procedures that fits your needs.
-      title: Minds Outsourcing(2018)
+      title: Minds Outsourcing
       url: '#'
-    
 meta_title: About Us | Razy Technologies
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Established in 2007 with a clear vision of offering smart services to serve
+  intelligent individuals and organizations, anywhere, anytime. We sustained a
+  high growth rate by increasing our business capacity while launching new
+  ventures to rank among the best specialized mobile service providers in the
+  region with a timely delivery, economic pricing and trusted methodologies.
 ---
 
