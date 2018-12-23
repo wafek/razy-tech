@@ -3,7 +3,7 @@ templateKey: project-page
 title: Digital Governmental Solutions
 slug: Digital Governmental Solutions
 date: '2018-12-24T05:55:49+02:00'
-cover: /img/project1.jpg
+cover: /img/achievement-agreement-body-language-1179804-min.jpg
 tags:
   - governmental
   - solutions
