@@ -1,2 +1,2 @@
-webpackJsonp([0xdd06327c8645],{499:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/lorem-ipsum-dolor-situm.1/"},frontmatter:{title:"Brand Success: Only with the right consumer data"}}}]}},pathContext:{tag:"brand success"}}}});
+webpackJsonp([0xdd06327c8645],{512:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/lorem-ipsum-dolor-situm.1/"},frontmatter:{title:"Brand Success: Only with the right consumer data"}}}]}},pathContext:{tag:"brand success"}}}});
 //# sourceMappingURL=path---tags-brand-success-91632f0a5a731d58e29d.js.map

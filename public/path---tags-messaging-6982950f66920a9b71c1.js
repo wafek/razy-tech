@@ -1,0 +1,2 @@
+webpackJsonp([0xaea284e5f879],{519:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/projects/lorem-ipsum-dolor-situm.1/"},frontmatter:{title:"Interactive Messaging"}}}]}},pathContext:{tag:"messaging"}}}});
+//# sourceMappingURL=path---tags-messaging-6982950f66920a9b71c1.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([75862072357876],{517:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/projects/loyalty-programs/"},frontmatter:{title:"Loyalty Programs"}}}]}},pathContext:{tag:"imakaseb"}}}});
+//# sourceMappingURL=path---tags-imakaseb-725dd261437c0ee5c60e.js.map

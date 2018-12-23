@@ -8,139 +8,199 @@
   Cache-Control: max-age=31536000
 /offline-plugin-app-shell-fallback/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
-/brands/
-  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---brands-4d2409ad0c35b715655d.js>; rel=preload; as=script
-  Link: </component---src-templates-brand-page-js-6e97ca8c4d6b8390751d.js>; rel=preload; as=script
-  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---index-6152a50369655bddff00.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---index-262413bcfa3e46cdb808.js>; rel=preload; as=script
   Link: </component---src-templates-home-page-js-3029df5ef3beca941b72.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /contact/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---contact-6877c9c3c8489b7e99ce.js>; rel=preload; as=script
   Link: </component---src-templates-contact-page-js-e3275a1b6ea407a75e56.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /about/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---about-92f45f6330eeb74da0f4.js>; rel=preload; as=script
   Link: </component---src-templates-about-page-js-dabbd97b112ff1544031.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /blog/lorem-ipsum-dolor-situm.2/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---blog-lorem-ipsum-dolor-situm-2-81686ef9aab5e52a5947.js>; rel=preload; as=script
   Link: </component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
-/projects/lorem-ipsum-dolor-situm.1/
-  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---projects-lorem-ipsum-dolor-situm-1-83587997841ac0dfaae2.js>; rel=preload; as=script
-  Link: </component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
-  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /blog/lorem-ipsum-dolor-situm.1/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---blog-lorem-ipsum-dolor-situm-1-b6eba62fae9c47d092e4.js>; rel=preload; as=script
+  Link: </component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/solutions/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---solutions-61056004c2c49e2c8eef.js>; rel=preload; as=script
+  Link: </component---src-templates-solutions-page-js-f4a8f735c00431cb652f.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/brands/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---brands-ad86395dafcca95b8a6a.js>; rel=preload; as=script
+  Link: </component---src-templates-brand-page-js-6e97ca8c4d6b8390751d.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/projects/lorem-ipsum-dolor-situm.1/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---projects-lorem-ipsum-dolor-situm-1-b60af41ec6e633f37924.js>; rel=preload; as=script
+  Link: </component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/projects/bluetooth-printers-distribution/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---projects-bluetooth-printers-distribution-a2cee593a373674719b4.js>; rel=preload; as=script
   Link: </component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /projects/lorem-ipsum-dolor-situm.2/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---projects-lorem-ipsum-dolor-situm-2-25c61fcad6911ca10f68.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---projects-lorem-ipsum-dolor-situm-2-e4f09a3c459af00c6182.js>; rel=preload; as=script
   Link: </component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
-/solutions/
+/projects/loyalty-programs/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---solutions-61056004c2c49e2c8eef.js>; rel=preload; as=script
-  Link: </component---src-templates-solutions-page-js-f4a8f735c00431cb652f.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---projects-loyalty-programs-1898ba71ba3908c6acd2.js>; rel=preload; as=script
+  Link: </component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /tags/coffee/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---tags-coffee-f206c91018eeeb14f2d4.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /tags/promotion/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---tags-promotion-ab8269bf04f169b8e308.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /tags/4-millions/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---tags-4-millions-747186ca88c1336ef5a8.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
-  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
-/tags/lorem/
-  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---tags-lorem-adde890edee2aa52fcdd.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
-  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
-/tags/ipsum/
-  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---tags-ipsum-0adefda3fa79c02e4e10.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /tags/consumer/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---tags-consumer-7fe6ae0d6e1f26b2b391.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /tags/data/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---tags-data-33483712e8c1f07a71fb.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /tags/brand-success/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---tags-brand-success-91632f0a5a731d58e29d.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/messaging/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-messaging-6982950f66920a9b71c1.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/tv/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-tv-dfd3da05fc01fc2c85ed.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/radio/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-radio-995c2f9b00f7b28cf3ce.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/pos/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-pos-06f35db78f43f78f3d75.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/printer/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-printer-90c475f246e97a35492a.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/blutooth/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-blutooth-9640e7f6eba60f731916.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/governmental/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-governmental-438ff6d96697709dd7f6.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/solutions/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-solutions-aa657c21068dac834bd3.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/imakaseb/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-imakaseb-725dd261437c0ee5c60e.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/loaylty/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-loaylty-b33032e51b453464faa1.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /404/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---404-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
   Link: </component---src-pages-404-js-2a010ced20c501a11d1f.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /blog/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---blog-da7501cfa9629402e948.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---blog-76f99d63dd521836a1d8.js>; rel=preload; as=script
   Link: </component---src-pages-blog-index-js-2fa2e6fd72057d183ddd.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /projects/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---projects-da7501cfa9629402e948.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---projects-76f99d63dd521836a1d8.js>; rel=preload; as=script
   Link: </component---src-pages-projects-index-js-1983eff2ba206f03ba0b.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /tags/
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
-  Link: </path---tags-10716ef2758ff46cb62b.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
+  Link: </path---tags-07447230affd08527333.js>; rel=preload; as=script
   Link: </component---src-pages-tags-index-js-35752417f2703a47d7c9.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
 /404.html
   Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
-  Link: </app-7d64d4bc88eec32960b4.js>; rel=preload; as=script
+  Link: </app-0e6e33a9d2123bc34095.js>; rel=preload; as=script
   Link: </path---404-html-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
   Link: </component---src-pages-404-js-2a010ced20c501a11d1f.js>; rel=preload; as=script
   Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script

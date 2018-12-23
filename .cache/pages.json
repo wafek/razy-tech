@@ -7,13 +7,6 @@
         "path": "/offline-plugin-app-shell-fallback/"
     },
     {
-        "componentChunkName": "component---src-templates-brand-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "brands.json",
-        "path": "/brands/"
-    },
-    {
         "componentChunkName": "component---src-templates-home-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -42,6 +35,27 @@
         "path": "/blog/lorem-ipsum-dolor-situm.2/"
     },
     {
+        "componentChunkName": "component---src-templates-article-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-lorem-ipsum-dolor-situm-1.json",
+        "path": "/blog/lorem-ipsum-dolor-situm.1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-solutions-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "solutions.json",
+        "path": "/solutions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-brand-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "brands.json",
+        "path": "/brands/"
+    },
+    {
         "componentChunkName": "component---src-templates-project-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -52,8 +66,8 @@
         "componentChunkName": "component---src-templates-article-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-lorem-ipsum-dolor-situm-1.json",
-        "path": "/blog/lorem-ipsum-dolor-situm.1/"
+        "jsonName": "projects-bluetooth-printers-distribution.json",
+        "path": "/projects/bluetooth-printers-distribution/"
     },
     {
         "componentChunkName": "component---src-templates-project-page-js",
@@ -63,11 +77,11 @@
         "path": "/projects/lorem-ipsum-dolor-situm.2/"
     },
     {
-        "componentChunkName": "component---src-templates-solutions-page-js",
+        "componentChunkName": "component---src-templates-article-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "solutions.json",
-        "path": "/solutions/"
+        "jsonName": "projects-loyalty-programs.json",
+        "path": "/projects/loyalty-programs/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -94,20 +108,6 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-lorem.json",
-        "path": "/tags/lorem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-ipsum.json",
-        "path": "/tags/ipsum/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-consumer.json",
         "path": "/tags/consumer/"
     },
@@ -124,6 +124,76 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-brand-success.json",
         "path": "/tags/brand-success/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-messaging.json",
+        "path": "/tags/messaging/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-tv.json",
+        "path": "/tags/tv/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-radio.json",
+        "path": "/tags/radio/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-pos.json",
+        "path": "/tags/pos/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-printer.json",
+        "path": "/tags/printer/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-blutooth.json",
+        "path": "/tags/blutooth/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-governmental.json",
+        "path": "/tags/governmental/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-solutions.json",
+        "path": "/tags/solutions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-imakaseb.json",
+        "path": "/tags/imakaseb/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-loaylty.json",
+        "path": "/tags/loaylty/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

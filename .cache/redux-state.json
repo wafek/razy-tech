@@ -1641,12 +1641,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-12-22T22:50:37.417Z",
+      "buildTime": "2018-12-23T18:09:23.512Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4137a59d0935e08e406429d95ce344c9",
+        "contentDigest": "98c1cf2ee05f40ccefbd9112dfb38008",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1656,7 +1656,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c9e9554caad18c4ee8123fcc82064b19",
+        "contentDigest": "975df3de7051ef590638087c91461111",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1667,7 +1667,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-12-19T19:36:39.332Z",
-      "accessTime": "2018-12-22T22:50:44.308Z",
+      "accessTime": "2018-12-23T18:09:31.426Z",
       "changeTime": "2018-12-20T22:06:25.217Z",
       "birthTime": "2018-10-21T09:36:58.643Z",
       "root": "/",
@@ -1685,11 +1685,11 @@
       "blksize": 4096,
       "ino": 8613374361,
       "blocks": 0,
-      "atimeMs": 1545519044307.5237,
+      "atimeMs": 1545588571425.5427,
       "mtimeMs": 1545248199332.082,
       "ctimeMs": 1545343585216.554,
       "birthtimeMs": 1540114618643.331,
-      "atime": "2018-12-22T22:50:44.308Z",
+      "atime": "2018-12-23T18:09:31.426Z",
       "mtime": "2018-12-19T19:36:39.332Z",
       "ctime": "2018-12-20T22:06:25.217Z",
       "birthtime": "2018-10-21T09:36:58.643Z"
@@ -1699,7 +1699,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "401eb01d5a5e1d938f8de43a9de7b8ff",
+        "contentDigest": "ac3518cd3f66071a8fcad028fbcd1c81",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1710,7 +1710,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-19T19:36:39.329Z",
-      "accessTime": "2018-12-22T22:50:44.317Z",
+      "accessTime": "2018-12-23T18:09:31.429Z",
       "changeTime": "2018-12-20T22:06:25.182Z",
       "birthTime": "2018-10-21T09:36:58.644Z",
       "root": "/",
@@ -1728,11 +1728,11 @@
       "blksize": 4096,
       "ino": 8613374373,
       "blocks": 0,
-      "atimeMs": 1545519044316.8447,
+      "atimeMs": 1545588571429.1921,
       "mtimeMs": 1545248199329.2156,
       "ctimeMs": 1545343585181.7925,
       "birthtimeMs": 1540114618643.6897,
-      "atime": "2018-12-22T22:50:44.317Z",
+      "atime": "2018-12-23T18:09:31.429Z",
       "mtime": "2018-12-19T19:36:39.329Z",
       "ctime": "2018-12-20T22:06:25.182Z",
       "birthtime": "2018-10-21T09:36:58.644Z"
@@ -1742,7 +1742,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4508d2de58cd30c9fed3b279a2f11038",
+        "contentDigest": "d026c42bafd57ddc63c926535b585603",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1753,7 +1753,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-12-19T19:36:39.331Z",
-      "accessTime": "2018-12-22T22:50:44.317Z",
+      "accessTime": "2018-12-23T18:09:31.429Z",
       "changeTime": "2018-12-20T22:06:25.213Z",
       "birthTime": "2018-10-21T09:36:58.644Z",
       "root": "/",
@@ -1771,11 +1771,11 @@
       "blksize": 4096,
       "ino": 8613374375,
       "blocks": 0,
-      "atimeMs": 1545519044316.9536,
+      "atimeMs": 1545588571429.1738,
       "mtimeMs": 1545248199330.8489,
       "ctimeMs": 1545343585212.687,
       "birthtimeMs": 1540114618644.0166,
-      "atime": "2018-12-22T22:50:44.317Z",
+      "atime": "2018-12-23T18:09:31.429Z",
       "mtime": "2018-12-19T19:36:39.331Z",
       "ctime": "2018-12-20T22:06:25.213Z",
       "birthtime": "2018-10-21T09:36:58.644Z"
@@ -1785,7 +1785,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1a0233bbe7382f26e83300ed0c76c6d3",
+        "contentDigest": "13e9ccffbda644a3b36f362e54aed2dc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1795,9 +1795,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-11-11T22:12:54.600Z",
-      "accessTime": "2018-12-22T22:50:44.317Z",
-      "changeTime": "2018-12-20T22:06:25.146Z",
+      "modifiedTime": "2018-12-23T18:07:01.404Z",
+      "accessTime": "2018-12-23T18:09:31.429Z",
+      "changeTime": "2018-12-23T18:07:01.404Z",
       "birthTime": "2018-10-28T11:56:56.847Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
@@ -1814,13 +1814,13 @@
       "blksize": 4096,
       "ino": 8613374364,
       "blocks": 0,
-      "atimeMs": 1545519044317.0073,
-      "mtimeMs": 1541974374599.5322,
-      "ctimeMs": 1545343585145.5413,
+      "atimeMs": 1545588571429.1562,
+      "mtimeMs": 1545588421403.6926,
+      "ctimeMs": 1545588421403.6926,
       "birthtimeMs": 1540727816847.0864,
-      "atime": "2018-12-22T22:50:44.317Z",
-      "mtime": "2018-11-11T22:12:54.600Z",
-      "ctime": "2018-12-20T22:06:25.146Z",
+      "atime": "2018-12-23T18:09:31.429Z",
+      "mtime": "2018-12-23T18:07:01.404Z",
+      "ctime": "2018-12-23T18:07:01.404Z",
       "birthtime": "2018-10-28T11:56:56.847Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/contact absPath of file": {
@@ -1828,7 +1828,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8d10dcf1576e259d9ecc0d4ed785ef8c",
+        "contentDigest": "4f22102c17be47c5b46f3295ee128561",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1839,7 +1839,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-19T19:36:39.332Z",
-      "accessTime": "2018-12-22T22:50:44.317Z",
+      "accessTime": "2018-12-23T18:09:31.429Z",
       "changeTime": "2018-12-20T22:06:25.141Z",
       "birthTime": "2018-10-21T09:36:58.645Z",
       "root": "/",
@@ -1857,11 +1857,11 @@
       "blksize": 4096,
       "ino": 8613374362,
       "blocks": 0,
-      "atimeMs": 1545519044317.4119,
+      "atimeMs": 1545588571429.2275,
       "mtimeMs": 1545248199331.5913,
       "ctimeMs": 1545343585141.2786,
       "birthtimeMs": 1540114618644.5903,
-      "atime": "2018-12-22T22:50:44.317Z",
+      "atime": "2018-12-23T18:09:31.429Z",
       "mtime": "2018-12-19T19:36:39.332Z",
       "ctime": "2018-12-20T22:06:25.141Z",
       "birthtime": "2018-10-21T09:36:58.645Z"
@@ -1871,7 +1871,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f3b56771a2f891afd4bb868753fcc7bd",
+        "contentDigest": "3e3f79faaa361356666f7cdc81dc569f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1879,11 +1879,11 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
       "relativePath": "projects",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2018-12-19T20:12:27.667Z",
-      "accessTime": "2018-12-22T22:50:44.317Z",
-      "changeTime": "2018-12-20T22:06:25.173Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-12-23T18:07:01.406Z",
+      "accessTime": "2018-12-23T18:09:31.429Z",
+      "changeTime": "2018-12-23T18:07:01.406Z",
       "birthTime": "2018-11-08T21:34:26.904Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
@@ -1893,20 +1893,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 7,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 8613374367,
       "blocks": 0,
-      "atimeMs": 1545519044317.0789,
-      "mtimeMs": 1545250347667.4197,
-      "ctimeMs": 1545343585172.9753,
+      "atimeMs": 1545588571429.2095,
+      "mtimeMs": 1545588421405.86,
+      "ctimeMs": 1545588421405.86,
       "birthtimeMs": 1541712866904.4685,
-      "atime": "2018-12-22T22:50:44.317Z",
-      "mtime": "2018-12-19T20:12:27.667Z",
-      "ctime": "2018-12-20T22:06:25.173Z",
+      "atime": "2018-12-23T18:09:31.429Z",
+      "mtime": "2018-12-23T18:07:01.406Z",
+      "ctime": "2018-12-23T18:07:01.406Z",
       "birthtime": "2018-11-08T21:34:26.904Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions absPath of file": {
@@ -1914,7 +1914,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "78af6750dccc275bf5fc5d4cbb9c15c8",
+        "contentDigest": "e9143c948ea0f625e38f8da47219ce21",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1925,7 +1925,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-19T19:36:39.337Z",
-      "accessTime": "2018-12-22T22:50:44.317Z",
+      "accessTime": "2018-12-23T18:09:31.429Z",
       "changeTime": "2018-12-20T22:06:25.175Z",
       "birthTime": "2018-10-21T09:36:58.645Z",
       "root": "/",
@@ -1943,11 +1943,11 @@
       "blksize": 4096,
       "ino": 8613374371,
       "blocks": 0,
-      "atimeMs": 1545519044317.2236,
+      "atimeMs": 1545588571429.2456,
       "mtimeMs": 1545248199336.993,
       "ctimeMs": 1545343585175.1016,
       "birthtimeMs": 1540114618645.3435,
-      "atime": "2018-12-22T22:50:44.317Z",
+      "atime": "2018-12-23T18:09:31.429Z",
       "mtime": "2018-12-19T19:36:39.337Z",
       "ctime": "2018-12-20T22:06:25.175Z",
       "birthtime": "2018-10-21T09:36:58.645Z"
@@ -1957,7 +1957,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a238d8a3875f706067238213781ebea9",
+        "contentDigest": "57d5fc2841f6f762ce6ab807a9cdcd4a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1968,7 +1968,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-10-21T09:36:58.646Z",
-      "accessTime": "2018-12-22T22:50:44.317Z",
+      "accessTime": "2018-12-23T18:09:31.429Z",
       "changeTime": "2018-12-20T22:06:25.215Z",
       "birthTime": "2018-10-21T09:36:58.646Z",
       "root": "/",
@@ -1986,11 +1986,11 @@
       "blksize": 4096,
       "ino": 8613374379,
       "blocks": 0,
-      "atimeMs": 1545519044317.4402,
+      "atimeMs": 1545588571429.2698,
       "mtimeMs": 1540114618645.7168,
       "ctimeMs": 1545343585215.4272,
       "birthtimeMs": 1540114618645.6296,
-      "atime": "2018-12-22T22:50:44.317Z",
+      "atime": "2018-12-23T18:09:31.429Z",
       "mtime": "2018-10-21T09:36:58.646Z",
       "ctime": "2018-12-20T22:06:25.215Z",
       "birthtime": "2018-10-21T09:36:58.646Z"
@@ -2046,7 +2046,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1574372743987f4d607d883832e52648",
+        "contentDigest": "8e09cf384aec5abfabb37bc8e7620933",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2055,12 +2055,12 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md",
       "relativePath": "brands/index.md",
       "extension": "md",
-      "size": 1961,
-      "prettySize": "1.96 kB",
-      "modifiedTime": "2018-11-11T22:23:46.376Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.145Z",
-      "birthTime": "2018-11-11T22:12:54.600Z",
+      "size": 2067,
+      "prettySize": "2.07 kB",
+      "modifiedTime": "2018-12-23T18:07:01.404Z",
+      "accessTime": "2018-12-23T18:07:10.558Z",
+      "changeTime": "2018-12-23T18:07:01.404Z",
+      "birthTime": "2018-12-23T18:07:01.404Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands",
       "base": "index.md",
@@ -2074,16 +2074,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8613374365,
+      "ino": 8613901737,
       "blocks": 8,
-      "atimeMs": 1545439702532.947,
-      "mtimeMs": 1541975026375.5063,
-      "ctimeMs": 1545343585145.419,
-      "birthtimeMs": 1541974374599.5232,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-11-11T22:23:46.376Z",
-      "ctime": "2018-12-20T22:06:25.145Z",
-      "birthtime": "2018-11-11T22:12:54.600Z"
+      "atimeMs": 1545588430558.4436,
+      "mtimeMs": 1545588421403.968,
+      "ctimeMs": 1545588421403.968,
+      "birthtimeMs": 1545588421403.6758,
+      "atime": "2018-12-23T18:07:10.558Z",
+      "mtime": "2018-12-23T18:07:01.404Z",
+      "ctime": "2018-12-23T18:07:01.404Z",
+      "birthtime": "2018-12-23T18:07:01.404Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file",
@@ -2410,7 +2410,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d74bd91ce857b5176519b2bd17725d95",
+        "contentDigest": "ca4c64ee56928251e8c4602f41cabc41",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2419,12 +2419,12 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md",
       "relativePath": "projects/lorem-ipsum-dolor-situm.1.md",
       "extension": "md",
-      "size": 1829,
-      "prettySize": "1.83 kB",
-      "modifiedTime": "2018-11-09T17:13:03.680Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.169Z",
-      "birthTime": "2018-11-09T17:08:23.875Z",
+      "size": 1279,
+      "prettySize": "1.28 kB",
+      "modifiedTime": "2018-12-23T18:07:01.405Z",
+      "accessTime": "2018-12-23T18:07:10.558Z",
+      "changeTime": "2018-12-23T18:07:01.405Z",
+      "birthTime": "2018-12-23T18:07:01.405Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
       "base": "lorem-ipsum-dolor-situm.1.md",
@@ -2438,16 +2438,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8613374368,
+      "ino": 8613901739,
       "blocks": 8,
-      "atimeMs": 1545439702532.9673,
-      "mtimeMs": 1541783583679.5366,
-      "ctimeMs": 1545343585169.3975,
-      "birthtimeMs": 1541783303874.5254,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-11-09T17:13:03.680Z",
-      "ctime": "2018-12-20T22:06:25.169Z",
-      "birthtime": "2018-11-09T17:08:23.875Z"
+      "atimeMs": 1545588430558.4646,
+      "mtimeMs": 1545588421405.1628,
+      "ctimeMs": 1545588421405.1628,
+      "birthtimeMs": 1545588421404.9802,
+      "atime": "2018-12-23T18:07:10.558Z",
+      "mtime": "2018-12-23T18:07:01.405Z",
+      "ctime": "2018-12-23T18:07:01.405Z",
+      "birthtime": "2018-12-23T18:07:01.405Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file",
@@ -2456,7 +2456,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c84ccd31af5a04fcadbdafeed9d547c8",
+        "contentDigest": "a98f110bb1255f594d26f82a3bd4bb31",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2465,12 +2465,12 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md",
       "relativePath": "projects/lorem-ipsum-dolor-situm.2.md",
       "extension": "md",
-      "size": 1832,
-      "prettySize": "1.83 kB",
-      "modifiedTime": "2018-12-19T20:12:27.668Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.173Z",
-      "birthTime": "2018-12-19T20:12:27.667Z",
+      "size": 1029,
+      "prettySize": "1.03 kB",
+      "modifiedTime": "2018-12-23T18:07:01.406Z",
+      "accessTime": "2018-12-23T18:07:10.558Z",
+      "changeTime": "2018-12-23T18:07:01.406Z",
+      "birthTime": "2018-12-23T18:07:01.406Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
       "base": "lorem-ipsum-dolor-situm.2.md",
@@ -2484,16 +2484,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8613374370,
+      "ino": 8613901740,
       "blocks": 8,
-      "atimeMs": 1545439702532.971,
-      "mtimeMs": 1545250347667.6616,
-      "ctimeMs": 1545343585172.8489,
-      "birthtimeMs": 1545250347667.407,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-12-19T20:12:27.668Z",
-      "ctime": "2018-12-20T22:06:25.173Z",
-      "birthtime": "2018-12-19T20:12:27.667Z"
+      "atimeMs": 1545588430558.4678,
+      "mtimeMs": 1545588421405.7327,
+      "ctimeMs": 1545588421405.7327,
+      "birthtimeMs": 1545588421405.5386,
+      "atime": "2018-12-23T18:07:10.558Z",
+      "mtime": "2018-12-23T18:07:01.406Z",
+      "ctime": "2018-12-23T18:07:01.406Z",
+      "birthtime": "2018-12-23T18:07:01.406Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/tags/index.js absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/tags/index.js absPath of file",
@@ -2584,54 +2584,6 @@
       "mtime": "2018-12-19T19:36:39.337Z",
       "ctime": "2018-12-20T22:06:25.175Z",
       "birthtime": "2018-12-19T19:36:39.337Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: brand-page\ntitle: Brands\nhero_image: /img/brands-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\nbrands:\n  blurbs:\n    - logo: /img/iMakaseb.png\n      text: >-\n        iMakaseb empowers you to engage your target audience based on your\n        objectives and the audience’s profile; ranging from simple digital\n        raffle draws and digital “Send and Get” concepts to sophisticated\n        omni-channel loyalty programs and schemes. The iMakaseb cloud based\n        platform offers you a wide range of digital channels for you to reach\n        out to your base; either through a single channel or a multi-channel\n        approach.\n      title: iMakaseb(2014)\n      url: '#'\n    - logo: /img/minds-outsourcing.png\n      text: >-\n        Minds is an IT outsourcing company specialized in providing IT solutions\n        to its clients in Egypt, the region, and globally. Minds is\n        headquartered in Dubai with operations offices in USA, Egypt, and KSA,\n        empowering its clients with distinguished system development and\n        outsourcing solutions in the fields of Internet of Things (IOT),\n        Software development, embedded systems, and Hardware development. We\n        have acknowledged ability to deliver Smart Automated solutions for your\n        business processes and procedures that fits your needs.\n      title: Minds Outsourcing(2018)\n      url: '#'\n    \nmeta_title: About Us | Razy Technologies\nmeta_description: >-\n  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur\n  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam\n  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis\n  consectetur purus sit amet fermentum.\n---\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "b23c03683ef3a7ef10132491a0d719f7",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Brands",
-        "templateKey": "brand-page",
-        "hero_image": "/img/brands-hero.png",
-        "page_description": {
-          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
-          "title": "BACKGROUND"
-        },
-        "brands": {
-          "blurbs": [
-            {
-              "logo": "/img/iMakaseb.png",
-              "text": "iMakaseb empowers you to engage your target audience based on your objectives and the audience’s profile; ranging from simple digital raffle draws and digital “Send and Get” concepts to sophisticated omni-channel loyalty programs and schemes. The iMakaseb cloud based platform offers you a wide range of digital channels for you to reach out to your base; either through a single channel or a multi-channel approach.",
-              "title": "iMakaseb(2014)",
-              "url": "#"
-            },
-            {
-              "logo": "/img/minds-outsourcing.png",
-              "text": "Minds is an IT outsourcing company specialized in providing IT solutions to its clients in Egypt, the region, and globally. Minds is headquartered in Dubai with operations offices in USA, Egypt, and KSA, empowering its clients with distinguished system development and outsourcing solutions in the fields of Internet of Things (IOT), Software development, embedded systems, and Hardware development. We have acknowledged ability to deliver Smart Automated solutions for your business processes and procedures that fits your needs.",
-              "title": "Minds Outsourcing(2018)",
-              "url": "#"
-            }
-          ]
-        },
-        "meta_title": "About Us | Razy Technologies",
-        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md",
-      "fields": {
-        "slug": "/brands/"
-      }
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark",
@@ -2841,40 +2793,6 @@
         "slug": "/blog/lorem-ipsum-dolor-situm.2/"
       }
     },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: project-page\ntitle: Ipsum Dolor Situm444\nslug: lorem-ipsum-dolor-situm\ndate: 2018-03-29T03:55:49.370Z\ncover: /img/project1.jpg\nmeta_title: Lorem Ipsum Dolor Situm\nmeta_description: >-\n  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur\n  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam\n  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis\n  consectetur purus sit amet fermentum.\ntags:\n  - lorem\n  - ipsum\n---\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n## Most Amazing Blogging Experience.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.\n\nEtiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.\n\nVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "cd86cd2ca2842a606d12e5de239c3508",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Ipsum Dolor Situm444",
-        "templateKey": "project-page",
-        "slug": "lorem-ipsum-dolor-situm",
-        "date": "2018-03-29T03:55:49.370Z",
-        "cover": "/img/project1.jpg",
-        "meta_title": "Lorem Ipsum Dolor Situm",
-        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
-        "tags": [
-          "lorem",
-          "ipsum"
-        ],
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md",
-      "fields": {
-        "slug": "/projects/lorem-ipsum-dolor-situm.1/"
-      }
-    },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -2908,40 +2826,6 @@
       "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/lorem-ipsum-dolor-situm.1.md",
       "fields": {
         "slug": "/blog/lorem-ipsum-dolor-situm.1/"
-      }
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: project-page\ntitle: lorem ipsum dolor situm\nslug: lorem-ipsum-dolor-situm\ndate: 2018-03-29T03:55:49.370Z\ncover: /img/project1.jpg\ntags:\n  - lorem\n  - ipsum\nmeta_title: Lorem Ipsum Dolor Situm\nmeta_description: >-\n  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur\n  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam\n  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis\n  consectetur purus sit amet fermentum.\n---\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n## Most Amazing Blogging Experience.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.\n\nEtiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.\n\nVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "77426e53442dde708c52255a6591fe79",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "lorem ipsum dolor situm",
-        "templateKey": "project-page",
-        "slug": "lorem-ipsum-dolor-situm",
-        "date": "2018-03-29T03:55:49.370Z",
-        "cover": "/img/project1.jpg",
-        "tags": [
-          "lorem",
-          "ipsum"
-        ],
-        "meta_title": "Lorem Ipsum Dolor Situm",
-        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md",
-      "fields": {
-        "slug": "/projects/lorem-ipsum-dolor-situm.2/"
       }
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark": {
@@ -3005,7 +2889,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "89d85db5c0e4d37f19e0b50e1f14666d",
+        "contentDigest": "41d41cd6e38dfcdb5017c912051c6c4b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3016,7 +2900,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-11-11T22:12:19.105Z",
-      "accessTime": "2018-12-22T22:50:44.352Z",
+      "accessTime": "2018-12-23T18:09:31.460Z",
       "changeTime": "2018-12-20T22:06:24.974Z",
       "birthTime": "2018-10-21T09:36:58.642Z",
       "root": "/",
@@ -3034,11 +2918,11 @@
       "blksize": 4096,
       "ino": 8613374296,
       "blocks": 0,
-      "atimeMs": 1545519044351.823,
+      "atimeMs": 1545588571460.3728,
       "mtimeMs": 1541974339105.401,
       "ctimeMs": 1545343584973.9038,
       "birthtimeMs": 1540114618642.3215,
-      "atime": "2018-12-22T22:50:44.352Z",
+      "atime": "2018-12-23T18:09:31.460Z",
       "mtime": "2018-11-11T22:12:19.105Z",
       "ctime": "2018-12-20T22:06:24.974Z",
       "birthtime": "2018-10-21T09:36:58.642Z"
@@ -3087,6 +2971,284 @@
       "ctime": "2018-12-20T22:06:24.973Z",
       "birthtime": "2018-11-11T22:12:19.105Z"
     },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b2bb3c010f4e322ae7eed6904a6ada55",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md",
+      "relativePath": "projects/bluetooth-printers-distribution.md",
+      "extension": "md",
+      "size": 969,
+      "prettySize": "969 B",
+      "modifiedTime": "2018-12-23T18:07:01.404Z",
+      "accessTime": "2018-12-23T18:07:10.558Z",
+      "changeTime": "2018-12-23T18:07:01.404Z",
+      "birthTime": "2018-12-23T18:07:01.404Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
+      "base": "bluetooth-printers-distribution.md",
+      "ext": ".md",
+      "name": "bluetooth-printers-distribution",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613901738,
+      "blocks": 8,
+      "atimeMs": 1545588430558.4585,
+      "mtimeMs": 1545588421404.4358,
+      "ctimeMs": 1545588421404.4358,
+      "birthtimeMs": 1545588421404.1282,
+      "atime": "2018-12-23T18:07:10.558Z",
+      "mtime": "2018-12-23T18:07:01.404Z",
+      "ctime": "2018-12-23T18:07:01.404Z",
+      "birthtime": "2018-12-23T18:07:01.404Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f90c064d7ac0384956859d668a1f75b5",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md",
+      "relativePath": "projects/loyalty-programs.md",
+      "extension": "md",
+      "size": 928,
+      "prettySize": "928 B",
+      "modifiedTime": "2018-12-23T18:07:01.406Z",
+      "accessTime": "2018-12-23T18:07:10.558Z",
+      "changeTime": "2018-12-23T18:07:01.406Z",
+      "birthTime": "2018-12-23T18:07:01.406Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
+      "base": "loyalty-programs.md",
+      "ext": ".md",
+      "name": "loyalty-programs",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613901741,
+      "blocks": 8,
+      "atimeMs": 1545588430558.471,
+      "mtimeMs": 1545588421406.008,
+      "ctimeMs": 1545588421406.008,
+      "birthtimeMs": 1545588421405.8528,
+      "atime": "2018-12-23T18:07:10.558Z",
+      "mtime": "2018-12-23T18:07:01.406Z",
+      "ctime": "2018-12-23T18:07:01.406Z",
+      "birthtime": "2018-12-23T18:07:01.406Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: brand-page\ntitle: Brands\nhero_image: /img/brands-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\nbrands:\n  blurbs:\n    - logo: /img/iMakaseb.png\n      text: >-\n        iMakaseb empowers you to engage your target audience based on your\n        objectives and the audience’s profile; ranging from simple digital\n        raffle draws and digital “Send and Get” concepts to sophisticated\n        omni-channel loyalty programs and schemes. The iMakaseb cloud based\n        platform offers you a wide range of digital channels for you to reach\n        out to your base; either through a single channel or a multi-channel\n        approach.\n      title: iMakaseb\n      url: '#'\n    - logo: /img/minds-outsourcing.png\n      text: >-\n        Minds is an IT outsourcing company specialized in providing IT solutions\n        to its clients in Egypt, the region, and globally. Minds is\n        headquartered in Dubai with operations offices in USA, Egypt, and KSA,\n        empowering its clients with distinguished system development and\n        outsourcing solutions in the fields of Internet of Things (IOT),\n        Software development, embedded systems, and Hardware development. We\n        have acknowledged ability to deliver Smart Automated solutions for your\n        business processes and procedures that fits your needs.\n      title: Minds Outsourcing\n      url: '#'\nmeta_title: About Us | Razy Technologies\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a9d8fcaf07b946e968c885dee189ee54",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Brands",
+        "templateKey": "brand-page",
+        "hero_image": "/img/brands-hero.png",
+        "page_description": {
+          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
+          "title": "BACKGROUND"
+        },
+        "brands": {
+          "blurbs": [
+            {
+              "logo": "/img/iMakaseb.png",
+              "text": "iMakaseb empowers you to engage your target audience based on your objectives and the audience’s profile; ranging from simple digital raffle draws and digital “Send and Get” concepts to sophisticated omni-channel loyalty programs and schemes. The iMakaseb cloud based platform offers you a wide range of digital channels for you to reach out to your base; either through a single channel or a multi-channel approach.",
+              "title": "iMakaseb",
+              "url": "#"
+            },
+            {
+              "logo": "/img/minds-outsourcing.png",
+              "text": "Minds is an IT outsourcing company specialized in providing IT solutions to its clients in Egypt, the region, and globally. Minds is headquartered in Dubai with operations offices in USA, Egypt, and KSA, empowering its clients with distinguished system development and outsourcing solutions in the fields of Internet of Things (IOT), Software development, embedded systems, and Hardware development. We have acknowledged ability to deliver Smart Automated solutions for your business processes and procedures that fits your needs.",
+              "title": "Minds Outsourcing",
+              "url": "#"
+            }
+          ]
+        },
+        "meta_title": "About Us | Razy Technologies",
+        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md",
+      "fields": {
+        "slug": "/brands/"
+      }
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: project-page\ntitle: Interactive Messaging\nslug: Interactive Messaging\ndate: '2018-12-24T05:55:49+02:00'\ncover: /img/project1.jpg\ntags:\n  - messaging\n  - TV\n  - radio\nmeta_title: Interactive Messaging\nmeta_description: >\n  As a licensed VAS provider, we have the privilege of being trusted by a lot of\n  clients from the TV, radio, and consumer brands to support their interactive\n  messaging applications all over the past 10 years with a lot of innovative\n  solutions and state of the art technologies.\n---\nThe current needs of the consumers are challenging for any brand, as technology moves rapidly with a lot of new updates and trends, that’s why we provide our unique services to the brand and media who seek to enhance their communication experience.\r\n\n\n\nAs a licensed VAS provider, we have the privilege of being trusted by a lot of clients from the TV, radio, and consumer brands to support their interactive messaging applications all over the past 10 years with a lot of innovative solutions and state of the art technologies.\r\n\n\r\n\nOur support team works around the clock to provide our clients with 24/7 support for any technical issues they need in their projects or solving any obstacles they might ace during our interactive messaging platforms.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a23de99cb01a6154156ca029eaa0798a",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Interactive Messaging",
+        "templateKey": "project-page",
+        "slug": "Interactive Messaging",
+        "date": "2018-12-24T05:55:49+02:00",
+        "cover": "/img/project1.jpg",
+        "tags": [
+          "messaging",
+          "TV",
+          "radio"
+        ],
+        "meta_title": "Interactive Messaging",
+        "meta_description": "As a licensed VAS provider, we have the privilege of being trusted by a lot of clients from the TV, radio, and consumer brands to support their interactive messaging applications all over the past 10 years with a lot of innovative solutions and state of the art technologies.\n",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md",
+      "fields": {
+        "slug": "/projects/lorem-ipsum-dolor-situm.1/"
+      }
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: article-page\ntitle: Bluetooth Printers Distribution\nslug: Bluetooth Printers Distribution\ndate: '2018-12-23T16:47:53+02:00'\ncover: /img/p.jpg\ntags:\n  - pos\n  - printer\n  - blutooth\nmeta_title: Bluetooth Printers Distribution\nmeta_description: >\n  We position ourselves as one of the best distributors in the local market of\n  Egypt with an excellent consultancy/support services with the best after-sale\n  service as we dominate the biggest share of the market.\n---\nPOS and digital payment methods are the most dominant in the Fintech industry, and this is the main reason why we provide the best Point Of Sale, Bluetooth Printers, and other payment methods to the merchants to help them provide relevant experience to their customers.\r\n\n\r\n\nWe position ourselves as one of the best distributors in the local market of Egypt with an excellent consultancy/support services with the best after-sale service as we dominate the biggest share of the market.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "dfea2919470d78fc18d821435519c984",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Bluetooth Printers Distribution",
+        "templateKey": "article-page",
+        "slug": "Bluetooth Printers Distribution",
+        "date": "2018-12-23T16:47:53+02:00",
+        "cover": "/img/p.jpg",
+        "tags": [
+          "pos",
+          "printer",
+          "blutooth"
+        ],
+        "meta_title": "Bluetooth Printers Distribution",
+        "meta_description": "We position ourselves as one of the best distributors in the local market of Egypt with an excellent consultancy/support services with the best after-sale service as we dominate the biggest share of the market.\n",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md",
+      "fields": {
+        "slug": "/projects/bluetooth-printers-distribution/"
+      }
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: project-page\ntitle: Digital Governmental Solutions\nslug: Digital Governmental Solutions\ndate: '2018-12-24T05:55:49+02:00'\ncover: /img/achievement-agreement-body-language-1179804-min.jpg\ntags:\n  - governmental\n  - solutions\nmeta_title: Digital Governmental Solutions\nmeta_description: >\n  We help our partners from the government and the public sector to spread the\n  word about the new applications to give the citizens the essential knowledge\n  to learn about the solutions and rely on them.\n---\nWe believe in the high value and importance of the citizen convenience and user friendliness, so we exert a lot of efforts to support the governmental entities with new and innovative applications that ease and accelerate the process of citizens’ needs in a seamless experience and quick performance.\r\n\n\r\n\nAlso, we help our partners from the government and the public sector to spread the word about the new applications to give the citizens the essential knowledge to learn about the solutions and rely on them.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "2a2dd41cdf4c6bb607684f019c0b2554",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Digital Governmental Solutions",
+        "templateKey": "project-page",
+        "slug": "Digital Governmental Solutions",
+        "date": "2018-12-24T05:55:49+02:00",
+        "cover": "/img/achievement-agreement-body-language-1179804-min.jpg",
+        "tags": [
+          "governmental",
+          "solutions"
+        ],
+        "meta_title": "Digital Governmental Solutions",
+        "meta_description": "We help our partners from the government and the public sector to spread the word about the new applications to give the citizens the essential knowledge to learn about the solutions and rely on them.\n",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md",
+      "fields": {
+        "slug": "/projects/lorem-ipsum-dolor-situm.2/"
+      }
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: article-page\ntitle: Loyalty Programs\nslug: Loyalty Programs\ndate: '2018-12-23T16:46:09+02:00'\ncover: /img/box-business-celebrate-296878-min.jpg\ntags:\n  - imakaseb\n  - loaylty\nmeta_title: Loyalty Programs\nmeta_description: >\n  Powered by the regional service iMakaseb, one of our international companies\n  uses our technology and development to understand the behavior of their\n  distribution and sales channels in different markets using our Mobile Loyalty\n  Applications\n---\nPowered by our regional arm, iMakaseb, one of the multinational corporate used our mobile loyalty applications to test and measure the effectiveness of their sales and distribution channels.\n\n\r\n\nPowered by the regional service iMakaseb, one of our international companies uses our technology and development to understand the behavior of their distribution and sales channels in different markets using our Mobile Loyalty Applications\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "bb64c69c676add933861fa3dda842e9e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Loyalty Programs",
+        "templateKey": "article-page",
+        "slug": "Loyalty Programs",
+        "date": "2018-12-23T16:46:09+02:00",
+        "cover": "/img/box-business-celebrate-296878-min.jpg",
+        "tags": [
+          "imakaseb",
+          "loaylty"
+        ],
+        "meta_title": "Loyalty Programs",
+        "meta_description": "Powered by the regional service iMakaseb, one of our international companies uses our technology and development to understand the behavior of their distribution and sales channels in different markets using our Mobile Loyalty Applications\n",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md",
+      "fields": {
+        "slug": "/projects/loyalty-programs/"
+      }
+    },
     "SitePage /offline-plugin-app-shell-fallback/": {
       "layout": "index",
       "jsonName": "offline-plugin-app-shell-fallback.json",
@@ -3103,29 +3265,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a615e59f7da48a8d2a94ded11932c08d",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /brands/": {
-      "layout": "index",
-      "jsonName": "brands.json",
-      "internalComponentName": "ComponentBrands",
-      "path": "/brands/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
-      "componentChunkName": "component---src-templates-brand-page-js",
-      "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
-      "id": "SitePage /brands/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5046c1aa9c7d47e42f4290c90cdf0d0f",
+        "contentDigest": "ec9bc7d1521bbade717fe10c6da378a1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3147,7 +3287,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "487f90a9fccb0e1b913dba901298ff05",
+        "contentDigest": "999f5248de3f9274260f265957f8cef6",
         "owner": "internal-data-bridge"
       }
     },
@@ -3169,7 +3309,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d9015d6f9affcdcb4c16f9cf4b21fad1",
+        "contentDigest": "f174176a08c8528f2d8c148ba9168bed",
         "owner": "internal-data-bridge"
       }
     },
@@ -3191,7 +3331,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7af189a0d496020a4c294d87fdea0136",
+        "contentDigest": "2c2857566f8cd8a30a96117070cad0af",
         "owner": "internal-data-bridge"
       }
     },
@@ -3213,29 +3353,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "acf4ce2d1eaa0b2ece98497e3b3b88a7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /projects/lorem-ipsum-dolor-situm.1/": {
-      "layout": "index",
-      "jsonName": "projects-lorem-ipsum-dolor-situm-1.json",
-      "internalComponentName": "ComponentProjectsLoremIpsumDolorSitum1",
-      "path": "/projects/lorem-ipsum-dolor-situm.1/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
-      "componentChunkName": "component---src-templates-project-page-js",
-      "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
-      "id": "SitePage /projects/lorem-ipsum-dolor-situm.1/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "74ac96ad2947b16617a0a31733bdbb5e",
+        "contentDigest": "b1ca7c792473834a8dc49b76616516e2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3257,29 +3375,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc2e0fffaaecf58b04d91b9ee5a55aa6",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /projects/lorem-ipsum-dolor-situm.2/": {
-      "layout": "index",
-      "jsonName": "projects-lorem-ipsum-dolor-situm-2.json",
-      "internalComponentName": "ComponentProjectsLoremIpsumDolorSitum2",
-      "path": "/projects/lorem-ipsum-dolor-situm.2/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
-      "componentChunkName": "component---src-templates-project-page-js",
-      "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
-      "id": "SitePage /projects/lorem-ipsum-dolor-situm.2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1110506965c52f4281800c425e6057c3",
+        "contentDigest": "e04f337afcc677a4406bb05db5d7b5e3",
         "owner": "internal-data-bridge"
       }
     },
@@ -3301,7 +3397,117 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "005890f98fddcb751f07905283f9cd58",
+        "contentDigest": "75816fd9ad7c21f90b5b81564cfd71e3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /brands/": {
+      "layout": "index",
+      "jsonName": "brands.json",
+      "internalComponentName": "ComponentBrands",
+      "path": "/brands/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
+      "componentChunkName": "component---src-templates-brand-page-js",
+      "context": {
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
+      "id": "SitePage /brands/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5c7f34264277f23a3718fc6cc0de788a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /projects/lorem-ipsum-dolor-situm.1/": {
+      "layout": "index",
+      "jsonName": "projects-lorem-ipsum-dolor-situm-1.json",
+      "internalComponentName": "ComponentProjectsLoremIpsumDolorSitum1",
+      "path": "/projects/lorem-ipsum-dolor-situm.1/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
+      "componentChunkName": "component---src-templates-project-page-js",
+      "context": {
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
+      "id": "SitePage /projects/lorem-ipsum-dolor-situm.1/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "82e49995e0f3cd43ddc6dbc871ab996f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /projects/bluetooth-printers-distribution/": {
+      "layout": "index",
+      "jsonName": "projects-bluetooth-printers-distribution.json",
+      "internalComponentName": "ComponentProjectsBluetoothPrintersDistribution",
+      "path": "/projects/bluetooth-printers-distribution/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
+      "componentChunkName": "component---src-templates-article-page-js",
+      "context": {
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
+      "id": "SitePage /projects/bluetooth-printers-distribution/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9d0dc58505bc66783993d0121fbc86d7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /projects/lorem-ipsum-dolor-situm.2/": {
+      "layout": "index",
+      "jsonName": "projects-lorem-ipsum-dolor-situm-2.json",
+      "internalComponentName": "ComponentProjectsLoremIpsumDolorSitum2",
+      "path": "/projects/lorem-ipsum-dolor-situm.2/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
+      "componentChunkName": "component---src-templates-project-page-js",
+      "context": {
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js",
+      "id": "SitePage /projects/lorem-ipsum-dolor-situm.2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0db0be63bfcc70e25c92c87a92c8eea8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /projects/loyalty-programs/": {
+      "layout": "index",
+      "jsonName": "projects-loyalty-programs.json",
+      "internalComponentName": "ComponentProjectsLoyaltyPrograms",
+      "path": "/projects/loyalty-programs/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
+      "componentChunkName": "component---src-templates-article-page-js",
+      "context": {
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
+      "id": "SitePage /projects/loyalty-programs/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "03c982c2f6b63bb83b621ccaad0ce8fd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3323,7 +3529,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "927d0e2290cf6293911917c76275ab10",
+        "contentDigest": "c3f2c37b91a8f71ebfa6324ad6d2d5cd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3345,7 +3551,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "21844c4698bba650ebc364b49f72d182",
+        "contentDigest": "54d03bee6036404ad3c219027b1bd4d0",
         "owner": "internal-data-bridge"
       }
     },
@@ -3367,51 +3573,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f59c6cae87b5d835d8aa30410e4ef4f3",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/lorem/": {
-      "layout": "index",
-      "jsonName": "tags-lorem.json",
-      "internalComponentName": "ComponentTagsLorem",
-      "path": "/tags/lorem/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "lorem"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "id": "SitePage /tags/lorem/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "01caeb54149e0e093a7b44f68c7eb650",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/ipsum/": {
-      "layout": "index",
-      "jsonName": "tags-ipsum.json",
-      "internalComponentName": "ComponentTagsIpsum",
-      "path": "/tags/ipsum/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "ipsum"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "id": "SitePage /tags/ipsum/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6be63fe297c6a9b6ee0b7de4039ce6bc",
+        "contentDigest": "5d9087c78ea2161fedc27751cfc966cd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3433,7 +3595,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b315e393af12c4d9df27adae52249673",
+        "contentDigest": "1e44db18d2281dea41f4bdfc109d4670",
         "owner": "internal-data-bridge"
       }
     },
@@ -3455,7 +3617,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ae10bb39dc707754d8004904b842c462",
+        "contentDigest": "e1bbd9db7021dc22b29b7bc036dd1fc0",
         "owner": "internal-data-bridge"
       }
     },
@@ -3477,7 +3639,227 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "78bb361a331407a18657367877867558",
+        "contentDigest": "4285c9f0504ca5497f9435158d5b5f60",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/messaging/": {
+      "layout": "index",
+      "jsonName": "tags-messaging.json",
+      "internalComponentName": "ComponentTagsMessaging",
+      "path": "/tags/messaging/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "messaging"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/messaging/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "204d2cc458950d6dec64990821d085fd",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/tv/": {
+      "layout": "index",
+      "jsonName": "tags-tv.json",
+      "internalComponentName": "ComponentTagsTv",
+      "path": "/tags/tv/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "TV"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/tv/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "44c67afe838bdda631b3cea473fa4603",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/radio/": {
+      "layout": "index",
+      "jsonName": "tags-radio.json",
+      "internalComponentName": "ComponentTagsRadio",
+      "path": "/tags/radio/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "radio"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/radio/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "49910abb61a91f4769a1b3d5a33c15b0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/pos/": {
+      "layout": "index",
+      "jsonName": "tags-pos.json",
+      "internalComponentName": "ComponentTagsPos",
+      "path": "/tags/pos/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "pos"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/pos/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6dde3b65137f3d2c6a3c7d73c67fd388",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/printer/": {
+      "layout": "index",
+      "jsonName": "tags-printer.json",
+      "internalComponentName": "ComponentTagsPrinter",
+      "path": "/tags/printer/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "printer"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/printer/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0d9a9eaf1033dfaca3bd411576f1ba2e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/blutooth/": {
+      "layout": "index",
+      "jsonName": "tags-blutooth.json",
+      "internalComponentName": "ComponentTagsBlutooth",
+      "path": "/tags/blutooth/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "blutooth"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/blutooth/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a0e0e584a21eff8d9391cd6f67356a55",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/governmental/": {
+      "layout": "index",
+      "jsonName": "tags-governmental.json",
+      "internalComponentName": "ComponentTagsGovernmental",
+      "path": "/tags/governmental/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "governmental"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/governmental/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cc8fabdc0daf44167919568b4fb79e97",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/solutions/": {
+      "layout": "index",
+      "jsonName": "tags-solutions.json",
+      "internalComponentName": "ComponentTagsSolutions",
+      "path": "/tags/solutions/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "solutions"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/solutions/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "703a15d8d6f5560a3fb045364a0e6e7b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/imakaseb/": {
+      "layout": "index",
+      "jsonName": "tags-imakaseb.json",
+      "internalComponentName": "ComponentTagsImakaseb",
+      "path": "/tags/imakaseb/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "imakaseb"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/imakaseb/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4065ddcae9b8a18dc46a0ee2c6e2c624",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/loaylty/": {
+      "layout": "index",
+      "jsonName": "tags-loaylty.json",
+      "internalComponentName": "ComponentTagsLoaylty",
+      "path": "/tags/loaylty/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "loaylty"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/loaylty/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "431ebb262fb02a42ff08a3b3dfca40cf",
         "owner": "internal-data-bridge"
       }
     },
@@ -3497,7 +3879,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d1b66e38c2736180d1f66a0d92c3cd5e",
+        "contentDigest": "2cf9f95137bbb804cf5093dc56cf2c76",
         "owner": "internal-data-bridge"
       }
     },
@@ -3517,7 +3899,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "919a20c73bdb73f92a8dfccb66b38694",
+        "contentDigest": "5268a1a19e84e1e748a2c6f057b27bcc",
         "owner": "internal-data-bridge"
       }
     },
@@ -3537,7 +3919,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4f1f7ae5b311508318490493f3d3aa2c",
+        "contentDigest": "5b77ca182e799cb520efc562f8a5f72d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3557,7 +3939,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f1aff6c5b65aa587698a41c8d2593fcf",
+        "contentDigest": "d81edd66cddb4a788be42bca152b5d4a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3577,7 +3959,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5c41d922e16a6d558449b001c504ed14",
+        "contentDigest": "d2fb43b679341e5876bb0b3e09ec2119",
         "owner": "internal-data-bridge"
       }
     }
@@ -3624,7 +4006,23 @@
         "/tags/consumer/",
         "/tags/data/",
         "/tags/brand-success/",
-        "/tags/"
+        "/tags/",
+        "/tags/messaging/",
+        "/tags/tv/",
+        "/tags/radio/",
+        "/tags/pos/",
+        "/tags/printer/",
+        "/tags/blutooth/",
+        "/tags/governmental/",
+        "/tags/solutions/",
+        "/tags/imakaseb/",
+        "/tags/loaylty/"
+      ],
+      "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark": [
+        "/projects/loyalty-programs/"
+      ],
+      "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark": [
+        "/projects/bluetooth-printers-distribution/"
       ]
     },
     "connections": {
@@ -3640,7 +4038,17 @@
         "/tags/brand-success/",
         "/blog/",
         "/projects/",
-        "/tags/"
+        "/tags/",
+        "/tags/messaging/",
+        "/tags/tv/",
+        "/tags/radio/",
+        "/tags/pos/",
+        "/tags/printer/",
+        "/tags/blutooth/",
+        "/tags/governmental/",
+        "/tags/solutions/",
+        "/tags/imakaseb/",
+        "/tags/loaylty/"
       ]
     }
   }
