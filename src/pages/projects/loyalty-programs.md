@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: Loyalty Programs
+title: 'Loyalty Programs '
 slug: Loyalty Programs
 date: '2018-12-23T16:46:09+02:00'
 cover: /img/box-business-celebrate-296878-min.jpg
