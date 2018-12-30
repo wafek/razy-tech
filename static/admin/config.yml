@@ -2,7 +2,7 @@ backend:
   name: github
   repo: razytech/Razy-Tech
   branch: master
-  base_url: https://razytechauth.herokuapp.com/
+  base_url: https://razytechauth.herokuapp.com
 
   # name: git-gateway
   # repo: osamajandali/Razy-Tech
