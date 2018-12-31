@@ -3,7 +3,7 @@ templateKey: project-page
 title: 'Loyalty Programs '
 slug: Loyalty Programs
 date: '2018-12-23T16:46:09+02:00'
-cover: /img/keeping-customers-happy.jpg
+cover: /img/happy_clients.jpg
 tags:
   - imakaseb
   - loaylty
