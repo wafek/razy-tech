@@ -1,6 +1,6 @@
 ---
 templateKey: project-page
-title: Interactive Messaging test
+title: Interactive Messaging
 slug: Interactive Messaging
 date: '2018-12-24T05:55:49+02:00'
 cover: /img/project1.jpg
