@@ -1,5 +1,5 @@
 ---
-templateKey: article-page
+templateKey: project-page
 title: 'Loyalty Programs '
 slug: Loyalty Programs
 date: '2018-12-23T16:46:09+02:00'

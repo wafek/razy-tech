@@ -1,5 +1,5 @@
 ---
-templateKey: article-page
+templateKey: project-page
 title: Bluetooth Printers Distribution
 slug: 'Bluetooth Printers Distribution '
 date: '2018-12-23T16:47:53+02:00'
