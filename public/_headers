@@ -1,0 +1,206 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/offline-plugin-app-shell-fallback/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---index-4b99e0ee08d1a4624d56.js>; rel=preload; as=script
+  Link: </component---src-templates-home-page-js-3029df5ef3beca941b72.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/contact/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---contact-6877c9c3c8489b7e99ce.js>; rel=preload; as=script
+  Link: </component---src-templates-contact-page-js-787fd57d95c572d4692c.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/about/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---about-92f45f6330eeb74da0f4.js>; rel=preload; as=script
+  Link: </component---src-templates-about-page-js-dabbd97b112ff1544031.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/solutions/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---solutions-61056004c2c49e2c8eef.js>; rel=preload; as=script
+  Link: </component---src-templates-solutions-page-js-f4a8f735c00431cb652f.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/brands/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---brands-ad86395dafcca95b8a6a.js>; rel=preload; as=script
+  Link: </component---src-templates-brand-page-js-6e97ca8c4d6b8390751d.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/blog/an-international-coffee/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---blog-an-international-coffee-5d0ea5331fc8d408ff90.js>; rel=preload; as=script
+  Link: </component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/blog/brand-success-only-with-the-right-consumer-data/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---blog-brand-success-only-with-the-right-consumer-data-c81eb1477eef9b62f866.js>; rel=preload; as=script
+  Link: </component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/projects/bluetooth-printers-distribution/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---projects-bluetooth-printers-distribution-64acc99fd396b40145a0.js>; rel=preload; as=script
+  Link: </component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/projects/digital-governmental-solutions/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---projects-digital-governmental-solutions-1a24fb4c7e91bdfe7395.js>; rel=preload; as=script
+  Link: </component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/projects/interactive-messaging-test/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---projects-interactive-messaging-test-9ae8a308e0bed6f5c5f3.js>; rel=preload; as=script
+  Link: </component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/projects/loyalty-programs/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---projects-loyalty-programs-723aa4bb7abe82737308.js>; rel=preload; as=script
+  Link: </component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/coffee/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-coffee-6004a152c1134b29a649.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/promotion/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-promotion-6384ba45f1a561718dcb.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/4-millions/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-4-millions-35e68e1f5a5228d4afdb.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/consumer/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-consumer-4a82ac6673ae5a1cf902.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/data/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-data-85a169fcfc1950c90501.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/brand-success/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-brand-success-4e79a07d37c52c813477.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/pos/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-pos-06f35db78f43f78f3d75.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/printer/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-printer-90c475f246e97a35492a.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/blutooth/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-blutooth-9640e7f6eba60f731916.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/governmental/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-governmental-f7906ff04a84d6e95b38.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/solutions/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-solutions-5f8f0f5c52c13cc5af15.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/messaging/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-messaging-60ec667c8c77bccf4604.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/tv/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-tv-29bd7bfa9a1ed350f7d6.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/radio/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-radio-8db0438b07fe3b4d04c6.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/imakaseb/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-imakaseb-3785ba52d0302f1cd669.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/loaylty/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-loaylty-321a60a4a829ff0eeca3.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/404/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---404-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-2a010ced20c501a11d1f.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/blog/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---blog-ff828e03d82cfadd30c8.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-index-js-2fa2e6fd72057d183ddd.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/projects/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---projects-ff828e03d82cfadd30c8.js>; rel=preload; as=script
+  Link: </component---src-pages-projects-index-js-1983eff2ba206f03ba0b.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/tags/
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---tags-07447230affd08527333.js>; rel=preload; as=script
+  Link: </component---src-pages-tags-index-js-35752417f2703a47d7c9.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script
+/404.html
+  Link: </commons-14abe48f8ecb363cdb80.js>; rel=preload; as=script
+  Link: </app-7b2adf2a4ee7dde807f9.js>; rel=preload; as=script
+  Link: </path---404-html-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-2a010ced20c501a11d1f.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-27dcb8757494ad537254.js>; rel=preload; as=script

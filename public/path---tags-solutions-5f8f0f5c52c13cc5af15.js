@@ -1,0 +1,2 @@
+webpackJsonp([0x9373b4271a99],{524:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/projects/digital-governmental-solutions/"},frontmatter:{title:"Digital Governmental Solutions"}}}]}},pathContext:{tag:"solutions"}}}});
+//# sourceMappingURL=path---tags-solutions-5f8f0f5c52c13cc5af15.js.map

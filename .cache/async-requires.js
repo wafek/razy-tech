@@ -2,6 +2,7 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
+  "component---node-modules-gatsby-plugin-offline-app-shell-js": require("gatsby-module-loader?name=component---node-modules-gatsby-plugin-offline-app-shell-js!/Users/osamajandali/Desktop/razy-tech/node_modules/gatsby-plugin-offline/app-shell.js"),
   "component---src-templates-home-page-js": require("gatsby-module-loader?name=component---src-templates-home-page-js!/Users/osamajandali/Desktop/razy-tech/src/templates/home-page.js"),
   "component---src-templates-contact-page-js": require("gatsby-module-loader?name=component---src-templates-contact-page-js!/Users/osamajandali/Desktop/razy-tech/src/templates/contact-page.js"),
   "component---src-templates-about-page-js": require("gatsby-module-loader?name=component---src-templates-about-page-js!/Users/osamajandali/Desktop/razy-tech/src/templates/about-page.js"),
@@ -10,7 +11,6 @@ exports.components = {
   "component---src-templates-article-page-js": require("gatsby-module-loader?name=component---src-templates-article-page-js!/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js"),
   "component---src-templates-project-page-js": require("gatsby-module-loader?name=component---src-templates-project-page-js!/Users/osamajandali/Desktop/razy-tech/src/templates/project-page.js"),
   "component---src-templates-tags-js": require("gatsby-module-loader?name=component---src-templates-tags-js!/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js"),
-  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/osamajandali/Desktop/razy-tech/.cache/dev-404-page.js"),
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!/Users/osamajandali/Desktop/razy-tech/src/pages/404.js"),
   "component---src-pages-blog-index-js": require("gatsby-module-loader?name=component---src-pages-blog-index-js!/Users/osamajandali/Desktop/razy-tech/src/pages/blog/index.js"),
   "component---src-pages-projects-index-js": require("gatsby-module-loader?name=component---src-pages-projects-index-js!/Users/osamajandali/Desktop/razy-tech/src/pages/projects/index.js"),
@@ -19,6 +19,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/osamajandali/Desktop/razy-tech/.cache/json/layout-index.json"),
+  "offline-plugin-app-shell-fallback.json": require("gatsby-module-loader?name=path---offline-plugin-app-shell-fallback!/Users/osamajandali/Desktop/razy-tech/.cache/json/offline-plugin-app-shell-fallback.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/osamajandali/Desktop/razy-tech/.cache/json/index.json"),
   "contact.json": require("gatsby-module-loader?name=path---contact!/Users/osamajandali/Desktop/razy-tech/.cache/json/contact.json"),
   "about.json": require("gatsby-module-loader?name=path---about!/Users/osamajandali/Desktop/razy-tech/.cache/json/about.json"),
@@ -46,7 +47,6 @@ exports.json = {
   "tags-radio.json": require("gatsby-module-loader?name=path---tags-radio!/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-radio.json"),
   "tags-imakaseb.json": require("gatsby-module-loader?name=path---tags-imakaseb!/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-imakaseb.json"),
   "tags-loaylty.json": require("gatsby-module-loader?name=path---tags-loaylty!/Users/osamajandali/Desktop/razy-tech/.cache/json/tags-loaylty.json"),
-  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/osamajandali/Desktop/razy-tech/.cache/json/dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/osamajandali/Desktop/razy-tech/.cache/json/404.json"),
   "blog.json": require("gatsby-module-loader?name=path---blog!/Users/osamajandali/Desktop/razy-tech/.cache/json/blog.json"),
   "projects.json": require("gatsby-module-loader?name=path---projects!/Users/osamajandali/Desktop/razy-tech/.cache/json/projects.json"),

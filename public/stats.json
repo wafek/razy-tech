@@ -1,0 +1,212 @@
+{
+  "assetsByChunkName": {
+    "path---projects-interactive-messaging-test": [
+      "path---projects-interactive-messaging-test-9ae8a308e0bed6f5c5f3.js",
+      "path---projects-interactive-messaging-test-9ae8a308e0bed6f5c5f3.js.map"
+    ],
+    "path---tags-data": [
+      "path---tags-data-85a169fcfc1950c90501.js",
+      "path---tags-data-85a169fcfc1950c90501.js.map"
+    ],
+    "component---src-templates-article-page-js": [
+      "component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js",
+      "component---src-templates-article-page-js-3c77ec45b500cbf96d8a.js.map"
+    ],
+    "path---tags-governmental": [
+      "path---tags-governmental-f7906ff04a84d6e95b38.js",
+      "path---tags-governmental-f7906ff04a84d6e95b38.js.map"
+    ],
+    "component---src-templates-project-page-js": [
+      "component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js",
+      "component---src-templates-project-page-js-3c77ec45b500cbf96d8a.js.map"
+    ],
+    "path---blog": [
+      "path---blog-ff828e03d82cfadd30c8.js",
+      "path---blog-ff828e03d82cfadd30c8.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-9a29fd6877da2060f814.js",
+      "component---src-templates-tags-js-9a29fd6877da2060f814.js.map"
+    ],
+    "path---tags-tv": [
+      "path---tags-tv-29bd7bfa9a1ed350f7d6.js",
+      "path---tags-tv-29bd7bfa9a1ed350f7d6.js.map"
+    ],
+    "path---tags": [
+      "path---tags-07447230affd08527333.js",
+      "path---tags-07447230affd08527333.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---tags-consumer": [
+      "path---tags-consumer-4a82ac6673ae5a1cf902.js",
+      "path---tags-consumer-4a82ac6673ae5a1cf902.js.map"
+    ],
+    "path---tags-4-millions": [
+      "path---tags-4-millions-35e68e1f5a5228d4afdb.js",
+      "path---tags-4-millions-35e68e1f5a5228d4afdb.js.map"
+    ],
+    "path---tags-imakaseb": [
+      "path---tags-imakaseb-3785ba52d0302f1cd669.js",
+      "path---tags-imakaseb-3785ba52d0302f1cd669.js.map"
+    ],
+    "path---solutions": [
+      "path---solutions-61056004c2c49e2c8eef.js",
+      "path---solutions-61056004c2c49e2c8eef.js.map"
+    ],
+    "path---projects-digital-governmental-solutions": [
+      "path---projects-digital-governmental-solutions-1a24fb4c7e91bdfe7395.js",
+      "path---projects-digital-governmental-solutions-1a24fb4c7e91bdfe7395.js.map"
+    ],
+    "cms": [
+      "cms-44146bc2c6c74115ecd7.js",
+      "cms.css",
+      "cms-44146bc2c6c74115ecd7.js.map",
+      "cms.css.map"
+    ],
+    "path---projects": [
+      "path---projects-ff828e03d82cfadd30c8.js",
+      "path---projects-ff828e03d82cfadd30c8.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-27dcb8757494ad537254.js",
+      "component---src-layouts-index-js-27dcb8757494ad537254.js.map"
+    ],
+    "path---tags-coffee": [
+      "path---tags-coffee-6004a152c1134b29a649.js",
+      "path---tags-coffee-6004a152c1134b29a649.js.map"
+    ],
+    "path---index": [
+      "path---index-4b99e0ee08d1a4624d56.js",
+      "path---index-4b99e0ee08d1a4624d56.js.map"
+    ],
+    "path---projects-loyalty-programs": [
+      "path---projects-loyalty-programs-723aa4bb7abe82737308.js",
+      "path---projects-loyalty-programs-723aa4bb7abe82737308.js.map"
+    ],
+    "component---src-pages-blog-index-js": [
+      "component---src-pages-blog-index-js-2fa2e6fd72057d183ddd.js",
+      "component---src-pages-blog-index-js-2fa2e6fd72057d183ddd.js.map"
+    ],
+    "component---src-templates-brand-page-js": [
+      "component---src-templates-brand-page-js-6e97ca8c4d6b8390751d.js",
+      "component---src-templates-brand-page-js-6e97ca8c4d6b8390751d.js.map"
+    ],
+    "path---tags-solutions": [
+      "path---tags-solutions-5f8f0f5c52c13cc5af15.js",
+      "path---tags-solutions-5f8f0f5c52c13cc5af15.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-2a010ced20c501a11d1f.js",
+      "component---src-pages-404-js-2a010ced20c501a11d1f.js.map"
+    ],
+    "commons": [
+      "commons-14abe48f8ecb363cdb80.js",
+      "build-js-styles.css",
+      "commons-14abe48f8ecb363cdb80.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---tags-printer": [
+      "path---tags-printer-90c475f246e97a35492a.js",
+      "path---tags-printer-90c475f246e97a35492a.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-blutooth": [
+      "path---tags-blutooth-9640e7f6eba60f731916.js",
+      "path---tags-blutooth-9640e7f6eba60f731916.js.map"
+    ],
+    "path---tags-loaylty": [
+      "path---tags-loaylty-321a60a4a829ff0eeca3.js",
+      "path---tags-loaylty-321a60a4a829ff0eeca3.js.map"
+    ],
+    "path---contact": [
+      "path---contact-6877c9c3c8489b7e99ce.js",
+      "path---contact-6877c9c3c8489b7e99ce.js.map"
+    ],
+    "component---src-templates-contact-page-js": [
+      "component---src-templates-contact-page-js-787fd57d95c572d4692c.js",
+      "component---src-templates-contact-page-js-787fd57d95c572d4692c.js.map"
+    ],
+    "path---tags-messaging": [
+      "path---tags-messaging-60ec667c8c77bccf4604.js",
+      "path---tags-messaging-60ec667c8c77bccf4604.js.map"
+    ],
+    "path---tags-promotion": [
+      "path---tags-promotion-6384ba45f1a561718dcb.js",
+      "path---tags-promotion-6384ba45f1a561718dcb.js.map"
+    ],
+    "component---src-pages-projects-index-js": [
+      "component---src-pages-projects-index-js-1983eff2ba206f03ba0b.js",
+      "component---src-pages-projects-index-js-1983eff2ba206f03ba0b.js.map"
+    ],
+    "component---src-templates-solutions-page-js": [
+      "component---src-templates-solutions-page-js-f4a8f735c00431cb652f.js",
+      "component---src-templates-solutions-page-js-f4a8f735c00431cb652f.js.map"
+    ],
+    "path---blog-brand-success-only-with-the-right-consumer-data": [
+      "path---blog-brand-success-only-with-the-right-consumer-data-c81eb1477eef9b62f866.js",
+      "path---blog-brand-success-only-with-the-right-consumer-data-c81eb1477eef9b62f866.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---projects-bluetooth-printers-distribution": [
+      "path---projects-bluetooth-printers-distribution-64acc99fd396b40145a0.js",
+      "path---projects-bluetooth-printers-distribution-64acc99fd396b40145a0.js.map"
+    ],
+    "path---blog-an-international-coffee": [
+      "path---blog-an-international-coffee-5d0ea5331fc8d408ff90.js",
+      "path---blog-an-international-coffee-5d0ea5331fc8d408ff90.js.map"
+    ],
+    "component---src-pages-tags-index-js": [
+      "component---src-pages-tags-index-js-35752417f2703a47d7c9.js",
+      "component---src-pages-tags-index-js-35752417f2703a47d7c9.js.map"
+    ],
+    "component---src-templates-home-page-js": [
+      "component---src-templates-home-page-js-3029df5ef3beca941b72.js",
+      "component---src-templates-home-page-js-3029df5ef3beca941b72.js.map"
+    ],
+    "path---tags-radio": [
+      "path---tags-radio-8db0438b07fe3b4d04c6.js",
+      "path---tags-radio-8db0438b07fe3b4d04c6.js.map"
+    ],
+    "app": [
+      "app-7b2adf2a4ee7dde807f9.js",
+      "app-7b2adf2a4ee7dde807f9.js.map"
+    ],
+    "path---tags-brand-success": [
+      "path---tags-brand-success-4e79a07d37c52c813477.js",
+      "path---tags-brand-success-4e79a07d37c52c813477.js.map"
+    ],
+    "path---tags-pos": [
+      "path---tags-pos-06f35db78f43f78f3d75.js",
+      "path---tags-pos-06f35db78f43f78f3d75.js.map"
+    ],
+    "path---brands": [
+      "path---brands-ad86395dafcca95b8a6a.js",
+      "path---brands-ad86395dafcca95b8a6a.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-about-page-js": [
+      "component---src-templates-about-page-js-dabbd97b112ff1544031.js",
+      "component---src-templates-about-page-js-dabbd97b112ff1544031.js.map"
+    ],
+    "path---about": [
+      "path---about-92f45f6330eeb74da0f4.js",
+      "path---about-92f45f6330eeb74da0f4.js.map"
+    ]
+  }
+}

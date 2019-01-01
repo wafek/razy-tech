@@ -1,0 +1,2 @@
+webpackJsonp([72499185232889],{514:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/brand-success-only-with-the-right-consumer-data/"},frontmatter:{title:"Brand Success: Only with the right consumer data"}}}]}},pathContext:{tag:"consumer"}}}});
+//# sourceMappingURL=path---tags-consumer-4a82ac6673ae5a1cf902.js.map

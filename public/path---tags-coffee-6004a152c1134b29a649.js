@@ -1,0 +1,2 @@
+webpackJsonp([0x7cf1f5db5453],{513:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/an-international-coffee/"},frontmatter:{title:"An International Coffee Brand to Engage Digitally with 5 million consumers in 4 months"}}}]}},pathContext:{tag:"coffee"}}}});
+//# sourceMappingURL=path---tags-coffee-6004a152c1134b29a649.js.map

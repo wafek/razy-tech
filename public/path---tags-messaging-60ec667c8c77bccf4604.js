@@ -1,0 +1,2 @@
+webpackJsonp([0xaea284e5f879],{519:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/projects/interactive-messaging-test/"},frontmatter:{title:"Interactive Messaging"}}}]}},pathContext:{tag:"messaging"}}}});
+//# sourceMappingURL=path---tags-messaging-60ec667c8c77bccf4604.js.map
