@@ -12,21 +12,101 @@ import { faPaperPlane } from '@fortawesome/free-solid-svg-icons'
 
 library.add(faPaperPlane)
 
-const ContactForm = ({content}) => (
-  <div className='container contact'>
-    <div className='section'>
-      <h2 className='brandTitle centerArt '>{content.title}</h2>
-      <p style={{textAlign: 'center'}}>{content.text}</p>
-      <div className='card formWrapper'>
-        <input type='text' placeholder='Name' />
-        <input type='text' placeholder='Email' />
-        <input type='text' placeholder='Phone' />
-        <TextareaAutosize placeholder='Message'/>
-        <button> <FontAwesomeIcon icon='paper-plane' /> Send</button>
+// const ContactForm = ({content}) => (
+//   <div className='container contact'>
+//     <div className='section'>
+//       <h2 className='brandTitle centerArt '>{content.title}</h2>
+//       <p style={{textAlign: 'center'}}>{content.text}</p>
+//       <div className='card formWrapper'>
+//         <input type='text' placeholder='Name' />
+//         <input type='text' placeholder='Email' />
+//         <input type='text' placeholder='Phone' />
+//         <TextareaAutosize placeholder='Message'/>
+//         <button> <FontAwesomeIcon icon='paper-plane' /> Send</button>
+//       </div>
+//     </div>
+//   </div>
+// )
+
+class ContactForm extends React.Component {
+  state = {
+    name: "",
+    email: "",
+    phone:"",
+    message:""
+  }
+
+  handleInputChange = event => {
+    const target = event.target
+    const value = target.value
+    const name = target.name
+
+    this.setState({
+      [name]: value,
+    })
+  }
+
+  handleSubmit = event => {
+    event.preventDefault()
+    var url = '//81.29.101.185/mail/send';
+    var data = this.state;
+    
+    fetch(url, {
+      method: 'POST', // or 'PUT'
+      body: JSON.stringify(data), // data can be `string` or {object}!
+      headers:{
+        'Content-Type': 'application/json'
+      }
+    }).then(res => res.json())
+    .then(response => console.log('Success:', JSON.stringify(response)))
+    .catch(error => console.error('Error:', error));
+  }
+
+  render() {
+    const {content} = this.props
+    return (
+      <form onSubmit={this.handleSubmit}>
+        <div className='container contact'>
+        <div className='section'>
+          <h2 className='brandTitle centerArt '>{content.title}</h2>
+          <p style={{textAlign: 'center'}}>{content.text}</p>
+          <div className='card formWrapper'>
+            <input
+              type="text"
+              name="name"
+              placeholder='Name'
+              value={this.state.name}
+              onChange={this.handleInputChange}
+            />
+            <input
+              type="text"
+              name="email"
+              placeholder='Email'
+              value={this.state.email}
+              onChange={this.handleInputChange}
+            />
+            <input
+              type="text"
+              name="phone"
+              placeholder='Phone'
+              value={this.state.email}
+              onChange={this.handleInputChange}
+            />
+            <TextareaAutosize 
+              type="text"
+              name="message"
+              placeholder='Message'
+              value={this.state.message}
+              onChange={this.handleInputChange}/>
+            <button> <FontAwesomeIcon icon='paper-plane' /> Send</button>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-)
+      </form>
+    )
+  }
+}
+
 const Hire = ({content}) => (
   <div className='container brands'>
     <div style={{textAlign: 'center'}}className='section'>

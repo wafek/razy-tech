@@ -1,12 +1,5 @@
 [
     {
-        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "offline-plugin-app-shell-fallback.json",
-        "path": "/offline-plugin-app-shell-fallback/"
-    },
-    {
         "componentChunkName": "component---src-templates-home-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -28,20 +21,6 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-templates-article-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-lorem-ipsum-dolor-situm-2.json",
-        "path": "/blog/lorem-ipsum-dolor-situm.2/"
-    },
-    {
-        "componentChunkName": "component---src-templates-article-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-lorem-ipsum-dolor-situm-1.json",
-        "path": "/blog/lorem-ipsum-dolor-situm.1/"
-    },
-    {
         "componentChunkName": "component---src-templates-solutions-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -56,14 +35,21 @@
         "path": "/brands/"
     },
     {
-        "componentChunkName": "component---src-templates-project-page-js",
+        "componentChunkName": "component---src-templates-article-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "projects-lorem-ipsum-dolor-situm-1.json",
-        "path": "/projects/lorem-ipsum-dolor-situm.1/"
+        "jsonName": "blog-an-international-coffee.json",
+        "path": "/blog/an-international-coffee/"
     },
     {
         "componentChunkName": "component---src-templates-article-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-brand-success-only-with-the-right-consumer-data.json",
+        "path": "/blog/brand-success-only-with-the-right-consumer-data/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "projects-bluetooth-printers-distribution.json",
@@ -73,11 +59,18 @@
         "componentChunkName": "component---src-templates-project-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "projects-lorem-ipsum-dolor-situm-2.json",
-        "path": "/projects/lorem-ipsum-dolor-situm.2/"
+        "jsonName": "projects-digital-governmental-solutions.json",
+        "path": "/projects/digital-governmental-solutions/"
     },
     {
-        "componentChunkName": "component---src-templates-article-page-js",
+        "componentChunkName": "component---src-templates-project-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "projects-interactive-messaging-test.json",
+        "path": "/projects/interactive-messaging-test/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "projects-loyalty-programs.json",
@@ -129,27 +122,6 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-messaging.json",
-        "path": "/tags/messaging/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-tv.json",
-        "path": "/tags/tv/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-radio.json",
-        "path": "/tags/radio/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-pos.json",
         "path": "/tags/pos/"
     },
@@ -185,6 +157,27 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-messaging.json",
+        "path": "/tags/messaging/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-tv.json",
+        "path": "/tags/tv/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-radio.json",
+        "path": "/tags/radio/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-imakaseb.json",
         "path": "/tags/imakaseb/"
     },
@@ -194,6 +187,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-loaylty.json",
         "path": "/tags/loaylty/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

@@ -1,2 +1,0 @@
-webpackJsonp([0xe08972b86502],{520:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/projects/bluetooth-printers-distribution/"},frontmatter:{title:"Bluetooth Printers Distribution"}}}]}},pathContext:{tag:"pos"}}}});
-//# sourceMappingURL=path---tags-pos-06f35db78f43f78f3d75.js.map

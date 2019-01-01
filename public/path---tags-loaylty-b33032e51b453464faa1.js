@@ -1,2 +1,0 @@
-webpackJsonp([0xa76e55bfefbb],{518:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Business"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/projects/loyalty-programs/"},frontmatter:{title:"Loyalty Programs"}}}]}},pathContext:{tag:"loaylty"}}}});
-//# sourceMappingURL=path---tags-loaylty-b33032e51b453464faa1.js.map

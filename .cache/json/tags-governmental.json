@@ -1,1 +1,1 @@
-{"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Business"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/projects/lorem-ipsum-dolor-situm.2/"},"frontmatter":{"title":"Digital Governmental Solutions"}}}]}},"pathContext":{"tag":"governmental"}}
+{"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Business"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/projects/digital-governmental-solutions/"},"frontmatter":{"title":"Digital Governmental Solutions"}}}]}},"pathContext":{"tag":"governmental"}}
