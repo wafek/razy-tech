@@ -33,7 +33,7 @@ brands:
         business processes and procedures that fits your needs.
       title: Minds Outsourcing
       url: '#'
-meta_title: About Us | Razy Technologies
+meta_title: Brands | Razy Technologies
 meta_description: >-
   Established in 2007 with a clear vision of offering smart services to serve
   intelligent individuals and organizations, anywhere, anytime. We sustained a
