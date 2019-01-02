@@ -20,7 +20,7 @@ brands:
         out to your base; either through a single channel or a multi-channel
         approach.
       title: iMakaseb
-      url: '#'
+      url: 'http://www.imakaseb.com/'
     - logo: /img/minds-outsourcing.png
       text: >-
         Minds is an IT outsourcing company specialized in providing IT solutions
@@ -32,7 +32,7 @@ brands:
         have acknowledged ability to deliver Smart Automated solutions for your
         business processes and procedures that fits your needs.
       title: Minds Outsourcing
-      url: '#'
+      url: 'http://www.minds-pool.com/'
 meta_title: Brands | Razy Technologies
 meta_description: >-
   Established in 2007 with a clear vision of offering smart services to serve
