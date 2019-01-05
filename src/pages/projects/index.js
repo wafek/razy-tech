@@ -16,7 +16,7 @@ export default class BlogPage extends Component {
     return (
       <div>
         <Helmet>
-          <title>Blog | Gatsby Starter Business</title>
+          <title>Projects | Razy Technologies</title>
         </Helmet>
         <Hero title='Projects' imgSrc='/img/projects-hero.png' />
         <PageShapes top1={50} top2={100} />
