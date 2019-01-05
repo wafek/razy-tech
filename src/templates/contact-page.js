@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import swal from 'sweetalert'
 
 import Hero from '../components/HeroPage'
 import Separator from '../components/Separator'
@@ -50,16 +51,19 @@ class ContactForm extends React.Component {
     event.preventDefault()
     var url = '//81.29.101.185/mail/send';
     var data = this.state;
-    
-    fetch(url, {
-      method: 'POST', // or 'PUT'
-      body: JSON.stringify(data), // data can be `string` or {object}!
-      headers:{
-        'Content-Type': 'application/json'
-      }
-    }).then(res => res.json())
-    .then(response => console.log('Success:', JSON.stringify(response)))
-    .catch(error => console.error('Error:', error));
+    if(!data || !data.email || !data.message || !data.name || !data.phone){
+      swal("Error!", "Please fill all the form!", "error")
+    }else{
+      fetch(url, {
+        method: 'POST', // or 'PUT'
+        body: JSON.stringify(data), // data can be `string` or {object}!
+        headers:{
+          'Content-Type': 'application/json'
+        }
+      }).then(res => res.json())
+      .then(response => swal("Thanks for your message!", "we will get back to you soon.", "success"))
+      .catch(error => console.error('Error:', error));
+    }
   }
 
   render() {

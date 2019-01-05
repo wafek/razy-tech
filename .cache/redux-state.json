@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "5acb276040162e993af4eac95cc0889a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1565,6 +1574,10 @@
           {
             "name": "slick-carousel",
             "version": "^1.8.1"
+          },
+          {
+            "name": "sweetalert",
+            "version": "^2.1.2"
           }
         ],
         "devDependencies": [
@@ -1639,14 +1652,16 @@
           "copyright": "All rights reserved to RZAY TECHNOLOGIES, created with <3 at TALK, LLC"
         }
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-01T23:29:55.292Z",
+      "buildTime": "2019-01-05T21:55:41.114Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a402bac5637c1fbb09f3d42891c2665a",
+        "contentDigest": "36f32df096a271b7c5e48b8237e294be",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1656,7 +1671,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2e82d9d58f94ac422caa74f466f1eec9",
+        "contentDigest": "270a87a424ae16420324922a1a8cdec8",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1667,7 +1682,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-12-19T19:36:39.332Z",
-      "accessTime": "2019-01-01T23:30:02.979Z",
+      "accessTime": "2019-01-05T21:55:49.105Z",
       "changeTime": "2018-12-20T22:06:25.217Z",
       "birthTime": "2018-10-21T09:36:58.643Z",
       "root": "/",
@@ -1685,11 +1700,11 @@
       "blksize": 4096,
       "ino": 8613374361,
       "blocks": 0,
-      "atimeMs": 1546385402979.4346,
+      "atimeMs": 1546725349104.912,
       "mtimeMs": 1545248199332.082,
       "ctimeMs": 1545343585216.554,
       "birthtimeMs": 1540114618643.331,
-      "atime": "2019-01-01T23:30:02.979Z",
+      "atime": "2019-01-05T21:55:49.105Z",
       "mtime": "2018-12-19T19:36:39.332Z",
       "ctime": "2018-12-20T22:06:25.217Z",
       "birthtime": "2018-10-21T09:36:58.643Z"
@@ -1699,7 +1714,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2b98041fe56ac259f501a33b3bfadb24",
+        "contentDigest": "3e39b3e930f66a7947d186affedb7cc2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1710,7 +1725,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-19T19:36:39.329Z",
-      "accessTime": "2019-01-01T23:30:02.987Z",
+      "accessTime": "2019-01-05T21:55:49.109Z",
       "changeTime": "2018-12-20T22:06:25.182Z",
       "birthTime": "2018-10-21T09:36:58.644Z",
       "root": "/",
@@ -1728,11 +1743,11 @@
       "blksize": 4096,
       "ino": 8613374373,
       "blocks": 0,
-      "atimeMs": 1546385402987.1917,
+      "atimeMs": 1546725349108.901,
       "mtimeMs": 1545248199329.2156,
       "ctimeMs": 1545343585181.7925,
       "birthtimeMs": 1540114618643.6897,
-      "atime": "2019-01-01T23:30:02.987Z",
+      "atime": "2019-01-05T21:55:49.109Z",
       "mtime": "2018-12-19T19:36:39.329Z",
       "ctime": "2018-12-20T22:06:25.182Z",
       "birthtime": "2018-10-21T09:36:58.644Z"
@@ -1742,7 +1757,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fbc7471c706c5cefc7ce34c70cd0eb74",
+        "contentDigest": "e56120cc35399cb13a147355f4314402",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1752,9 +1767,9 @@
       "extension": "",
       "size": 160,
       "prettySize": "160 B",
-      "modifiedTime": "2018-12-31T18:18:35.725Z",
-      "accessTime": "2019-01-01T23:30:02.987Z",
-      "changeTime": "2018-12-31T18:18:35.725Z",
+      "modifiedTime": "2019-01-05T21:35:21.161Z",
+      "accessTime": "2019-01-05T21:55:49.109Z",
+      "changeTime": "2019-01-05T21:35:21.161Z",
       "birthTime": "2018-10-21T09:36:58.644Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
@@ -1771,13 +1786,13 @@
       "blksize": 4096,
       "ino": 8613374375,
       "blocks": 0,
-      "atimeMs": 1546385402987.2114,
-      "mtimeMs": 1546280315725.013,
-      "ctimeMs": 1546280315725.013,
+      "atimeMs": 1546725349108.9192,
+      "mtimeMs": 1546724121160.641,
+      "ctimeMs": 1546724121160.641,
       "birthtimeMs": 1540114618644.0166,
-      "atime": "2019-01-01T23:30:02.987Z",
-      "mtime": "2018-12-31T18:18:35.725Z",
-      "ctime": "2018-12-31T18:18:35.725Z",
+      "atime": "2019-01-05T21:55:49.109Z",
+      "mtime": "2019-01-05T21:35:21.161Z",
+      "ctime": "2019-01-05T21:35:21.161Z",
       "birthtime": "2018-10-21T09:36:58.644Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/brands absPath of file": {
@@ -1785,7 +1800,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2a8861c502c5a8094a88f9c6486ac522",
+        "contentDigest": "f0db0d09cab887938e788d2c45521fc4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1795,9 +1810,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-12-23T18:07:01.404Z",
-      "accessTime": "2019-01-01T23:30:02.987Z",
-      "changeTime": "2018-12-23T18:07:01.404Z",
+      "modifiedTime": "2019-01-05T21:24:05.516Z",
+      "accessTime": "2019-01-05T21:55:49.109Z",
+      "changeTime": "2019-01-05T21:24:05.516Z",
       "birthTime": "2018-10-28T11:56:56.847Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
@@ -1814,13 +1829,13 @@
       "blksize": 4096,
       "ino": 8613374364,
       "blocks": 0,
-      "atimeMs": 1546385402987.2517,
-      "mtimeMs": 1545588421403.6926,
-      "ctimeMs": 1545588421403.6926,
+      "atimeMs": 1546725349108.8818,
+      "mtimeMs": 1546723445515.5325,
+      "ctimeMs": 1546723445515.5325,
       "birthtimeMs": 1540727816847.0864,
-      "atime": "2019-01-01T23:30:02.987Z",
-      "mtime": "2018-12-23T18:07:01.404Z",
-      "ctime": "2018-12-23T18:07:01.404Z",
+      "atime": "2019-01-05T21:55:49.109Z",
+      "mtime": "2019-01-05T21:24:05.516Z",
+      "ctime": "2019-01-05T21:24:05.516Z",
       "birthtime": "2018-10-28T11:56:56.847Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/contact absPath of file": {
@@ -1828,7 +1843,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "04542bcd94aabe99e023a72209d3823b",
+        "contentDigest": "c6eb3e00e8d955197a1ee51013cf446e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1839,7 +1854,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-19T19:36:39.332Z",
-      "accessTime": "2019-01-01T23:30:02.987Z",
+      "accessTime": "2019-01-05T21:55:49.109Z",
       "changeTime": "2018-12-20T22:06:25.141Z",
       "birthTime": "2018-10-21T09:36:58.645Z",
       "root": "/",
@@ -1857,11 +1872,11 @@
       "blksize": 4096,
       "ino": 8613374362,
       "blocks": 0,
-      "atimeMs": 1546385402987.2312,
+      "atimeMs": 1546725349108.963,
       "mtimeMs": 1545248199331.5913,
       "ctimeMs": 1545343585141.2786,
       "birthtimeMs": 1540114618644.5903,
-      "atime": "2019-01-01T23:30:02.987Z",
+      "atime": "2019-01-05T21:55:49.109Z",
       "mtime": "2018-12-19T19:36:39.332Z",
       "ctime": "2018-12-20T22:06:25.141Z",
       "birthtime": "2018-10-21T09:36:58.645Z"
@@ -1871,7 +1886,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f296c11f9c7267b30233094540868131",
+        "contentDigest": "a895954c717276834e523f5e3bae2b01",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1881,9 +1896,9 @@
       "extension": "",
       "size": 224,
       "prettySize": "224 B",
-      "modifiedTime": "2018-12-31T18:18:35.726Z",
-      "accessTime": "2019-01-01T23:30:02.987Z",
-      "changeTime": "2018-12-31T18:18:35.726Z",
+      "modifiedTime": "2019-01-05T21:35:21.162Z",
+      "accessTime": "2019-01-05T21:55:49.109Z",
+      "changeTime": "2019-01-05T21:35:21.162Z",
       "birthTime": "2018-11-08T21:34:26.904Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
@@ -1900,13 +1915,13 @@
       "blksize": 4096,
       "ino": 8613374367,
       "blocks": 0,
-      "atimeMs": 1546385402987.277,
-      "mtimeMs": 1546280315726.0657,
-      "ctimeMs": 1546280315726.0657,
+      "atimeMs": 1546725349108.9443,
+      "mtimeMs": 1546724121161.708,
+      "ctimeMs": 1546724121161.708,
       "birthtimeMs": 1541712866904.4685,
-      "atime": "2019-01-01T23:30:02.987Z",
-      "mtime": "2018-12-31T18:18:35.726Z",
-      "ctime": "2018-12-31T18:18:35.726Z",
+      "atime": "2019-01-05T21:55:49.109Z",
+      "mtime": "2019-01-05T21:35:21.162Z",
+      "ctime": "2019-01-05T21:35:21.162Z",
       "birthtime": "2018-11-08T21:34:26.904Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions absPath of file": {
@@ -1914,7 +1929,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "48a06a326b84a2ddf0d572885f1f8660",
+        "contentDigest": "e11cc31b33fef0ab1b16800b8d4859a7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1924,9 +1939,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-12-19T19:36:39.337Z",
-      "accessTime": "2019-01-01T23:30:02.987Z",
-      "changeTime": "2018-12-20T22:06:25.175Z",
+      "modifiedTime": "2019-01-05T21:24:05.518Z",
+      "accessTime": "2019-01-05T21:55:49.109Z",
+      "changeTime": "2019-01-05T21:24:05.518Z",
       "birthTime": "2018-10-21T09:36:58.645Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
@@ -1943,13 +1958,13 @@
       "blksize": 4096,
       "ino": 8613374371,
       "blocks": 0,
-      "atimeMs": 1546385402987.297,
-      "mtimeMs": 1545248199336.993,
-      "ctimeMs": 1545343585175.1016,
+      "atimeMs": 1546725349108.9995,
+      "mtimeMs": 1546723445517.75,
+      "ctimeMs": 1546723445517.75,
       "birthtimeMs": 1540114618645.3435,
-      "atime": "2019-01-01T23:30:02.987Z",
-      "mtime": "2018-12-19T19:36:39.337Z",
-      "ctime": "2018-12-20T22:06:25.175Z",
+      "atime": "2019-01-05T21:55:49.109Z",
+      "mtime": "2019-01-05T21:24:05.518Z",
+      "ctime": "2019-01-05T21:24:05.518Z",
       "birthtime": "2018-10-21T09:36:58.645Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/tags absPath of file": {
@@ -1957,7 +1972,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0511c187d03b9c65c0fc7087adeae39c",
+        "contentDigest": "585bd121679a7c6d64b5962047a73725",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1968,7 +1983,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-10-21T09:36:58.646Z",
-      "accessTime": "2019-01-01T23:30:02.987Z",
+      "accessTime": "2019-01-05T21:55:49.109Z",
       "changeTime": "2018-12-20T22:06:25.215Z",
       "birthTime": "2018-10-21T09:36:58.646Z",
       "root": "/",
@@ -1986,58 +2001,14 @@
       "blksize": 4096,
       "ino": 8613374379,
       "blocks": 0,
-      "atimeMs": 1546385402987.3167,
+      "atimeMs": 1546725349108.981,
       "mtimeMs": 1540114618645.7168,
       "ctimeMs": 1545343585215.4272,
       "birthtimeMs": 1540114618645.6296,
-      "atime": "2019-01-01T23:30:02.987Z",
+      "atime": "2019-01-05T21:55:49.109Z",
       "mtime": "2018-10-21T09:36:58.646Z",
       "ctime": "2018-12-20T22:06:25.215Z",
       "birthtime": "2018-10-21T09:36:58.646Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/404.js absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/404.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "0e92a465c4aef8374c37dcad8c297639",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/404.js",
-      "relativePath": "404.js",
-      "extension": "js",
-      "size": 825,
-      "prettySize": "825 B",
-      "modifiedTime": "2018-10-21T09:36:58.644Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.167Z",
-      "birthTime": "2018-10-21T09:36:58.643Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
-      "base": "404.js",
-      "ext": ".js",
-      "name": "404",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613374366,
-      "blocks": 8,
-      "atimeMs": 1545439702532.919,
-      "mtimeMs": 1540114618643.5427,
-      "ctimeMs": 1545343585167.151,
-      "birthtimeMs": 1540114618643.4277,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-10-21T09:36:58.644Z",
-      "ctime": "2018-12-20T22:06:25.167Z",
-      "birthtime": "2018-10-21T09:36:58.643Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
@@ -2046,7 +2017,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8e09cf384aec5abfabb37bc8e7620933",
+        "contentDigest": "f85db6231d4839bc3f37843f6f6e6a24",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2055,12 +2026,12 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md",
       "relativePath": "brands/index.md",
       "extension": "md",
-      "size": 2067,
-      "prettySize": "2.07 kB",
-      "modifiedTime": "2018-12-23T18:07:01.404Z",
-      "accessTime": "2018-12-23T18:07:10.558Z",
-      "changeTime": "2018-12-23T18:07:01.404Z",
-      "birthTime": "2018-12-23T18:07:01.404Z",
+      "size": 2113,
+      "prettySize": "2.11 kB",
+      "modifiedTime": "2019-01-05T21:24:05.516Z",
+      "accessTime": "2019-01-05T21:31:59.066Z",
+      "changeTime": "2019-01-05T21:24:05.516Z",
+      "birthTime": "2019-01-05T21:24:05.516Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands",
       "base": "index.md",
@@ -2074,108 +2045,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8613901737,
+      "ino": 8614543443,
       "blocks": 8,
-      "atimeMs": 1545588430558.4436,
-      "mtimeMs": 1545588421403.968,
-      "ctimeMs": 1545588421403.968,
-      "birthtimeMs": 1545588421403.6758,
-      "atime": "2018-12-23T18:07:10.558Z",
-      "mtime": "2018-12-23T18:07:01.404Z",
-      "ctime": "2018-12-23T18:07:01.404Z",
-      "birthtime": "2018-12-23T18:07:01.404Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "71e52a96fa7ed46ca024e3571ef0e9bc",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md",
-      "relativePath": "index.md",
-      "extension": "md",
-      "size": 2172,
-      "prettySize": "2.17 kB",
-      "modifiedTime": "2018-12-19T19:36:39.332Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.216Z",
-      "birthTime": "2018-12-19T19:36:39.332Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613374381,
-      "blocks": 8,
-      "atimeMs": 1545439702532.957,
-      "mtimeMs": 1545248199332.2263,
-      "ctimeMs": 1545343585216.3682,
-      "birthtimeMs": 1545248199332.0676,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-12-19T19:36:39.332Z",
-      "ctime": "2018-12-20T22:06:25.216Z",
-      "birthtime": "2018-12-19T19:36:39.332Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ff8d9d2d09fb72c9da5e0d631fb50b75",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md",
-      "relativePath": "contact/index.md",
-      "extension": "md",
-      "size": 1722,
-      "prettySize": "1.72 kB",
-      "modifiedTime": "2018-12-19T19:36:39.332Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.141Z",
-      "birthTime": "2018-12-19T19:36:39.332Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "contact",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613374363,
-      "blocks": 8,
-      "atimeMs": 1545439702532.9536,
-      "mtimeMs": 1545248199331.708,
-      "ctimeMs": 1545343585141.1138,
-      "birthtimeMs": 1545248199331.5752,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-12-19T19:36:39.332Z",
-      "ctime": "2018-12-20T22:06:25.141Z",
-      "birthtime": "2018-12-19T19:36:39.332Z"
+      "atimeMs": 1546723919065.7017,
+      "mtimeMs": 1546723445515.8857,
+      "ctimeMs": 1546723445515.8857,
+      "birthtimeMs": 1546723445515.515,
+      "atime": "2019-01-05T21:31:59.066Z",
+      "mtime": "2019-01-05T21:24:05.516Z",
+      "ctime": "2019-01-05T21:24:05.516Z",
+      "birthtime": "2019-01-05T21:24:05.516Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file",
@@ -2196,7 +2075,7 @@
       "size": 2652,
       "prettySize": "2.65 kB",
       "modifiedTime": "2018-12-19T19:36:39.329Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
+      "accessTime": "2019-01-05T21:24:44.493Z",
       "changeTime": "2018-12-20T22:06:25.182Z",
       "birthTime": "2018-12-19T19:36:39.329Z",
       "root": "/",
@@ -2214,21 +2093,111 @@
       "blksize": 4096,
       "ino": 8613374374,
       "blocks": 8,
-      "atimeMs": 1545439702532.9265,
+      "atimeMs": 1546723484493.3323,
       "mtimeMs": 1545248199329.3508,
       "ctimeMs": 1545343585181.671,
       "birthtimeMs": 1545248199329.2065,
-      "atime": "2018-12-22T00:48:22.533Z",
+      "atime": "2019-01-05T21:24:44.493Z",
       "mtime": "2018-12-19T19:36:39.329Z",
       "ctime": "2018-12-20T22:06:25.182Z",
       "birthtime": "2018-12-19T19:36:39.329Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "71e52a96fa7ed46ca024e3571ef0e9bc",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md",
+      "relativePath": "index.md",
+      "extension": "md",
+      "size": 2172,
+      "prettySize": "2.17 kB",
+      "modifiedTime": "2018-12-19T19:36:39.332Z",
+      "accessTime": "2019-01-05T21:24:44.492Z",
+      "changeTime": "2018-12-20T22:06:25.216Z",
+      "birthTime": "2018-12-19T19:36:39.332Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613374381,
+      "blocks": 8,
+      "atimeMs": 1546723484492.052,
+      "mtimeMs": 1545248199332.2263,
+      "ctimeMs": 1545343585216.3682,
+      "birthtimeMs": 1545248199332.0676,
+      "atime": "2019-01-05T21:24:44.492Z",
+      "mtime": "2018-12-19T19:36:39.332Z",
+      "ctime": "2018-12-20T22:06:25.216Z",
+      "birthtime": "2018-12-19T19:36:39.332Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/404.js absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0e92a465c4aef8374c37dcad8c297639",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 825,
+      "prettySize": "825 B",
+      "modifiedTime": "2018-10-21T09:36:58.644Z",
+      "accessTime": "2019-01-05T21:34:26.828Z",
+      "changeTime": "2018-12-20T22:06:25.167Z",
+      "birthTime": "2018-10-21T09:36:58.643Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613374366,
+      "blocks": 8,
+      "atimeMs": 1546724066828.4312,
+      "mtimeMs": 1540114618643.5427,
+      "ctimeMs": 1545343585167.151,
+      "birthtimeMs": 1540114618643.4277,
+      "atime": "2019-01-05T21:34:26.828Z",
+      "mtime": "2018-10-21T09:36:58.644Z",
+      "ctime": "2018-12-20T22:06:25.167Z",
+      "birthtime": "2018-10-21T09:36:58.643Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/index.js absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/index.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cad8143e88eba8350493353b6b963c5b",
+        "contentDigest": "febf3c5184ae765b1d3150e03da60422",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2237,12 +2206,12 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/index.js",
       "relativePath": "blog/index.js",
       "extension": "js",
-      "size": 1351,
-      "prettySize": "1.35 kB",
-      "modifiedTime": "2018-11-11T22:12:19.107Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.204Z",
-      "birthTime": "2018-11-11T22:12:19.107Z",
+      "size": 1345,
+      "prettySize": "1.34 kB",
+      "modifiedTime": "2019-01-05T21:36:59.489Z",
+      "accessTime": "2019-01-05T21:38:58.497Z",
+      "changeTime": "2019-01-05T21:36:59.489Z",
+      "birthTime": "2019-01-05T21:35:21.161Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog",
       "base": "index.js",
@@ -2256,23 +2225,299 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8613374377,
+      "ino": 8614544974,
       "blocks": 8,
-      "atimeMs": 1545439702532.9333,
-      "mtimeMs": 1541974339106.8772,
-      "ctimeMs": 1545343585204.1228,
-      "birthtimeMs": 1541974339106.5166,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-11-11T22:12:19.107Z",
-      "ctime": "2018-12-20T22:06:25.204Z",
-      "birthtime": "2018-11-11T22:12:19.107Z"
+      "atimeMs": 1546724338497.4216,
+      "mtimeMs": 1546724219488.769,
+      "ctimeMs": 1546724219488.769,
+      "birthtimeMs": 1546724121160.628,
+      "atime": "2019-01-05T21:38:58.497Z",
+      "mtime": "2019-01-05T21:36:59.489Z",
+      "ctime": "2019-01-05T21:36:59.489Z",
+      "birthtime": "2019-01-05T21:35:21.161Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "86ed1a44f2bd5a3e6fb69fd200892019",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md",
+      "relativePath": "blog/brand-success-only-with-the-right-consumer-data.md",
+      "extension": "md",
+      "size": 3571,
+      "prettySize": "3.57 kB",
+      "modifiedTime": "2018-12-31T18:18:35.725Z",
+      "accessTime": "2019-01-05T21:28:39.828Z",
+      "changeTime": "2018-12-31T18:18:35.725Z",
+      "birthTime": "2018-12-31T18:18:35.725Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog",
+      "base": "brand-success-only-with-the-right-consumer-data.md",
+      "ext": ".md",
+      "name": "brand-success-only-with-the-right-consumer-data",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613992443,
+      "blocks": 8,
+      "atimeMs": 1546723719827.982,
+      "mtimeMs": 1546280315725.1174,
+      "ctimeMs": 1546280315725.1174,
+      "birthtimeMs": 1546280315724.983,
+      "atime": "2019-01-05T21:28:39.828Z",
+      "mtime": "2018-12-31T18:18:35.725Z",
+      "ctime": "2018-12-31T18:18:35.725Z",
+      "birthtime": "2018-12-31T18:18:35.725Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9de11b2cf4d49a7e0ad4affec7c33bb2",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md",
+      "relativePath": "projects/bluetooth-printers-distribution.md",
+      "extension": "md",
+      "size": 974,
+      "prettySize": "974 B",
+      "modifiedTime": "2018-12-31T18:18:35.725Z",
+      "accessTime": "2019-01-05T21:24:44.498Z",
+      "changeTime": "2018-12-31T18:18:35.725Z",
+      "birthTime": "2018-12-31T18:18:35.725Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
+      "base": "bluetooth-printers-distribution.md",
+      "ext": ".md",
+      "name": "bluetooth-printers-distribution",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613992444,
+      "blocks": 8,
+      "atimeMs": 1546723484497.5642,
+      "mtimeMs": 1546280315725.4272,
+      "ctimeMs": 1546280315725.4272,
+      "birthtimeMs": 1546280315725.3352,
+      "atime": "2019-01-05T21:24:44.498Z",
+      "mtime": "2018-12-31T18:18:35.725Z",
+      "ctime": "2018-12-31T18:18:35.725Z",
+      "birthtime": "2018-12-31T18:18:35.725Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "863f09b257a785ce277dd6d9e34c39e0",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md",
+      "relativePath": "projects/digital-governmental-solutions.md",
+      "extension": "md",
+      "size": 1027,
+      "prettySize": "1.03 kB",
+      "modifiedTime": "2018-12-31T18:18:35.726Z",
+      "accessTime": "2019-01-05T21:24:44.498Z",
+      "changeTime": "2018-12-31T18:18:35.726Z",
+      "birthTime": "2018-12-31T18:18:35.726Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
+      "base": "digital-governmental-solutions.md",
+      "ext": ".md",
+      "name": "digital-governmental-solutions",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613992445,
+      "blocks": 8,
+      "atimeMs": 1546723484497.6875,
+      "mtimeMs": 1546280315725.646,
+      "ctimeMs": 1546280315725.646,
+      "birthtimeMs": 1546280315725.5256,
+      "atime": "2019-01-05T21:24:44.498Z",
+      "mtime": "2018-12-31T18:18:35.726Z",
+      "ctime": "2018-12-31T18:18:35.726Z",
+      "birthtime": "2018-12-31T18:18:35.726Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a92c32e49d4449ceaada3165e3c4d166",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md",
+      "relativePath": "blog/an-international-coffee.md",
+      "extension": "md",
+      "size": 4085,
+      "prettySize": "4.08 kB",
+      "modifiedTime": "2018-12-31T18:18:35.725Z",
+      "accessTime": "2019-01-05T21:24:44.494Z",
+      "changeTime": "2018-12-31T18:18:35.725Z",
+      "birthTime": "2018-12-31T18:18:35.725Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog",
+      "base": "an-international-coffee.md",
+      "ext": ".md",
+      "name": "an-international-coffee",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613992442,
+      "blocks": 8,
+      "atimeMs": 1546723484493.5989,
+      "mtimeMs": 1546280315724.879,
+      "ctimeMs": 1546280315724.879,
+      "birthtimeMs": 1546280315724.733,
+      "atime": "2019-01-05T21:24:44.494Z",
+      "mtime": "2018-12-31T18:18:35.725Z",
+      "ctime": "2018-12-31T18:18:35.725Z",
+      "birthtime": "2018-12-31T18:18:35.725Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "aebdf41294c5577ae13e26e1c4ff5305",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md",
+      "relativePath": "projects/interactive-messaging-test.md",
+      "extension": "md",
+      "size": 1276,
+      "prettySize": "1.28 kB",
+      "modifiedTime": "2018-12-31T18:18:35.726Z",
+      "accessTime": "2019-01-05T21:24:44.498Z",
+      "changeTime": "2018-12-31T18:18:35.726Z",
+      "birthTime": "2018-12-31T18:18:35.726Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
+      "base": "interactive-messaging-test.md",
+      "ext": ".md",
+      "name": "interactive-messaging-test",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613992446,
+      "blocks": 8,
+      "atimeMs": 1546723484497.8894,
+      "mtimeMs": 1546280315725.8438,
+      "ctimeMs": 1546280315725.8438,
+      "birthtimeMs": 1546280315725.7688,
+      "atime": "2019-01-05T21:24:44.498Z",
+      "mtime": "2018-12-31T18:18:35.726Z",
+      "ctime": "2018-12-31T18:18:35.726Z",
+      "birthtime": "2018-12-31T18:18:35.726Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a291fb90884f04c5277280f9c68bc1d1",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md",
+      "relativePath": "projects/loyalty-programs.md",
+      "extension": "md",
+      "size": 910,
+      "prettySize": "910 B",
+      "modifiedTime": "2018-12-31T18:18:35.726Z",
+      "accessTime": "2019-01-05T21:24:44.498Z",
+      "changeTime": "2018-12-31T18:18:35.726Z",
+      "birthTime": "2018-12-31T18:18:35.726Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
+      "base": "loyalty-programs.md",
+      "ext": ".md",
+      "name": "loyalty-programs",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613992447,
+      "blocks": 8,
+      "atimeMs": 1546723484497.9902,
+      "mtimeMs": 1546280315726.1316,
+      "ctimeMs": 1546280315726.1316,
+      "birthtimeMs": 1546280315726.0576,
+      "atime": "2019-01-05T21:24:44.498Z",
+      "mtime": "2018-12-31T18:18:35.726Z",
+      "ctime": "2018-12-31T18:18:35.726Z",
+      "birthtime": "2018-12-31T18:18:35.726Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/index.js absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/index.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "53029be909b35b5970b1f0430305b543",
+        "contentDigest": "6d56c2c8dc95af54e5a7767248f57e0a",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2281,12 +2526,12 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/index.js",
       "relativePath": "projects/index.js",
       "extension": "js",
-      "size": 1371,
+      "size": 1369,
       "prettySize": "1.37 kB",
-      "modifiedTime": "2018-11-11T22:12:19.111Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.170Z",
-      "birthTime": "2018-11-11T22:12:19.111Z",
+      "modifiedTime": "2019-01-05T21:36:48.386Z",
+      "accessTime": "2019-01-05T21:38:58.498Z",
+      "changeTime": "2019-01-05T21:36:48.386Z",
+      "birthTime": "2019-01-05T21:35:21.162Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
       "base": "index.js",
@@ -2300,16 +2545,62 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8613374369,
+      "ino": 8614544975,
       "blocks": 8,
-      "atimeMs": 1545439702532.9639,
-      "mtimeMs": 1541974339111.307,
-      "ctimeMs": 1545343585170.0947,
-      "birthtimeMs": 1541974339110.9434,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-11-11T22:12:19.111Z",
-      "ctime": "2018-12-20T22:06:25.170Z",
-      "birthtime": "2018-11-11T22:12:19.111Z"
+      "atimeMs": 1546724338498.2205,
+      "mtimeMs": 1546724208385.944,
+      "ctimeMs": 1546724208385.944,
+      "birthtimeMs": 1546724121161.6938,
+      "atime": "2019-01-05T21:38:58.498Z",
+      "mtime": "2019-01-05T21:36:48.386Z",
+      "ctime": "2019-01-05T21:36:48.386Z",
+      "birthtime": "2019-01-05T21:35:21.162Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file",
+      "children": [
+        "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ff8d9d2d09fb72c9da5e0d631fb50b75",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md",
+      "relativePath": "contact/index.md",
+      "extension": "md",
+      "size": 1722,
+      "prettySize": "1.72 kB",
+      "modifiedTime": "2018-12-19T19:36:39.332Z",
+      "accessTime": "2019-01-05T21:24:44.497Z",
+      "changeTime": "2018-12-20T22:06:25.141Z",
+      "birthTime": "2018-12-19T19:36:39.332Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "contact",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613374363,
+      "blocks": 8,
+      "atimeMs": 1546723484497.3088,
+      "mtimeMs": 1545248199331.708,
+      "ctimeMs": 1545343585141.1138,
+      "birthtimeMs": 1545248199331.5752,
+      "atime": "2019-01-05T21:24:44.497Z",
+      "mtime": "2018-12-19T19:36:39.332Z",
+      "ctime": "2018-12-20T22:06:25.141Z",
+      "birthtime": "2018-12-19T19:36:39.332Z"
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/tags/index.js absPath of file": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/tags/index.js absPath of file",
@@ -2328,7 +2619,7 @@
       "size": 1677,
       "prettySize": "1.68 kB",
       "modifiedTime": "2018-10-21T09:36:58.646Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
+      "accessTime": "2019-01-05T21:34:26.829Z",
       "changeTime": "2018-12-20T22:06:25.215Z",
       "birthTime": "2018-10-21T09:36:58.646Z",
       "root": "/",
@@ -2346,11 +2637,11 @@
       "blksize": 4096,
       "ino": 8613374380,
       "blocks": 8,
-      "atimeMs": 1545439702532.9849,
+      "atimeMs": 1546724066828.5059,
       "mtimeMs": 1540114618645.8123,
       "ctimeMs": 1545343585215.3093,
       "birthtimeMs": 1540114618645.707,
-      "atime": "2018-12-22T00:48:22.533Z",
+      "atime": "2019-01-05T21:34:26.829Z",
       "mtime": "2018-10-21T09:36:58.646Z",
       "ctime": "2018-12-20T22:06:25.215Z",
       "birthtime": "2018-10-21T09:36:58.646Z"
@@ -2362,7 +2653,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3f91b2ab67501c5957663632d8173522",
+        "contentDigest": "14400d3b3a1f0de7105c9d53b3d9237f",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2371,12 +2662,12 @@
       "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md",
       "relativePath": "solutions/index.md",
       "extension": "md",
-      "size": 3864,
-      "prettySize": "3.86 kB",
-      "modifiedTime": "2018-12-19T19:36:39.337Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:25.175Z",
-      "birthTime": "2018-12-19T19:36:39.337Z",
+      "size": 3865,
+      "prettySize": "3.87 kB",
+      "modifiedTime": "2019-01-05T21:24:05.518Z",
+      "accessTime": "2019-01-05T21:24:44.108Z",
+      "changeTime": "2019-01-05T21:24:05.518Z",
+      "birthTime": "2019-01-05T21:24:05.518Z",
       "root": "/",
       "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions",
       "base": "index.md",
@@ -2390,16 +2681,123 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8613374372,
+      "ino": 8614543444,
       "blocks": 8,
-      "atimeMs": 1545439702532.9783,
-      "mtimeMs": 1545248199337.4216,
-      "ctimeMs": 1545343585174.5,
-      "birthtimeMs": 1545248199336.9543,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-12-19T19:36:39.337Z",
-      "ctime": "2018-12-20T22:06:25.175Z",
-      "birthtime": "2018-12-19T19:36:39.337Z"
+      "atimeMs": 1546723484108.4446,
+      "mtimeMs": 1546723445518.169,
+      "ctimeMs": 1546723445518.169,
+      "birthtimeMs": 1546723445517.733,
+      "atime": "2019-01-05T21:24:44.108Z",
+      "mtime": "2019-01-05T21:24:05.518Z",
+      "ctime": "2019-01-05T21:24:05.518Z",
+      "birthtime": "2019-01-05T21:24:05.518Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: brand-page\ntitle: Brands\nhero_image: /img/brands-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\nbrands:\n  blurbs:\n    - logo: /img/iMakaseb.png\n      text: >-\n        iMakaseb empowers you to engage your target audience based on your\n        objectives and the audience’s profile; ranging from simple digital\n        raffle draws and digital “Send and Get” concepts to sophisticated\n        omni-channel loyalty programs and schemes. The iMakaseb cloud based\n        platform offers you a wide range of digital channels for you to reach\n        out to your base; either through a single channel or a multi-channel\n        approach.\n      title: iMakaseb\n      url: 'http://www.imakaseb.com/'\n    - logo: /img/minds-outsourcing.png\n      text: >-\n        Minds is an IT outsourcing company specialized in providing IT solutions\n        to its clients in Egypt, the region, and globally. Minds is\n        headquartered in Dubai with operations offices in USA, Egypt, and KSA,\n        empowering its clients with distinguished system development and\n        outsourcing solutions in the fields of Internet of Things (IOT),\n        Software development, embedded systems, and Hardware development. We\n        have acknowledged ability to deliver Smart Automated solutions for your\n        business processes and procedures that fits your needs.\n      title: Minds Outsourcing\n      url: 'http://www.minds-pool.com/'\nmeta_title: Brands | Razy Technologies\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "92718affc9f0b4a2ef2bb17d59a2dded",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Brands",
+        "templateKey": "brand-page",
+        "hero_image": "/img/brands-hero.png",
+        "page_description": {
+          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
+          "title": "BACKGROUND"
+        },
+        "brands": {
+          "blurbs": [
+            {
+              "logo": "/img/iMakaseb.png",
+              "text": "iMakaseb empowers you to engage your target audience based on your objectives and the audience’s profile; ranging from simple digital raffle draws and digital “Send and Get” concepts to sophisticated omni-channel loyalty programs and schemes. The iMakaseb cloud based platform offers you a wide range of digital channels for you to reach out to your base; either through a single channel or a multi-channel approach.",
+              "title": "iMakaseb",
+              "url": "http://www.imakaseb.com/"
+            },
+            {
+              "logo": "/img/minds-outsourcing.png",
+              "text": "Minds is an IT outsourcing company specialized in providing IT solutions to its clients in Egypt, the region, and globally. Minds is headquartered in Dubai with operations offices in USA, Egypt, and KSA, empowering its clients with distinguished system development and outsourcing solutions in the fields of Internet of Things (IOT), Software development, embedded systems, and Hardware development. We have acknowledged ability to deliver Smart Automated solutions for your business processes and procedures that fits your needs.",
+              "title": "Minds Outsourcing",
+              "url": "http://www.minds-pool.com/"
+            }
+          ]
+        },
+        "meta_title": "Brands | Razy Technologies",
+        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md",
+      "fields": {
+        "slug": "/brands/"
+      }
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: about-page\ntitle: About Us\nhero_image: /img/about-us-hero.png\npage_description:\n  text: >-\n    Established in 2007 with a clear vision of offering smart services to serve\n    intelligent individuals and organizations, anywhere, anytime. We sustained a\n    high growth rate by increasing our business capacity while launching new\n    ventures to rank among the best specialized mobile service providers in the\n    region with a timely delivery, economic pricing and trusted methodologies.\n  title: OUR STORY\nbussiness_structure:\n  text: >-\n    With its headquarter in Cairo, Egypt, Razy Technologies (RazyTech) is a\n    group of companies with representative offices in the USA, UAE and KSA. The\n    thing that enables our 800 employees to operate effectively and launch\n    multiple success stories such as E-Masary with a successful exit valued at\n    $20M, iMakaseb for Loyalty & Promotions Solutions, Papyrus Egypt, and Minds\n    Outsourcing serving a wide range of clients across the MENA region, Africa\n    and Asia. Razy Technologies is a licensed GSM Value Added Service Provider\n    by the National Telecommunications Regulator Affairs of the Republic of\n    Egypt, offering top-notch VAS solutions to local and regional clients with a\n    deep believe in making use of the latest technology trends alongside with\n    the outsourcing and customer loyalty services.\n  title: BUSSINESS STRUCTURE\nlocations:\n  places:\n    - label: Egypt\n    - label: USA\n    - label: UAE\n    - label: KSA\n  text: Razy Technologies (RazyTech) is a corporate with headquarter\n  title: OUR LOCATIONS\nexpansion:\n  left_paragraph: >-\n    Currently, the company provides an integrated range of solutions to the\n    brands in the region that supports customer base growth and sales increase\n    with a dedication to attach potential buyers with brands & provide\n    innovative sustainable tech solutions.\n  right_parahraph: >-\n    Razy Technologies kept its exponential growth rate in the regional market\n    with a unique offering and many competitive edges in the market, the\n    powerful factors that empowered the services growth rate and successful exit\n    of some ventures.\n  title: EXPANSION\nmeta_title: About Us | Razy Technologies\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9de700f2b281bb71f0bf450081c6bf0c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About Us",
+        "templateKey": "about-page",
+        "hero_image": "/img/about-us-hero.png",
+        "page_description": {
+          "text": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
+          "title": "OUR STORY"
+        },
+        "bussiness_structure": {
+          "text": "With its headquarter in Cairo, Egypt, Razy Technologies (RazyTech) is a group of companies with representative offices in the USA, UAE and KSA. The thing that enables our 800 employees to operate effectively and launch multiple success stories such as E-Masary with a successful exit valued at $20M, iMakaseb for Loyalty & Promotions Solutions, Papyrus Egypt, and Minds Outsourcing serving a wide range of clients across the MENA region, Africa and Asia. Razy Technologies is a licensed GSM Value Added Service Provider by the National Telecommunications Regulator Affairs of the Republic of Egypt, offering top-notch VAS solutions to local and regional clients with a deep believe in making use of the latest technology trends alongside with the outsourcing and customer loyalty services.",
+          "title": "BUSSINESS STRUCTURE"
+        },
+        "locations": {
+          "places": [
+            {
+              "label": "Egypt"
+            },
+            {
+              "label": "USA"
+            },
+            {
+              "label": "UAE"
+            },
+            {
+              "label": "KSA"
+            }
+          ],
+          "text": "Razy Technologies (RazyTech) is a corporate with headquarter",
+          "title": "OUR LOCATIONS"
+        },
+        "expansion": {
+          "left_paragraph": "Currently, the company provides an integrated range of solutions to the brands in the region that supports customer base growth and sales increase with a dedication to attach potential buyers with brands & provide innovative sustainable tech solutions.",
+          "right_parahraph": "Razy Technologies kept its exponential growth rate in the regional market with a unique offering and many competitive edges in the market, the powerful factors that empowered the services growth rate and successful exit of some ventures.",
+          "title": "EXPANSION"
+        },
+        "meta_title": "About Us | Razy Technologies",
+        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
+      }
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark",
@@ -2465,615 +2863,6 @@
       "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md",
       "fields": {
         "slug": "/"
-      }
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: contact-page\ntitle: Contact Us\nhero_image: /img/contact-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\ncontact_form:\n  text: >-\n    For any business inquiry, do not hesitate to contact us using the form\n    below.\n  title: Have a question ?\nhire:\n  email: hr@razytech.com\n  text: Looking for a challenging career in a dynamic growing environment?\n  title: WANT TO WORK WITH US\ncontact_details:\n  address: 'Building 1, Street 41, Diplomat Area, Mokattam, Cairo, Egypt'\n  fax: +2 284 440\n  mobile: +2 01116662661\n  telephone: +2 02 284 440 69 - +2 02 284 448 77\nmap: >-\n  <iframe\n  src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.779437922176!2d31.28625331511439!3d30.014488981893198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145838cbd4c434ef%3A0xd66edf3628c2028f!2zUmF6eSBUZWNobm9sb2dpZXMgSFEuINi02LHZg9ipINin2YTYsdin2LLZiiDZhNmE2K7Yr9mF2KfYqiDYp9mE2KrZg9mG2YjZhNmI2KzZitip!5e0!3m2!1sen!2sro!4v1540734710787\"\n  width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\"\n  allowfullscreen></iframe>\nmeta_title: Contact Us | Razy Technologiess\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "cc76949ad0ee5de0274689e66b39c0df",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Contact Us",
-        "templateKey": "contact-page",
-        "hero_image": "/img/contact-hero.png",
-        "page_description": {
-          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
-          "title": "BACKGROUND"
-        },
-        "contact_form": {
-          "text": "For any business inquiry, do not hesitate to contact us using the form below.",
-          "title": "Have a question ?"
-        },
-        "hire": {
-          "email": "hr@razytech.com",
-          "text": "Looking for a challenging career in a dynamic growing environment?",
-          "title": "WANT TO WORK WITH US"
-        },
-        "contact_details": {
-          "address": "Building 1, Street 41, Diplomat Area, Mokattam, Cairo, Egypt",
-          "fax": "+2 284 440",
-          "mobile": "+2 01116662661",
-          "telephone": "+2 02 284 440 69 - +2 02 284 448 77"
-        },
-        "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.779437922176!2d31.28625331511439!3d30.014488981893198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145838cbd4c434ef%3A0xd66edf3628c2028f!2zUmF6eSBUZWNobm9sb2dpZXMgSFEuINi02LHZg9ipINin2YTYsdin2LLZiiDZhNmE2K7Yr9mF2KfYqiDYp9mE2KrZg9mG2YjZhNmI2KzZitip!5e0!3m2!1sen!2sro!4v1540734710787\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
-        "meta_title": "Contact Us | Razy Technologiess",
-        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md",
-      "fields": {
-        "slug": "/contact/"
-      }
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: about-page\ntitle: About Us\nhero_image: /img/about-us-hero.png\npage_description:\n  text: >-\n    Established in 2007 with a clear vision of offering smart services to serve\n    intelligent individuals and organizations, anywhere, anytime. We sustained a\n    high growth rate by increasing our business capacity while launching new\n    ventures to rank among the best specialized mobile service providers in the\n    region with a timely delivery, economic pricing and trusted methodologies.\n  title: OUR STORY\nbussiness_structure:\n  text: >-\n    With its headquarter in Cairo, Egypt, Razy Technologies (RazyTech) is a\n    group of companies with representative offices in the USA, UAE and KSA. The\n    thing that enables our 800 employees to operate effectively and launch\n    multiple success stories such as E-Masary with a successful exit valued at\n    $20M, iMakaseb for Loyalty & Promotions Solutions, Papyrus Egypt, and Minds\n    Outsourcing serving a wide range of clients across the MENA region, Africa\n    and Asia. Razy Technologies is a licensed GSM Value Added Service Provider\n    by the National Telecommunications Regulator Affairs of the Republic of\n    Egypt, offering top-notch VAS solutions to local and regional clients with a\n    deep believe in making use of the latest technology trends alongside with\n    the outsourcing and customer loyalty services.\n  title: BUSSINESS STRUCTURE\nlocations:\n  places:\n    - label: Egypt\n    - label: USA\n    - label: UAE\n    - label: KSA\n  text: Razy Technologies (RazyTech) is a corporate with headquarter\n  title: OUR LOCATIONS\nexpansion:\n  left_paragraph: >-\n    Currently, the company provides an integrated range of solutions to the\n    brands in the region that supports customer base growth and sales increase\n    with a dedication to attach potential buyers with brands & provide\n    innovative sustainable tech solutions.\n  right_parahraph: >-\n    Razy Technologies kept its exponential growth rate in the regional market\n    with a unique offering and many competitive edges in the market, the\n    powerful factors that empowered the services growth rate and successful exit\n    of some ventures.\n  title: EXPANSION\nmeta_title: About Us | Razy Technologies\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "9de700f2b281bb71f0bf450081c6bf0c",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About Us",
-        "templateKey": "about-page",
-        "hero_image": "/img/about-us-hero.png",
-        "page_description": {
-          "text": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
-          "title": "OUR STORY"
-        },
-        "bussiness_structure": {
-          "text": "With its headquarter in Cairo, Egypt, Razy Technologies (RazyTech) is a group of companies with representative offices in the USA, UAE and KSA. The thing that enables our 800 employees to operate effectively and launch multiple success stories such as E-Masary with a successful exit valued at $20M, iMakaseb for Loyalty & Promotions Solutions, Papyrus Egypt, and Minds Outsourcing serving a wide range of clients across the MENA region, Africa and Asia. Razy Technologies is a licensed GSM Value Added Service Provider by the National Telecommunications Regulator Affairs of the Republic of Egypt, offering top-notch VAS solutions to local and regional clients with a deep believe in making use of the latest technology trends alongside with the outsourcing and customer loyalty services.",
-          "title": "BUSSINESS STRUCTURE"
-        },
-        "locations": {
-          "places": [
-            {
-              "label": "Egypt"
-            },
-            {
-              "label": "USA"
-            },
-            {
-              "label": "UAE"
-            },
-            {
-              "label": "KSA"
-            }
-          ],
-          "text": "Razy Technologies (RazyTech) is a corporate with headquarter",
-          "title": "OUR LOCATIONS"
-        },
-        "expansion": {
-          "left_paragraph": "Currently, the company provides an integrated range of solutions to the brands in the region that supports customer base growth and sales increase with a dedication to attach potential buyers with brands & provide innovative sustainable tech solutions.",
-          "right_parahraph": "Razy Technologies kept its exponential growth rate in the regional market with a unique offering and many competitive edges in the market, the powerful factors that empowered the services growth rate and successful exit of some ventures.",
-          "title": "EXPANSION"
-        },
-        "meta_title": "About Us | Razy Technologies",
-        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md",
-      "fields": {
-        "slug": "/about/"
-      }
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: solutions-page\ntitle: Solutions\nhero_image: /img/solutions-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\nsolutions:\n  blurbs:\n    - logo: /img/VAS.png\n      text: >-\n        Our power in providing top-notch mobile services lies between being\n        directly connected to the SMS Gateways of the four local mobile\n        operators in Egypt alongside with our regional partnerships with Global\n        Messaging gateways, our reel of services include:\n          - Premium SMS with Short Numbers\n          - Bulk SMS and Advertising\n          - Location based messaging\n          - Subscription based services with digital content\n          - IP messaging gateway\n          - BOT applications\n          - Direct Carrier Billing capability offered for several regional partners\n      title: VALUE ADDED SERVICES\n    - logo: /img/DGS.png\n      text: >-\n        We had the privilege to partner with the Egyptian government in\n        innovative mobile governmental application initiatives.Our product\n        experts handled the strategy, planning and development of the initiative\n        applications such as:Government Employees Network Traffic Tickets\n        Application Government Tenders Suggestions & Complains\n      title: DIGITAL GOVERNMENT SERVICES\n    - logo: /img/LPS.png\n      text: >-\n        We are a proud owner of the shining star, iMakaseb, that is an\n        innovative omni-channel consumer engagement cloud services, with\n        multiple solutions designed to achieve an integrated offering to\n        everything related to customer loyalty and promotion solutions. Our\n        product design experts build end-to-end campaign scenarios uniquely to\n        serve our clients’ marketing objectives which are integrated online with\n        mobile and payment platforms, the mixture that allows an immediate\n        offered value such as mobile credit or multi-media content besides\n        traditional “grand prize” options. The iMakaseb experts deliver\n        campaigns digitally and via mobiles to ensure building one to one\n        customized engaging relationships with the targeted customer base while\n        gaining valuable insights about their behavior and preferences. iMakaseb\n        Specialties are mainly focused on: Mobile Contest Online Sales\n        Promotions Mobile Sales Promotions Digital Campaigns   \n      title: LOYALTY AND PROMOTION SOLUTION\n    - logo: /img/SDP.png\n      text: >-\n        We position ourselves as a leading provider in the specialized devices\n        development and localization domains; As we developed and delivered\n        Wireless POS devices for Payment Service Providers as one of the main\n        suppliers for Mobile Printers in the region. We successfully delivered\n        more than 20K devices since 2014 with localized customized experience\n        alongside with distribution and maintenance of our local devices in\n        Egypt. Our innovation team always strives to get the state of art in the\n        domain of specialized devices & POS world, to offer our clients an\n        endless support and consultancy for the best customer experience.\n      title: SPECIALIZED DEVICES & POS\nmeta_title: About Us | Razy Technologies\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "fa16b66b4cfc7a4d19bbdc0edb2ce9b5",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Solutions",
-        "templateKey": "solutions-page",
-        "hero_image": "/img/solutions-hero.png",
-        "page_description": {
-          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
-          "title": "BACKGROUND"
-        },
-        "solutions": {
-          "blurbs": [
-            {
-              "logo": "/img/VAS.png",
-              "text": "Our power in providing top-notch mobile services lies between being directly connected to the SMS Gateways of the four local mobile operators in Egypt alongside with our regional partnerships with Global Messaging gateways, our reel of services include:\n  - Premium SMS with Short Numbers\n  - Bulk SMS and Advertising\n  - Location based messaging\n  - Subscription based services with digital content\n  - IP messaging gateway\n  - BOT applications\n  - Direct Carrier Billing capability offered for several regional partners",
-              "title": "VALUE ADDED SERVICES"
-            },
-            {
-              "logo": "/img/DGS.png",
-              "text": "We had the privilege to partner with the Egyptian government in innovative mobile governmental application initiatives.Our product experts handled the strategy, planning and development of the initiative applications such as:Government Employees Network Traffic Tickets Application Government Tenders Suggestions & Complains",
-              "title": "DIGITAL GOVERNMENT SERVICES"
-            },
-            {
-              "logo": "/img/LPS.png",
-              "text": "We are a proud owner of the shining star, iMakaseb, that is an innovative omni-channel consumer engagement cloud services, with multiple solutions designed to achieve an integrated offering to everything related to customer loyalty and promotion solutions. Our product design experts build end-to-end campaign scenarios uniquely to serve our clients’ marketing objectives which are integrated online with mobile and payment platforms, the mixture that allows an immediate offered value such as mobile credit or multi-media content besides traditional “grand prize” options. The iMakaseb experts deliver campaigns digitally and via mobiles to ensure building one to one customized engaging relationships with the targeted customer base while gaining valuable insights about their behavior and preferences. iMakaseb Specialties are mainly focused on: Mobile Contest Online Sales Promotions Mobile Sales Promotions Digital Campaigns   ",
-              "title": "LOYALTY AND PROMOTION SOLUTION"
-            },
-            {
-              "logo": "/img/SDP.png",
-              "text": "We position ourselves as a leading provider in the specialized devices development and localization domains; As we developed and delivered Wireless POS devices for Payment Service Providers as one of the main suppliers for Mobile Printers in the region. We successfully delivered more than 20K devices since 2014 with localized customized experience alongside with distribution and maintenance of our local devices in Egypt. Our innovation team always strives to get the state of art in the domain of specialized devices & POS world, to offer our clients an endless support and consultancy for the best customer experience.",
-              "title": "SPECIALIZED DEVICES & POS"
-            }
-          ]
-        },
-        "meta_title": "About Us | Razy Technologies",
-        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md",
-      "fields": {
-        "slug": "/solutions/"
-      }
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/img absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/img absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d4b8c6c7662dc6bcb43e2eced3a01ee4",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/img",
-      "relativePath": "",
-      "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2018-11-11T22:12:19.105Z",
-      "accessTime": "2019-01-01T23:30:03.044Z",
-      "changeTime": "2018-12-20T22:06:24.974Z",
-      "birthTime": "2018-10-21T09:36:58.642Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src",
-      "base": "img",
-      "ext": "",
-      "name": "img",
-      "relativeDirectory": "..",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613374296,
-      "blocks": 0,
-      "atimeMs": 1546385403044.14,
-      "mtimeMs": 1541974339105.401,
-      "ctimeMs": 1545343584973.9038,
-      "birthtimeMs": 1540114618642.3215,
-      "atime": "2019-01-01T23:30:03.044Z",
-      "mtime": "2018-11-11T22:12:19.105Z",
-      "ctime": "2018-12-20T22:06:24.974Z",
-      "birthtime": "2018-10-21T09:36:58.642Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/img/favicon.ico absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/img/favicon.ico absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9664a6a3fd91be06b6191f9ca18b3912",
-        "mediaType": "image/x-icon",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/img/favicon.ico",
-      "relativePath": "favicon.ico",
-      "extension": "ico",
-      "size": 15086,
-      "prettySize": "15.1 kB",
-      "modifiedTime": "2018-11-11T22:12:19.106Z",
-      "accessTime": "2018-12-22T00:48:22.533Z",
-      "changeTime": "2018-12-20T22:06:24.973Z",
-      "birthTime": "2018-11-11T22:12:19.105Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/img",
-      "base": "favicon.ico",
-      "ext": ".ico",
-      "name": "favicon",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613374297,
-      "blocks": 32,
-      "atimeMs": 1545439702532.9023,
-      "mtimeMs": 1541974339105.6572,
-      "ctimeMs": 1545343584973.142,
-      "birthtimeMs": 1541974339105.3926,
-      "atime": "2018-12-22T00:48:22.533Z",
-      "mtime": "2018-11-11T22:12:19.106Z",
-      "ctime": "2018-12-20T22:06:24.973Z",
-      "birthtime": "2018-11-11T22:12:19.105Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9de11b2cf4d49a7e0ad4affec7c33bb2",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md",
-      "relativePath": "projects/bluetooth-printers-distribution.md",
-      "extension": "md",
-      "size": 974,
-      "prettySize": "974 B",
-      "modifiedTime": "2018-12-31T18:18:35.725Z",
-      "accessTime": "2018-12-31T18:37:41.500Z",
-      "changeTime": "2018-12-31T18:18:35.725Z",
-      "birthTime": "2018-12-31T18:18:35.725Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
-      "base": "bluetooth-printers-distribution.md",
-      "ext": ".md",
-      "name": "bluetooth-printers-distribution",
-      "relativeDirectory": "projects",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613992444,
-      "blocks": 8,
-      "atimeMs": 1546281461500.104,
-      "mtimeMs": 1546280315725.4272,
-      "ctimeMs": 1546280315725.4272,
-      "birthtimeMs": 1546280315725.3352,
-      "atime": "2018-12-31T18:37:41.500Z",
-      "mtime": "2018-12-31T18:18:35.725Z",
-      "ctime": "2018-12-31T18:18:35.725Z",
-      "birthtime": "2018-12-31T18:18:35.725Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a291fb90884f04c5277280f9c68bc1d1",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md",
-      "relativePath": "projects/loyalty-programs.md",
-      "extension": "md",
-      "size": 910,
-      "prettySize": "910 B",
-      "modifiedTime": "2018-12-31T18:18:35.726Z",
-      "accessTime": "2018-12-31T18:37:41.500Z",
-      "changeTime": "2018-12-31T18:18:35.726Z",
-      "birthTime": "2018-12-31T18:18:35.726Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
-      "base": "loyalty-programs.md",
-      "ext": ".md",
-      "name": "loyalty-programs",
-      "relativeDirectory": "projects",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613992447,
-      "blocks": 8,
-      "atimeMs": 1546281461500.3315,
-      "mtimeMs": 1546280315726.1316,
-      "ctimeMs": 1546280315726.1316,
-      "birthtimeMs": 1546280315726.0576,
-      "atime": "2018-12-31T18:37:41.500Z",
-      "mtime": "2018-12-31T18:18:35.726Z",
-      "ctime": "2018-12-31T18:18:35.726Z",
-      "birthtime": "2018-12-31T18:18:35.726Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: brand-page\ntitle: Brands\nhero_image: /img/brands-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\nbrands:\n  blurbs:\n    - logo: /img/iMakaseb.png\n      text: >-\n        iMakaseb empowers you to engage your target audience based on your\n        objectives and the audience’s profile; ranging from simple digital\n        raffle draws and digital “Send and Get” concepts to sophisticated\n        omni-channel loyalty programs and schemes. The iMakaseb cloud based\n        platform offers you a wide range of digital channels for you to reach\n        out to your base; either through a single channel or a multi-channel\n        approach.\n      title: iMakaseb\n      url: '#'\n    - logo: /img/minds-outsourcing.png\n      text: >-\n        Minds is an IT outsourcing company specialized in providing IT solutions\n        to its clients in Egypt, the region, and globally. Minds is\n        headquartered in Dubai with operations offices in USA, Egypt, and KSA,\n        empowering its clients with distinguished system development and\n        outsourcing solutions in the fields of Internet of Things (IOT),\n        Software development, embedded systems, and Hardware development. We\n        have acknowledged ability to deliver Smart Automated solutions for your\n        business processes and procedures that fits your needs.\n      title: Minds Outsourcing\n      url: '#'\nmeta_title: About Us | Razy Technologies\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "a9d8fcaf07b946e968c885dee189ee54",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Brands",
-        "templateKey": "brand-page",
-        "hero_image": "/img/brands-hero.png",
-        "page_description": {
-          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
-          "title": "BACKGROUND"
-        },
-        "brands": {
-          "blurbs": [
-            {
-              "logo": "/img/iMakaseb.png",
-              "text": "iMakaseb empowers you to engage your target audience based on your objectives and the audience’s profile; ranging from simple digital raffle draws and digital “Send and Get” concepts to sophisticated omni-channel loyalty programs and schemes. The iMakaseb cloud based platform offers you a wide range of digital channels for you to reach out to your base; either through a single channel or a multi-channel approach.",
-              "title": "iMakaseb",
-              "url": "#"
-            },
-            {
-              "logo": "/img/minds-outsourcing.png",
-              "text": "Minds is an IT outsourcing company specialized in providing IT solutions to its clients in Egypt, the region, and globally. Minds is headquartered in Dubai with operations offices in USA, Egypt, and KSA, empowering its clients with distinguished system development and outsourcing solutions in the fields of Internet of Things (IOT), Software development, embedded systems, and Hardware development. We have acknowledged ability to deliver Smart Automated solutions for your business processes and procedures that fits your needs.",
-              "title": "Minds Outsourcing",
-              "url": "#"
-            }
-          ]
-        },
-        "meta_title": "About Us | Razy Technologies",
-        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md",
-      "fields": {
-        "slug": "/brands/"
-      }
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a92c32e49d4449ceaada3165e3c4d166",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md",
-      "relativePath": "blog/an-international-coffee.md",
-      "extension": "md",
-      "size": 4085,
-      "prettySize": "4.08 kB",
-      "modifiedTime": "2018-12-31T18:18:35.725Z",
-      "accessTime": "2018-12-31T18:37:41.499Z",
-      "changeTime": "2018-12-31T18:18:35.725Z",
-      "birthTime": "2018-12-31T18:18:35.725Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog",
-      "base": "an-international-coffee.md",
-      "ext": ".md",
-      "name": "an-international-coffee",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613992442,
-      "blocks": 8,
-      "atimeMs": 1546281461498.7173,
-      "mtimeMs": 1546280315724.879,
-      "ctimeMs": 1546280315724.879,
-      "birthtimeMs": 1546280315724.733,
-      "atime": "2018-12-31T18:37:41.499Z",
-      "mtime": "2018-12-31T18:18:35.725Z",
-      "ctime": "2018-12-31T18:18:35.725Z",
-      "birthtime": "2018-12-31T18:18:35.725Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "86ed1a44f2bd5a3e6fb69fd200892019",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md",
-      "relativePath": "blog/brand-success-only-with-the-right-consumer-data.md",
-      "extension": "md",
-      "size": 3571,
-      "prettySize": "3.57 kB",
-      "modifiedTime": "2018-12-31T18:18:35.725Z",
-      "accessTime": "2018-12-31T18:37:41.499Z",
-      "changeTime": "2018-12-31T18:18:35.725Z",
-      "birthTime": "2018-12-31T18:18:35.725Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog",
-      "base": "brand-success-only-with-the-right-consumer-data.md",
-      "ext": ".md",
-      "name": "brand-success-only-with-the-right-consumer-data",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613992443,
-      "blocks": 8,
-      "atimeMs": 1546281461498.7944,
-      "mtimeMs": 1546280315725.1174,
-      "ctimeMs": 1546280315725.1174,
-      "birthtimeMs": 1546280315724.983,
-      "atime": "2018-12-31T18:37:41.499Z",
-      "mtime": "2018-12-31T18:18:35.725Z",
-      "ctime": "2018-12-31T18:18:35.725Z",
-      "birthtime": "2018-12-31T18:18:35.725Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "863f09b257a785ce277dd6d9e34c39e0",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md",
-      "relativePath": "projects/digital-governmental-solutions.md",
-      "extension": "md",
-      "size": 1027,
-      "prettySize": "1.03 kB",
-      "modifiedTime": "2018-12-31T18:18:35.726Z",
-      "accessTime": "2018-12-31T18:37:41.500Z",
-      "changeTime": "2018-12-31T18:18:35.726Z",
-      "birthTime": "2018-12-31T18:18:35.726Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
-      "base": "digital-governmental-solutions.md",
-      "ext": ".md",
-      "name": "digital-governmental-solutions",
-      "relativeDirectory": "projects",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613992445,
-      "blocks": 8,
-      "atimeMs": 1546281461500.157,
-      "mtimeMs": 1546280315725.646,
-      "ctimeMs": 1546280315725.646,
-      "birthtimeMs": 1546280315725.5256,
-      "atime": "2018-12-31T18:37:41.500Z",
-      "mtime": "2018-12-31T18:18:35.726Z",
-      "ctime": "2018-12-31T18:18:35.726Z",
-      "birthtime": "2018-12-31T18:18:35.726Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file",
-      "children": [
-        "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "aebdf41294c5577ae13e26e1c4ff5305",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md",
-      "relativePath": "projects/interactive-messaging-test.md",
-      "extension": "md",
-      "size": 1276,
-      "prettySize": "1.28 kB",
-      "modifiedTime": "2018-12-31T18:18:35.726Z",
-      "accessTime": "2018-12-31T18:37:41.500Z",
-      "changeTime": "2018-12-31T18:18:35.726Z",
-      "birthTime": "2018-12-31T18:18:35.726Z",
-      "root": "/",
-      "dir": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects",
-      "base": "interactive-messaging-test.md",
-      "ext": ".md",
-      "name": "interactive-messaging-test",
-      "relativeDirectory": "projects",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8613992446,
-      "blocks": 8,
-      "atimeMs": 1546281461500.2793,
-      "mtimeMs": 1546280315725.8438,
-      "ctimeMs": 1546280315725.8438,
-      "birthtimeMs": 1546280315725.7688,
-      "atime": "2018-12-31T18:37:41.500Z",
-      "mtime": "2018-12-31T18:18:35.726Z",
-      "ctime": "2018-12-31T18:18:35.726Z",
-      "birthtime": "2018-12-31T18:18:35.726Z"
-    },
-    "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: article-page\ntitle: >-\n  An International Coffee Brand to Engage Digitally with 5 million consumers in\n  4 months\nslug: Coffee brand new project!\ndate: '2018-11-29T05:55:49+02:00'\ncover: /img/0.jpg\ntags:\n  - coffee\n  - promotion\n  - 4 millions\nmeta_title: >-\n  An International Coffee Brand to Engage Digitally with 5 million consumers in\n  4 months\nmeta_description: >-\n  Through the collaboration of iMakaseb, the coffee brand's marketing executives\n  were able to leverage online analytics and dashboard which resulted in\n  building a consumer database and insights for future CRM activities, increased\n  sales and increased efficiency in marketing spending, to the fact that they\n  restructured all their media communication spending, all these were possible\n  with access to consumer insights, analytics, and predictions.\n---\nA successful promotion is one which has mutual economic benefits for both parties. You are looking to increase your bottom line by getting your existing customers to repurchase. Your customer base is looking for their loyalty to be rewarded, which can often take the form of financial incentives to repurchase when you get it right, it is a win-win scenario. By understanding and then fulfilling your customers' needs on a regular basis, you will engender long-term customer loyalty.  \n\n\n\nPrior to using the services of iMakaseb, the coffee brand used the traditional way of distributing prizes employed for rewards using physical gifts, it was a nightmare, it was also characterized by a lot of shortcomings, cases of lost prizes and theft were a commonplace, it was impossible to keep a record of consumers using their products, there were no criteria or indicators for measuring the success of any previous promotion conducted, there was a lack of innovative tools needed to enhance their competitive position to help in future plans and forecasts.\n\n\n\nThrough the collaboration of iMakaseb, the coffee brand's marketing executives were able to leverage online analytics and dashboard which resulted in building a consumer database and insights for future CRM activities, increased sales and increased efficiency in marketing spending, to the fact that they restructured all their media communication spending, all these were possible with access to consumer insights, analytics, and predictions. \n\n\n\nMobile customers were encouraged to send a Unique Code printed inside the Coffee sachets to a short-code. The incentive to take action was the chance to win a free mobile Top-Up, Free branded digital content or a grand prize car!\n\n\n\nThe result of the digital reward was reaching and gaining 5 million consumers in four short months and unprecedented 100K SMS peak traffic in just one day from one country. Within the same four months, 7 million transaction records were observed, a feat that was hitherto impossible without iMakaseb's oversight of loyalty and promotion rewards, these huge recorded transactions would not have been possible with the traditional way of distributing prizes and incentives.  \n\n\n\nTraditional methods posed a lot of inefficiencies and delays in launching, iMakaseb leverage modern digital online marketing tools to deliver outstanding results.\n\n\n\niMakaseb is specialized in omni-channel consumer engagement channels for physical products sold in retail and supermarkets. As industry leaders for over 6 years, this company was built to coordinate and orchestrate your marketing campaigns. The platform provides a flexible way to manage your relationships across the entire customer life-cycle. The solutions give you a 360° view of customer data, allowing you to plan and deliver personalized and real-time marketing communications resulting in greater marketing effectiveness.  \n\n\n\niMakaseb's platform delivers the following powerful tools: \n\n360° management of customer data \n\nOmni-channel campaign management, like SMS, Mobile Application, QR Code, POS integration, Chatbots, Social Network Applications.\n\nStatistical and behavioral analysis with real-time data. \n\nFor more details visit iMakaseb.com\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "b9fa66a91756c70923455f7523e71f29",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "An International Coffee Brand to Engage Digitally with 5 million consumers in 4 months",
-        "templateKey": "article-page",
-        "slug": "Coffee brand new project!",
-        "date": "2018-11-29T05:55:49+02:00",
-        "cover": "/img/0.jpg",
-        "tags": [
-          "coffee",
-          "promotion",
-          "4 millions"
-        ],
-        "meta_title": "An International Coffee Brand to Engage Digitally with 5 million consumers in 4 months",
-        "meta_description": "Through the collaboration of iMakaseb, the coffee brand's marketing executives were able to leverage online analytics and dashboard which resulted in building a consumer database and insights for future CRM activities, increased sales and increased efficiency in marketing spending, to the fact that they restructured all their media communication spending, all these were possible with access to consumer insights, analytics, and predictions.",
-        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file",
-        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md",
-      "fields": {
-        "slug": "/blog/an-international-coffee/"
       }
     },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file >>> MarkdownRemark": {
@@ -3180,6 +2969,41 @@
         "slug": "/projects/digital-governmental-solutions/"
       }
     },
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: article-page\ntitle: >-\n  An International Coffee Brand to Engage Digitally with 5 million consumers in\n  4 months\nslug: Coffee brand new project!\ndate: '2018-11-29T05:55:49+02:00'\ncover: /img/0.jpg\ntags:\n  - coffee\n  - promotion\n  - 4 millions\nmeta_title: >-\n  An International Coffee Brand to Engage Digitally with 5 million consumers in\n  4 months\nmeta_description: >-\n  Through the collaboration of iMakaseb, the coffee brand's marketing executives\n  were able to leverage online analytics and dashboard which resulted in\n  building a consumer database and insights for future CRM activities, increased\n  sales and increased efficiency in marketing spending, to the fact that they\n  restructured all their media communication spending, all these were possible\n  with access to consumer insights, analytics, and predictions.\n---\nA successful promotion is one which has mutual economic benefits for both parties. You are looking to increase your bottom line by getting your existing customers to repurchase. Your customer base is looking for their loyalty to be rewarded, which can often take the form of financial incentives to repurchase when you get it right, it is a win-win scenario. By understanding and then fulfilling your customers' needs on a regular basis, you will engender long-term customer loyalty.  \n\n\n\nPrior to using the services of iMakaseb, the coffee brand used the traditional way of distributing prizes employed for rewards using physical gifts, it was a nightmare, it was also characterized by a lot of shortcomings, cases of lost prizes and theft were a commonplace, it was impossible to keep a record of consumers using their products, there were no criteria or indicators for measuring the success of any previous promotion conducted, there was a lack of innovative tools needed to enhance their competitive position to help in future plans and forecasts.\n\n\n\nThrough the collaboration of iMakaseb, the coffee brand's marketing executives were able to leverage online analytics and dashboard which resulted in building a consumer database and insights for future CRM activities, increased sales and increased efficiency in marketing spending, to the fact that they restructured all their media communication spending, all these were possible with access to consumer insights, analytics, and predictions. \n\n\n\nMobile customers were encouraged to send a Unique Code printed inside the Coffee sachets to a short-code. The incentive to take action was the chance to win a free mobile Top-Up, Free branded digital content or a grand prize car!\n\n\n\nThe result of the digital reward was reaching and gaining 5 million consumers in four short months and unprecedented 100K SMS peak traffic in just one day from one country. Within the same four months, 7 million transaction records were observed, a feat that was hitherto impossible without iMakaseb's oversight of loyalty and promotion rewards, these huge recorded transactions would not have been possible with the traditional way of distributing prizes and incentives.  \n\n\n\nTraditional methods posed a lot of inefficiencies and delays in launching, iMakaseb leverage modern digital online marketing tools to deliver outstanding results.\n\n\n\niMakaseb is specialized in omni-channel consumer engagement channels for physical products sold in retail and supermarkets. As industry leaders for over 6 years, this company was built to coordinate and orchestrate your marketing campaigns. The platform provides a flexible way to manage your relationships across the entire customer life-cycle. The solutions give you a 360° view of customer data, allowing you to plan and deliver personalized and real-time marketing communications resulting in greater marketing effectiveness.  \n\n\n\niMakaseb's platform delivers the following powerful tools: \n\n360° management of customer data \n\nOmni-channel campaign management, like SMS, Mobile Application, QR Code, POS integration, Chatbots, Social Network Applications.\n\nStatistical and behavioral analysis with real-time data. \n\nFor more details visit iMakaseb.com\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b9fa66a91756c70923455f7523e71f29",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "An International Coffee Brand to Engage Digitally with 5 million consumers in 4 months",
+        "templateKey": "article-page",
+        "slug": "Coffee brand new project!",
+        "date": "2018-11-29T05:55:49+02:00",
+        "cover": "/img/0.jpg",
+        "tags": [
+          "coffee",
+          "promotion",
+          "4 millions"
+        ],
+        "meta_title": "An International Coffee Brand to Engage Digitally with 5 million consumers in 4 months",
+        "meta_description": "Through the collaboration of iMakaseb, the coffee brand's marketing executives were able to leverage online analytics and dashboard which resulted in building a consumer database and insights for future CRM activities, increased sales and increased efficiency in marketing spending, to the fact that they restructured all their media communication spending, all these were possible with access to consumer insights, analytics, and predictions.",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md",
+      "fields": {
+        "slug": "/blog/an-international-coffee/"
+      }
+    },
     "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -3249,67 +3073,216 @@
         "slug": "/projects/loyalty-programs/"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark",
       "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "e25b233cd23b625a98412e24ee146d67",
-        "owner": "internal-data-bridge"
+        "content": "---\ntemplateKey: contact-page\ntitle: Contact Us\nhero_image: /img/contact-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\ncontact_form:\n  text: >-\n    For any business inquiry, do not hesitate to contact us using the form\n    below.\n  title: Have a question ?\nhire:\n  email: hr@razytech.com\n  text: Looking for a challenging career in a dynamic growing environment?\n  title: WANT TO WORK WITH US\ncontact_details:\n  address: 'Building 1, Street 41, Diplomat Area, Mokattam, Cairo, Egypt'\n  fax: +2 284 440\n  mobile: +2 01116662661\n  telephone: +2 02 284 440 69 - +2 02 284 448 77\nmap: >-\n  <iframe\n  src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.779437922176!2d31.28625331511439!3d30.014488981893198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145838cbd4c434ef%3A0xd66edf3628c2028f!2zUmF6eSBUZWNobm9sb2dpZXMgSFEuINi02LHZg9ipINin2YTYsdin2LLZiiDZhNmE2K7Yr9mF2KfYqiDYp9mE2KrZg9mG2YjZhNmI2KzZitip!5e0!3m2!1sen!2sro!4v1540734710787\"\n  width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\"\n  allowfullscreen></iframe>\nmeta_title: Contact Us | Razy Technologiess\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "cc76949ad0ee5de0274689e66b39c0df",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Contact Us",
+        "templateKey": "contact-page",
+        "hero_image": "/img/contact-hero.png",
+        "page_description": {
+          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
+          "title": "BACKGROUND"
+        },
+        "contact_form": {
+          "text": "For any business inquiry, do not hesitate to contact us using the form below.",
+          "title": "Have a question ?"
+        },
+        "hire": {
+          "email": "hr@razytech.com",
+          "text": "Looking for a challenging career in a dynamic growing environment?",
+          "title": "WANT TO WORK WITH US"
+        },
+        "contact_details": {
+          "address": "Building 1, Street 41, Diplomat Area, Mokattam, Cairo, Egypt",
+          "fax": "+2 284 440",
+          "mobile": "+2 01116662661",
+          "telephone": "+2 02 284 440 69 - +2 02 284 448 77"
+        },
+        "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.779437922176!2d31.28625331511439!3d30.014488981893198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145838cbd4c434ef%3A0xd66edf3628c2028f!2zUmF6eSBUZWNobm9sb2dpZXMgSFEuINi02LHZg9ipINin2YTYsdin2LLZiiDZhNmE2K7Yr9mF2KfYqiDYp9mE2KrZg9mG2YjZhNmI2KzZitip!5e0!3m2!1sen!2sro!4v1540734710787\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+        "meta_title": "Contact Us | Razy Technologiess",
+        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md",
+      "fields": {
+        "slug": "/contact/"
       }
     },
-    "SitePage /": {
+    "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: solutions-page\ntitle: Solutions\nhero_image: /img/solutions-hero.png\npage_description:\n  text: >-\n    As a part of our growth strategy, we launched multiple ventures with a\n    majority ownership, operating in different industries in addition to the\n    unique offering of Razy Technologies customized solutions.\n  title: BACKGROUND\nsolutions:\n  blurbs:\n    - logo: /img/VAS.png\n      text: >-\n        Our power in providing top-notch mobile services lies between being\n        directly connected to the SMS Gateways of the four local mobile\n        operators in Egypt alongside with our regional partnerships with Global\n        Messaging gateways, our reel of services include:\n          - Premium SMS with Short Numbers\n          - Bulk SMS and Advertising\n          - Location based messaging\n          - Subscription based services with digital content\n          - IP messaging gateway\n          - BOT applications\n          - Direct Carrier Billing capability offered for several regional partners\n      title: VALUE ADDED SERVICES\n    - logo: /img/DGS.png\n      text: >-\n        We had the privilege to partner with the Egyptian government in\n        innovative mobile governmental application initiatives.Our product\n        experts handled the strategy, planning and development of the initiative\n        applications such as:Government Employees Network Traffic Tickets\n        Application Government Tenders Suggestions & Complains\n      title: DIGITAL GOVERNMENT SERVICES\n    - logo: /img/LPS.png\n      text: >-\n        We are a proud owner of the shining star, iMakaseb, that is an\n        innovative omni-channel consumer engagement cloud services, with\n        multiple solutions designed to achieve an integrated offering to\n        everything related to customer loyalty and promotion solutions. Our\n        product design experts build end-to-end campaign scenarios uniquely to\n        serve our clients’ marketing objectives which are integrated online with\n        mobile and payment platforms, the mixture that allows an immediate\n        offered value such as mobile credit or multi-media content besides\n        traditional “grand prize” options. The iMakaseb experts deliver\n        campaigns digitally and via mobiles to ensure building one to one\n        customized engaging relationships with the targeted customer base while\n        gaining valuable insights about their behavior and preferences. iMakaseb\n        Specialties are mainly focused on: Mobile Contest Online Sales\n        Promotions Mobile Sales Promotions Digital Campaigns   \n      title: LOYALTY AND PROMOTION SOLUTION\n    - logo: /img/SDP.png\n      text: >-\n        We position ourselves as a leading provider in the specialized devices\n        development and localization domains; As we developed and delivered\n        Wireless POS devices for Payment Service Providers as one of the main\n        suppliers for Mobile Printers in the region. We successfully delivered\n        more than 20K devices since 2014 with localized customized experience\n        alongside with distribution and maintenance of our local devices in\n        Egypt. Our innovation team always strives to get the state of art in the\n        domain of specialized devices & POS world, to offer our clients an\n        endless support and consultancy for the best customer experience.\n      title: SPECIALIZED DEVICES & POS\nmeta_title: Solutions | Razy Technologies\nmeta_description: >-\n  Established in 2007 with a clear vision of offering smart services to serve\n  intelligent individuals and organizations, anywhere, anytime. We sustained a\n  high growth rate by increasing our business capacity while launching new\n  ventures to rank among the best specialized mobile service providers in the\n  region with a timely delivery, economic pricing and trusted methodologies.\n---\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a0c79ca697bc86d7b87b3ebd45c32b49",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Solutions",
+        "templateKey": "solutions-page",
+        "hero_image": "/img/solutions-hero.png",
+        "page_description": {
+          "text": "As a part of our growth strategy, we launched multiple ventures with a majority ownership, operating in different industries in addition to the unique offering of Razy Technologies customized solutions.",
+          "title": "BACKGROUND"
+        },
+        "solutions": {
+          "blurbs": [
+            {
+              "logo": "/img/VAS.png",
+              "text": "Our power in providing top-notch mobile services lies between being directly connected to the SMS Gateways of the four local mobile operators in Egypt alongside with our regional partnerships with Global Messaging gateways, our reel of services include:\n  - Premium SMS with Short Numbers\n  - Bulk SMS and Advertising\n  - Location based messaging\n  - Subscription based services with digital content\n  - IP messaging gateway\n  - BOT applications\n  - Direct Carrier Billing capability offered for several regional partners",
+              "title": "VALUE ADDED SERVICES"
+            },
+            {
+              "logo": "/img/DGS.png",
+              "text": "We had the privilege to partner with the Egyptian government in innovative mobile governmental application initiatives.Our product experts handled the strategy, planning and development of the initiative applications such as:Government Employees Network Traffic Tickets Application Government Tenders Suggestions & Complains",
+              "title": "DIGITAL GOVERNMENT SERVICES"
+            },
+            {
+              "logo": "/img/LPS.png",
+              "text": "We are a proud owner of the shining star, iMakaseb, that is an innovative omni-channel consumer engagement cloud services, with multiple solutions designed to achieve an integrated offering to everything related to customer loyalty and promotion solutions. Our product design experts build end-to-end campaign scenarios uniquely to serve our clients’ marketing objectives which are integrated online with mobile and payment platforms, the mixture that allows an immediate offered value such as mobile credit or multi-media content besides traditional “grand prize” options. The iMakaseb experts deliver campaigns digitally and via mobiles to ensure building one to one customized engaging relationships with the targeted customer base while gaining valuable insights about their behavior and preferences. iMakaseb Specialties are mainly focused on: Mobile Contest Online Sales Promotions Mobile Sales Promotions Digital Campaigns   ",
+              "title": "LOYALTY AND PROMOTION SOLUTION"
+            },
+            {
+              "logo": "/img/SDP.png",
+              "text": "We position ourselves as a leading provider in the specialized devices development and localization domains; As we developed and delivered Wireless POS devices for Payment Service Providers as one of the main suppliers for Mobile Printers in the region. We successfully delivered more than 20K devices since 2014 with localized customized experience alongside with distribution and maintenance of our local devices in Egypt. Our innovation team always strives to get the state of art in the domain of specialized devices & POS world, to offer our clients an endless support and consultancy for the best customer experience.",
+              "title": "SPECIALIZED DEVICES & POS"
+            }
+          ]
+        },
+        "meta_title": "Solutions | Razy Technologies",
+        "meta_description": "Established in 2007 with a clear vision of offering smart services to serve intelligent individuals and organizations, anywhere, anytime. We sustained a high growth rate by increasing our business capacity while launching new ventures to rank among the best specialized mobile service providers in the region with a timely delivery, economic pricing and trusted methodologies.",
+        "_PARENT": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file",
+        "parent": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md",
+      "fields": {
+        "slug": "/solutions/"
+      }
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/img absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/img absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "69690ea985ca33fd3c7b886bfd73351d",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/img",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-11-11T22:12:19.105Z",
+      "accessTime": "2019-01-05T21:55:49.307Z",
+      "changeTime": "2018-12-20T22:06:24.974Z",
+      "birthTime": "2018-10-21T09:36:58.642Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src",
+      "base": "img",
+      "ext": "",
+      "name": "img",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613374296,
+      "blocks": 0,
+      "atimeMs": 1546725349307.3662,
+      "mtimeMs": 1541974339105.401,
+      "ctimeMs": 1545343584973.9038,
+      "birthtimeMs": 1540114618642.3215,
+      "atime": "2019-01-05T21:55:49.307Z",
+      "mtime": "2018-11-11T22:12:19.105Z",
+      "ctime": "2018-12-20T22:06:24.974Z",
+      "birthtime": "2018-10-21T09:36:58.642Z"
+    },
+    "/Users/osamajandali/Desktop/razy-tech/src/img/favicon.ico absPath of file": {
+      "id": "/Users/osamajandali/Desktop/razy-tech/src/img/favicon.ico absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9664a6a3fd91be06b6191f9ca18b3912",
+        "mediaType": "image/x-icon",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/osamajandali/Desktop/razy-tech/src/img/favicon.ico",
+      "relativePath": "favicon.ico",
+      "extension": "ico",
+      "size": 15086,
+      "prettySize": "15.1 kB",
+      "modifiedTime": "2018-11-11T22:12:19.106Z",
+      "accessTime": "2019-01-05T21:24:47.854Z",
+      "changeTime": "2018-12-20T22:06:24.973Z",
+      "birthTime": "2018-11-11T22:12:19.105Z",
+      "root": "/",
+      "dir": "/Users/osamajandali/Desktop/razy-tech/src/img",
+      "base": "favicon.ico",
+      "ext": ".ico",
+      "name": "favicon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8613374297,
+      "blocks": 32,
+      "atimeMs": 1546723487853.8237,
+      "mtimeMs": 1541974339105.6572,
+      "ctimeMs": 1545343584973.142,
+      "birthtimeMs": 1541974339105.3926,
+      "atime": "2019-01-05T21:24:47.854Z",
+      "mtime": "2018-11-11T22:12:19.106Z",
+      "ctime": "2018-12-20T22:06:24.973Z",
+      "birthtime": "2018-11-11T22:12:19.105Z"
+    },
+    "SitePage /brands/": {
       "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/home-page.js",
-      "componentChunkName": "component---src-templates-home-page-js",
+      "jsonName": "brands.json",
+      "internalComponentName": "ComponentBrands",
+      "path": "/brands/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
+      "componentChunkName": "component---src-templates-brand-page-js",
       "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark"
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/home-page.js",
-      "id": "SitePage /",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
+      "id": "SitePage /brands/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "97fd420bfd1776ca30a918d2d2e0a1fc",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/contact-page.js",
-      "componentChunkName": "component---src-templates-contact-page-js",
-      "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/contact-page.js",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f4ff4e958e4717538a13d5ff687ebe1a",
+        "contentDigest": "af7d0e908841aaeb53a0be7e2978b3d1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3331,73 +3304,29 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "67141b6aedfbfe3e20d44e37b8aada26",
+        "contentDigest": "58fc5da762bc3da4902017fd76ca8737",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /solutions/": {
+    "SitePage /": {
       "layout": "index",
-      "jsonName": "solutions.json",
-      "internalComponentName": "ComponentSolutions",
-      "path": "/solutions/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/solutions-page.js",
-      "componentChunkName": "component---src-templates-solutions-page-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/home-page.js",
+      "componentChunkName": "component---src-templates-home-page-js",
       "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark"
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/solutions-page.js",
-      "id": "SitePage /solutions/",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/home-page.js",
+      "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7690c03bdb678366d6a470973520fb23",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /brands/": {
-      "layout": "index",
-      "jsonName": "brands.json",
-      "internalComponentName": "ComponentBrands",
-      "path": "/brands/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
-      "componentChunkName": "component---src-templates-brand-page-js",
-      "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/brand-page.js",
-      "id": "SitePage /brands/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ee8671d87f8fedde93e4f11c61b020d3",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/an-international-coffee/": {
-      "layout": "index",
-      "jsonName": "blog-an-international-coffee.json",
-      "internalComponentName": "ComponentBlogAnInternationalCoffee",
-      "path": "/blog/an-international-coffee/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
-      "componentChunkName": "component---src-templates-article-page-js",
-      "context": {
-        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
-      "id": "SitePage /blog/an-international-coffee/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "32e547e602e27c993cac88370db39bd0",
+        "contentDigest": "9f3366ee03070c2adcea26c0cc82592e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3419,7 +3348,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5e44ac23903538bb4be8f462ffcc04a6",
+        "contentDigest": "1c22c45c6a9b240a3eeb93fbe2520974",
         "owner": "internal-data-bridge"
       }
     },
@@ -3441,7 +3370,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de2a588fcb43fcb80a306c1c51fc56e0",
+        "contentDigest": "2c1c66c0c60c8f7f5aedbd5f10fa4724",
         "owner": "internal-data-bridge"
       }
     },
@@ -3463,7 +3392,29 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b52eca16814347dcf6a29088971e6b97",
+        "contentDigest": "928f1ce72f9bd8c6c3de1062991c3fab",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/an-international-coffee/": {
+      "layout": "index",
+      "jsonName": "blog-an-international-coffee.json",
+      "internalComponentName": "ComponentBlogAnInternationalCoffee",
+      "path": "/blog/an-international-coffee/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
+      "componentChunkName": "component---src-templates-article-page-js",
+      "context": {
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/article-page.js",
+      "id": "SitePage /blog/an-international-coffee/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4386e4e7dd13bfa48d109a6135aa6fd7",
         "owner": "internal-data-bridge"
       }
     },
@@ -3485,7 +3436,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "70776b84cdf0baa5bc3044dc668c8d11",
+        "contentDigest": "b6d5c716259fa4d772485111a8fa8f49",
         "owner": "internal-data-bridge"
       }
     },
@@ -3507,73 +3458,51 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7524111a494172ce954f8284bf528727",
+        "contentDigest": "7079aa5627b55b50583fa2f7f2664ba8",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/coffee/": {
+    "SitePage /contact/": {
       "layout": "index",
-      "jsonName": "tags-coffee.json",
-      "internalComponentName": "ComponentTagsCoffee",
-      "path": "/tags/coffee/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/contact-page.js",
+      "componentChunkName": "component---src-templates-contact-page-js",
       "context": {
-        "tag": "coffee"
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "id": "SitePage /tags/coffee/",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/contact-page.js",
+      "id": "SitePage /contact/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5371ef54f143e0393169ed7c884f525d",
+        "contentDigest": "a2bde47180b505dd82f5d6a5ee18d38d",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/promotion/": {
+    "SitePage /solutions/": {
       "layout": "index",
-      "jsonName": "tags-promotion.json",
-      "internalComponentName": "ComponentTagsPromotion",
-      "path": "/tags/promotion/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
+      "jsonName": "solutions.json",
+      "internalComponentName": "ComponentSolutions",
+      "path": "/solutions/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/solutions-page.js",
+      "componentChunkName": "component---src-templates-solutions-page-js",
       "context": {
-        "tag": "promotion"
+        "id": "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "id": "SitePage /tags/promotion/",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/solutions-page.js",
+      "id": "SitePage /solutions/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dc910c9b4fcc33502925dfeac931b80e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/4-millions/": {
-      "layout": "index",
-      "jsonName": "tags-4-millions.json",
-      "internalComponentName": "ComponentTags4Millions",
-      "path": "/tags/4-millions/",
-      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "4 millions"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
-      "id": "SitePage /tags/4-millions/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c10e956d839e04a459a92a8ada47a309",
+        "contentDigest": "58892642f8769864666fd71bcc948c40",
         "owner": "internal-data-bridge"
       }
     },
@@ -3595,7 +3524,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9ee246d49ad085000de11a11c8a516b1",
+        "contentDigest": "dd282e102da7ffabdbf8274e3f7de06e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3617,7 +3546,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1acbc02490045b54cfd4b3331fdcfd08",
+        "contentDigest": "816dee933111f3092652b132f93d90df",
         "owner": "internal-data-bridge"
       }
     },
@@ -3639,7 +3568,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa58fc7d2e1de51426722342dbf190a3",
+        "contentDigest": "b4780cb13c679c40efdf175b10522231",
         "owner": "internal-data-bridge"
       }
     },
@@ -3661,7 +3590,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "52f4fb1b01b8c626d23e440b21282bb2",
+        "contentDigest": "9ffba385e83ebf4c545ec83a0146f5a1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3683,7 +3612,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "93cdf518fa4839b26348a3b7a6ba2296",
+        "contentDigest": "89df09b6b947bd434c0b8c13772859b1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3705,7 +3634,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "53ae75b7addbfba75204f64401bbaaf1",
+        "contentDigest": "03ce2c35763eeade064405252d2969b9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3727,7 +3656,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2810824c106b74632a7f50e6c8005cb5",
+        "contentDigest": "37673ca7504fae4b5f24fa528afbd111",
         "owner": "internal-data-bridge"
       }
     },
@@ -3749,7 +3678,73 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "98f7c88fd0c01bb7e235cb29c68cf2f2",
+        "contentDigest": "44946d95482c5fa4c68fe629ed3e50d1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/coffee/": {
+      "layout": "index",
+      "jsonName": "tags-coffee.json",
+      "internalComponentName": "ComponentTagsCoffee",
+      "path": "/tags/coffee/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "coffee"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/coffee/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "105f01c7e44a4d466cda0df9142a6580",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/promotion/": {
+      "layout": "index",
+      "jsonName": "tags-promotion.json",
+      "internalComponentName": "ComponentTagsPromotion",
+      "path": "/tags/promotion/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "promotion"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/promotion/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5486676f1680837e5f9f46f59c0b97a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/4-millions/": {
+      "layout": "index",
+      "jsonName": "tags-4-millions.json",
+      "internalComponentName": "ComponentTags4Millions",
+      "path": "/tags/4-millions/",
+      "component": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "4 millions"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/osamajandali/Desktop/razy-tech/src/templates/tags.js",
+      "id": "SitePage /tags/4-millions/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3990dec0b98b6cd9a21be962c0ae99be",
         "owner": "internal-data-bridge"
       }
     },
@@ -3771,7 +3766,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a100119d801c60be96ab62f990c3168c",
+        "contentDigest": "1578191d6526273ec2146af08c21550e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3793,7 +3788,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cebf3a9ee67d6d06954dca4cae76b97c",
+        "contentDigest": "1668d5bc9176ddbd611aac78e6a91133",
         "owner": "internal-data-bridge"
       }
     },
@@ -3815,7 +3810,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8e4885154670f12b8d6492635753ccdd",
+        "contentDigest": "4d5ce81ada31a2e4ba21d5f3a4b7e06a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3837,7 +3832,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e495a12320aac0e17d2acdfad0398e0e",
+        "contentDigest": "ef3809bcc895a22232d56404568db853",
         "owner": "internal-data-bridge"
       }
     },
@@ -3859,7 +3854,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c5720c0264f75552325c95ef0222e839",
+        "contentDigest": "eaee7188313d1df692d51b684d3846c1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3879,7 +3874,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1c8119e596508b4a59e5c3107bac1799",
+        "contentDigest": "f73541e56b6e66f93fb518c31679e0e9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3899,7 +3894,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4e25abebf933ec6669468abfd21a87d0",
+        "contentDigest": "5b713c10b7e063ec730e8accc2e0f9ed",
         "owner": "internal-data-bridge"
       }
     },
@@ -3919,7 +3914,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "320aacbca908d9750c0ab269d4b988bb",
+        "contentDigest": "38c6c61f4ffab37206046e0f792202bc",
         "owner": "internal-data-bridge"
       }
     },
@@ -3939,7 +3934,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a05c225aa783a1a410eb4b22db97c1f7",
+        "contentDigest": "776471a41de8c9f2022146c96bd160fe",
         "owner": "internal-data-bridge"
       }
     },
@@ -3959,67 +3954,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8471ec5799f37c30960f723c55c15173",
+        "contentDigest": "f71a7f346bd9bf8cb91ecb3877dcd2ce",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "5608d85b9b03a73e54c4ce3798e2cea9"
+    "PLUGINS_HASH": "0b2f01732f354fc4fe45231569129b6e"
   },
   "componentDataDependencies": {
     "nodes": {
       "/Users/osamajandali/Desktop/razy-tech/src/pages/index.md absPath of file >>> MarkdownRemark": [
         "/"
       ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark": [
-        "/brands/"
-      ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark": [
-        "/contact/"
-      ],
       "/Users/osamajandali/Desktop/razy-tech/src/pages/about/index.md absPath of file >>> MarkdownRemark": [
         "/about/"
       ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark": [
-        "/projects/lorem-ipsum-dolor-situm.1/"
+      "/Users/osamajandali/Desktop/razy-tech/src/pages/brands/index.md absPath of file >>> MarkdownRemark": [
+        "/brands/"
       ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark": [
-        "/blog/lorem-ipsum-dolor-situm.2/"
-      ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/lorem-ipsum-dolor-situm.1.md absPath of file >>> MarkdownRemark": [
-        "/blog/lorem-ipsum-dolor-situm.1/"
-      ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/lorem-ipsum-dolor-situm.2.md absPath of file >>> MarkdownRemark": [
-        "/projects/lorem-ipsum-dolor-situm.2/"
-      ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark": [
-        "/solutions/"
-      ],
-      "Site": [
-        "/tags/promotion/",
-        "/tags/coffee/",
-        "/tags/4-millions/",
-        "/tags/lorem/",
-        "/tags/ipsum/",
-        "/tags/consumer/",
-        "/tags/data/",
-        "/tags/brand-success/",
-        "/tags/",
-        "/tags/messaging/",
-        "/tags/tv/",
-        "/tags/radio/",
-        "/tags/pos/",
-        "/tags/printer/",
-        "/tags/blutooth/",
-        "/tags/governmental/",
-        "/tags/solutions/",
-        "/tags/imakaseb/",
-        "/tags/loaylty/"
-      ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark": [
-        "/projects/loyalty-programs/"
+      "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file >>> MarkdownRemark": [
+        "/blog/brand-success-only-with-the-right-consumer-data/"
       ],
       "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/bluetooth-printers-distribution.md absPath of file >>> MarkdownRemark": [
         "/projects/bluetooth-printers-distribution/"
@@ -4027,40 +3983,63 @@
       "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/digital-governmental-solutions.md absPath of file >>> MarkdownRemark": [
         "/projects/digital-governmental-solutions/"
       ],
-      "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/brand-success-only-with-the-right-consumer-data.md absPath of file >>> MarkdownRemark": [
-        "/blog/brand-success-only-with-the-right-consumer-data/"
-      ],
       "/Users/osamajandali/Desktop/razy-tech/src/pages/blog/an-international-coffee.md absPath of file >>> MarkdownRemark": [
         "/blog/an-international-coffee/"
       ],
       "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/interactive-messaging-test.md absPath of file >>> MarkdownRemark": [
         "/projects/interactive-messaging-test/"
-      ]
-    },
-    "connections": {
-      "MarkdownRemark": [
-        "/",
-        "/tags/promotion/",
-        "/tags/coffee/",
-        "/tags/4-millions/",
-        "/tags/lorem/",
-        "/tags/ipsum/",
+      ],
+      "/Users/osamajandali/Desktop/razy-tech/src/pages/projects/loyalty-programs.md absPath of file >>> MarkdownRemark": [
+        "/projects/loyalty-programs/"
+      ],
+      "/Users/osamajandali/Desktop/razy-tech/src/pages/solutions/index.md absPath of file >>> MarkdownRemark": [
+        "/solutions/"
+      ],
+      "/Users/osamajandali/Desktop/razy-tech/src/pages/contact/index.md absPath of file >>> MarkdownRemark": [
+        "/contact/"
+      ],
+      "Site": [
         "/tags/consumer/",
         "/tags/data/",
         "/tags/brand-success/",
-        "/blog/",
-        "/projects/",
-        "/tags/",
-        "/tags/messaging/",
-        "/tags/tv/",
-        "/tags/radio/",
         "/tags/pos/",
         "/tags/printer/",
         "/tags/blutooth/",
         "/tags/governmental/",
         "/tags/solutions/",
+        "/tags/coffee/",
+        "/tags/promotion/",
+        "/tags/4-millions/",
+        "/tags/messaging/",
+        "/tags/tv/",
+        "/tags/radio/",
         "/tags/imakaseb/",
-        "/tags/loaylty/"
+        "/tags/loaylty/",
+        "/tags/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/",
+        "/tags/consumer/",
+        "/tags/data/",
+        "/tags/brand-success/",
+        "/tags/pos/",
+        "/tags/printer/",
+        "/tags/blutooth/",
+        "/tags/governmental/",
+        "/tags/solutions/",
+        "/tags/coffee/",
+        "/tags/promotion/",
+        "/tags/4-millions/",
+        "/tags/messaging/",
+        "/tags/tv/",
+        "/tags/radio/",
+        "/tags/imakaseb/",
+        "/tags/loaylty/",
+        "/blog/",
+        "/projects/",
+        "/tags/"
       ],
       "SitePage": [
         "/dev-404-page/"

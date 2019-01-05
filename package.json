@@ -42,7 +42,8 @@
     "react-share": "2.1.0",
     "react-slick": "^0.23.2",
     "scrollmonitor-react": "^2.4.1",
-    "slick-carousel": "^1.8.1"
+    "slick-carousel": "^1.8.1",
+    "sweetalert": "^2.1.2"
   },
   "license": "MIT",
   "main": "n/a",

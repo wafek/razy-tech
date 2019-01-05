@@ -1,24 +1,10 @@
 [
     {
-        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "componentChunkName": "component---src-templates-brand-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "offline-plugin-app-shell-fallback.json",
-        "path": "/offline-plugin-app-shell-fallback/"
-    },
-    {
-        "componentChunkName": "component---src-templates-home-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "index.json",
-        "path": "/"
-    },
-    {
-        "componentChunkName": "component---src-templates-contact-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contact.json",
-        "path": "/contact/"
+        "jsonName": "brands.json",
+        "path": "/brands/"
     },
     {
         "componentChunkName": "component---src-templates-about-page-js",
@@ -28,25 +14,11 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-templates-solutions-page-js",
+        "componentChunkName": "component---src-templates-home-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "solutions.json",
-        "path": "/solutions/"
-    },
-    {
-        "componentChunkName": "component---src-templates-brand-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "brands.json",
-        "path": "/brands/"
-    },
-    {
-        "componentChunkName": "component---src-templates-article-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-an-international-coffee.json",
-        "path": "/blog/an-international-coffee/"
+        "jsonName": "index.json",
+        "path": "/"
     },
     {
         "componentChunkName": "component---src-templates-article-page-js",
@@ -70,6 +42,13 @@
         "path": "/projects/digital-governmental-solutions/"
     },
     {
+        "componentChunkName": "component---src-templates-article-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-an-international-coffee.json",
+        "path": "/blog/an-international-coffee/"
+    },
+    {
         "componentChunkName": "component---src-templates-project-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -84,25 +63,18 @@
         "path": "/projects/loyalty-programs/"
     },
     {
-        "componentChunkName": "component---src-templates-tags-js",
+        "componentChunkName": "component---src-templates-contact-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-coffee.json",
-        "path": "/tags/coffee/"
+        "jsonName": "contact.json",
+        "path": "/contact/"
     },
     {
-        "componentChunkName": "component---src-templates-tags-js",
+        "componentChunkName": "component---src-templates-solutions-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-promotion.json",
-        "path": "/tags/promotion/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-4-millions.json",
-        "path": "/tags/4-millions/"
+        "jsonName": "solutions.json",
+        "path": "/solutions/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -164,6 +136,27 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-coffee.json",
+        "path": "/tags/coffee/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-promotion.json",
+        "path": "/tags/promotion/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-4-millions.json",
+        "path": "/tags/4-millions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-messaging.json",
         "path": "/tags/messaging/"
     },
@@ -194,6 +187,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-loaylty.json",
         "path": "/tags/loaylty/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
