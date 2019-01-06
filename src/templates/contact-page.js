@@ -93,7 +93,7 @@ class ContactForm extends React.Component {
               type="text"
               name="phone"
               placeholder='Phone'
-              value={this.state.email}
+              value={this.state.phone}
               onChange={this.handleInputChange}
             />
             <TextareaAutosize 
