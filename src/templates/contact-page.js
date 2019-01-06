@@ -9,9 +9,9 @@ import PageShapes from '../components/PageShapes'
 import TextareaAutosize from 'react-autosize-textarea'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faPaperPlane } from '@fortawesome/free-solid-svg-icons'
+import { faPaperPlane, faEllipsisH } from '@fortawesome/free-solid-svg-icons'
 
-library.add(faPaperPlane)
+library.add(faPaperPlane, faEllipsisH)
 
 // const ContactForm = ({content}) => (
 //   <div className='container contact'>
@@ -31,26 +31,31 @@ library.add(faPaperPlane)
 
 class ContactForm extends React.Component {
   state = {
-    name: "",
-    email: "",
-    phone:"",
-    message:""
+    form:{
+      name: "",
+      email: "",
+      phone:"",
+      message:""
+    },
+    loading:false
   }
 
   handleInputChange = event => {
     const target = event.target
     const value = target.value
     const name = target.name
-
+    var tmp = this.state.form
+    tmp[name] = value
     this.setState({
-      [name]: value,
+      form: tmp,
     })
   }
 
   handleSubmit = event => {
     event.preventDefault()
+    this.setState({loading:true})
     var url = '//81.29.101.185/mail/send';
-    var data = this.state;
+    var data = this.state.form;
     if(!data || !data.email || !data.message || !data.name || !data.phone){
       swal("Error!", "Please fill all the form!", "error")
     }else{
@@ -61,7 +66,20 @@ class ContactForm extends React.Component {
           'Content-Type': 'application/json'
         }
       }).then(res => res.json())
-      .then(response => swal("Thanks for your message!", "we will get back to you soon.", "success"))
+      .then(response => {
+        swal("Thanks for your message!", "we will get back to you soon.", "success")
+        var tmp = {
+          name: "",
+          email: "",
+          phone:"",
+          message:""
+        }
+        
+        this.setState({
+          form:tmp,
+          loading:false
+        })
+      })
       .catch(error => console.error('Error:', error));
     }
   }
@@ -79,30 +97,33 @@ class ContactForm extends React.Component {
               type="text"
               name="name"
               placeholder='Name'
-              value={this.state.name}
+              value={this.state.form.name}
               onChange={this.handleInputChange}
             />
             <input
               type="text"
               name="email"
               placeholder='Email'
-              value={this.state.email}
+              value={this.state.form.email}
               onChange={this.handleInputChange}
             />
             <input
               type="text"
               name="phone"
               placeholder='Phone'
-              value={this.state.phone}
+              value={this.state.form.phone}
               onChange={this.handleInputChange}
             />
             <TextareaAutosize 
               type="text"
               name="message"
               placeholder='Message'
-              value={this.state.message}
+              value={this.state.form.message}
               onChange={this.handleInputChange}/>
-            <button> <FontAwesomeIcon icon='paper-plane' /> Send</button>
+            {this.state.loading?
+             <button><FontAwesomeIcon icon='ellipsis-h' /></button>
+            :
+            <button><FontAwesomeIcon icon='paper-plane' /> Send</button>}
           </div>
         </div>
       </div>
