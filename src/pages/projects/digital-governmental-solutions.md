@@ -1,6 +1,6 @@
 ---
 templateKey: project-page
-title: Digital Governmental Solutions
+title: Digital Government Solutions
 slug: Digital Governmental Solutions
 date: '2018-12-24T05:55:49+02:00'
 cover: /img/achievement-agreement-body-language-1179804-min.jpg
