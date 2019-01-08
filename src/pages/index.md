@@ -11,7 +11,7 @@ short_desc:
   description: >-
     Razy Technologies, we position ourselves, as a group of companies, a super
     achiever due to our projects’ extraordinary ROI and clients’ satisfaction.
-    We provide seamless optimized wide range of offerings being the tech
+    We provide a seamless optimized wide range of offerings being the tech
     backbone to all of our success partners.
   paragraph1: >-
     A licensed Digital Content and Mobile Value Added Service provider by the
