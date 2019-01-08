@@ -5,7 +5,7 @@ title: >-
   4 months
 slug: Coffee brand new project!
 date: '2018-11-29T05:55:49+02:00'
-cover: /img/0.jpg
+cover: /img/000.jpg
 tags:
   - coffee
   - promotion
