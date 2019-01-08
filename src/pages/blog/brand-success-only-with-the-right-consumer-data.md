@@ -8,6 +8,7 @@ tags:
   - consumer
   - data
   - brand success
+  - branding
 meta_title: 'Brand Success: Only with the right consumer data'
 meta_description: >
   But how do you measure consumer retention and sales? Many brands still stick
