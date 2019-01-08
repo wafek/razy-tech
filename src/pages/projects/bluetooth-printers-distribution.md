@@ -3,7 +3,7 @@ templateKey: project-page
 title: Bluetooth Printers Distribution
 slug: 'Bluetooth Printers Distribution '
 date: '2018-12-23T16:47:53+02:00'
-cover: /img/p.jpg
+cover: /img/pedited.png
 tags:
   - pos
   - printer
