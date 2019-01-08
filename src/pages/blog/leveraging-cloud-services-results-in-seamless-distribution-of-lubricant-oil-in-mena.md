@@ -91,4 +91,4 @@ Omni-channel campaign and distribution management, Product identifications, Mobi
 
 Statistical and behavioral analysis with real-time data. 
 
-For more details about iMakaseb cloud services, visit iMakseb.com.
+For more details about iMakaseb cloud services, visit [iMakseb.com](http://www.imakaseb.com/).
