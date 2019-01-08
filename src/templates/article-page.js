@@ -22,7 +22,7 @@ export const ArticleTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className='section'>
+    <section className='section'> 
       <SE0
         title={title}
         meta_title={meta_title}
