@@ -8,7 +8,7 @@ page_description:
     intelligent individuals and organizations, anywhere, anytime. We sustained a
     high growth rate by increasing our business capacity while launching new
     ventures to rank among the best specialized mobile service providers in the
-    region with a timely delivery, economic pricing and trusted methodologies.
+    region with timely delivery, economical pricing and trusted methodologies.
   title: OUR STORY
 bussiness_structure:
   text: >-
