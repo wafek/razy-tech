@@ -2,7 +2,7 @@
 templateKey: article-page
 title: 'Brand Success: Only with the right consumer data'
 slug: Brand Success
-date: '2018-11-29T05:55:49+02:00'
+date: '2018-11-18T17:55:49+02:00'
 cover: /img/0-1-.jpg
 tags:
   - consumer
