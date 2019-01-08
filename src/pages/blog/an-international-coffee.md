@@ -4,7 +4,7 @@ title: >-
   An International Coffee Brand to Engage Digitally with 5 million consumers in
   4 months
 slug: Coffee brand new project!
-date: '2018-12-02T13:00:00+02:00'
+date: '2018-11-24T15:00:00+02:00'
 cover: /img/000.jpg
 tags:
   - coffee
