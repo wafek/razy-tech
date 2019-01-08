@@ -5,9 +5,9 @@ slug: Digital Governmental Solutions
 date: '2018-12-24T05:55:49+02:00'
 cover: /img/achievement-agreement-body-language-1179804-min.jpg
 tags:
-  - governmental
+  - government
   - solutions
-meta_title: Digital Governmental Solutions
+meta_title: Digital Government Solutions
 meta_description: >
   We help our partners from the government and the public sector to spread the
   word about the new applications to give the citizens the essential knowledge
