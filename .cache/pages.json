@@ -7,48 +7,6 @@
         "path": "/brands/"
     },
     {
-        "componentChunkName": "component---src-templates-about-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
-    },
-    {
-        "componentChunkName": "component---src-templates-home-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "index.json",
-        "path": "/"
-    },
-    {
-        "componentChunkName": "component---src-templates-article-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-brand-success-only-with-the-right-consumer-data.json",
-        "path": "/blog/brand-success-only-with-the-right-consumer-data/"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "projects-bluetooth-printers-distribution.json",
-        "path": "/projects/bluetooth-printers-distribution/"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "projects-digital-governmental-solutions.json",
-        "path": "/projects/digital-governmental-solutions/"
-    },
-    {
-        "componentChunkName": "component---src-templates-article-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-an-international-coffee.json",
-        "path": "/blog/an-international-coffee/"
-    },
-    {
         "componentChunkName": "component---src-templates-project-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -75,6 +33,216 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "solutions.json",
         "path": "/solutions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-home-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-templates-about-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-templates-article-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-an-international-coffee.json",
+        "path": "/blog/an-international-coffee/"
+    },
+    {
+        "componentChunkName": "component---src-templates-article-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-leveraging-cloud-services-results-in-seamless-distribution-of-lubricant-oil-in-mena.json",
+        "path": "/blog/leveraging-cloud-services-results-in-seamless-distribution-of-lubricant-oil-in-mena/"
+    },
+    {
+        "componentChunkName": "component---src-templates-article-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-brand-success-only-with-the-right-consumer-data.json",
+        "path": "/blog/brand-success-only-with-the-right-consumer-data/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "projects-bluetooth-printers-distribution.json",
+        "path": "/projects/bluetooth-printers-distribution/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "projects-digital-governmental-solutions.json",
+        "path": "/projects/digital-governmental-solutions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-messaging.json",
+        "path": "/tags/messaging/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-tv.json",
+        "path": "/tags/tv/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-radio.json",
+        "path": "/tags/radio/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-imakaseb.json",
+        "path": "/tags/imakaseb/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-loaylty.json",
+        "path": "/tags/loaylty/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-coffee.json",
+        "path": "/tags/coffee/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-promotion.json",
+        "path": "/tags/promotion/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-4-millions.json",
+        "path": "/tags/4-millions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-inspiration.json",
+        "path": "/tags/inspiration/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-branding.json",
+        "path": "/tags/branding/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-entrepreneurship.json",
+        "path": "/tags/entrepreneurship/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-artificialintelligence.json",
+        "path": "/tags/artificialintelligence/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-engagement.json",
+        "path": "/tags/engagement/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-businessdevelopment.json",
+        "path": "/tags/businessdevelopment/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-internetofthings.json",
+        "path": "/tags/internetofthings/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-loyalty.json",
+        "path": "/tags/loyalty/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-distribution.json",
+        "path": "/tags/distribution/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-fmcg.json",
+        "path": "/tags/fmcg/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-campaign.json",
+        "path": "/tags/campaign/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-cpg.json",
+        "path": "/tags/cpg/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-technologytrends.json",
+        "path": "/tags/technologytrends/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-campaigns.json",
+        "path": "/tags/campaigns/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-engagements.json",
+        "path": "/tags/engagements/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -122,8 +290,8 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-governmental.json",
-        "path": "/tags/governmental/"
+        "jsonName": "tags-government.json",
+        "path": "/tags/government/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -131,62 +299,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-solutions.json",
         "path": "/tags/solutions/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-coffee.json",
-        "path": "/tags/coffee/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-promotion.json",
-        "path": "/tags/promotion/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-4-millions.json",
-        "path": "/tags/4-millions/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-messaging.json",
-        "path": "/tags/messaging/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-tv.json",
-        "path": "/tags/tv/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-radio.json",
-        "path": "/tags/radio/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-imakaseb.json",
-        "path": "/tags/imakaseb/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-loaylty.json",
-        "path": "/tags/loaylty/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

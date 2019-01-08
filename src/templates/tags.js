@@ -24,7 +24,7 @@ class TagRoute extends Component {
 
     return (
       <section className='section'>
-        <Helmet title={`${tag} | ${title}`} />
+        <Helmet title={`${tag} | Razy Technologies`} />
         <div className='container content'>
           <div className='columns'>
             <div

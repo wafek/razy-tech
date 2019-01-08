@@ -2,9 +2,11 @@
  * Created by vaibhav on 31/3/18
  */
 import React from 'react'
+import Helmet from 'react-helmet'
 
 const NotFoundPage = () => (
   <div>
+    <Helmet title={`Page not found | Razy Technologies`} />
     <section className='hero is-primary is-bold is-large'>
       <div className='hero-body'>
         <div className='container'>
