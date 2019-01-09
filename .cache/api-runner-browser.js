@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/osamajandali/Desktop/razy-tech/node_modules/gatsby-plugin-netlify-cms/gatsby-browser.js'),
-      options: {"plugins":[],"modulePath":"/Users/osamajandali/Desktop/razy-tech/src/cms/cms.js"},
+      plugin: require('/mnt/c/Users/Admin/Desktop/razy-tech/node_modules/gatsby-plugin-netlify-cms/gatsby-browser.js'),
+      options: {"plugins":[],"modulePath":"/mnt/c/Users/Admin/Desktop/razy-tech/src/cms/cms.js"},
     },{
-      plugin: require('/Users/osamajandali/Desktop/razy-tech/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
+      plugin: require('/mnt/c/Users/Admin/Desktop/razy-tech/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/osamajandali/Desktop/razy-tech/node_modules/gatsby-plugin-nprogress/gatsby-browser.js'),
+      plugin: require('/mnt/c/Users/Admin/Desktop/razy-tech/node_modules/gatsby-plugin-nprogress/gatsby-browser.js'),
       options: {"plugins":[],"color":"#00d1b2","showSpinner":true},
     }]
 // During bootstrap, we write requires at top of this file which looks

@@ -22,12 +22,12 @@ export const ArticleTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className='section'> 
+    <section className='section'>
       <SE0
         title={title}
         meta_title={meta_title}
         meta_desc={meta_desc}
-        cover={cover}
+        cover='/img/razy-logo.png'
         slug={slug}
       />
       <div className='container content'>

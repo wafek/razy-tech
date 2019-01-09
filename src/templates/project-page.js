@@ -27,7 +27,7 @@ export const ArticleTemplate = ({
         title={title}
         meta_title={meta_title}
         meta_desc={meta_desc}
-        cover={cover}
+        cover='/img/razy-logo.png'
         slug={slug}
       />
       <div className='container content'>
