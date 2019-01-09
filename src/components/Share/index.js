@@ -33,9 +33,9 @@ class Share extends Component {
       <div className='social-links' >
         <FacebookShareButton style={{cursor:'pointer'}} url={url} quote={excerpt}>
           <FacebookIcon round size={iconSize} />
-          <FacebookShareCount url={url}>
+          {/* <FacebookShareCount url={url}>
             {count => <div className='share-count'>{filter(count)}</div>}
-          </FacebookShareCount>
+          </FacebookShareCount> */}
         </FacebookShareButton>
         <TwitterShareButton style={{cursor:'pointer'}} url={url} title={title}>
           <TwitterIcon round size={iconSize} />
@@ -47,9 +47,9 @@ class Share extends Component {
           style={{cursor:'pointer'}}
         >
           <LinkedinIcon  round size={iconSize} />
-          <LinkedinShareCount url={url}>
+          {/* <LinkedinShareCount url={url}>
             {count => <div className='share-count'>{filter(count)}</div>}
-          </LinkedinShareCount>
+          </LinkedinShareCount> */}
         </LinkedinShareButton>
         <TelegramShareButton style={{cursor:'pointer'}} url={url}>
           <TelegramIcon round size={iconSize} />
