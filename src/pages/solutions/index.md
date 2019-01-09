@@ -61,7 +61,7 @@ solutions:
         domain of specialized devices & POS world, to offer our clients an
         endless support and consultancy for the best customer experience.
       title: SPECIALIZED DEVICES & POS
-meta_title: 'Solutions | Razy Technologies,'
+meta_title: Solutions | Razy Technologies
 meta_description: >-
   Established in 2007 with a clear vision of offering smart services to serve
   intelligent individuals and organizations, anywhere, anytime. We sustained a
