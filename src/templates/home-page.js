@@ -22,6 +22,7 @@ export const HomePageTemplate = ({
     <Helmet>
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
+      <meta name="norton-safeweb-site-verification" content="aivvnzauc4y51hz87l4bhnk06pbkszkvefz49lr2us1rq0brdhcor10qtyiubx14kp2t3ddqryk684duchjz4lsbkl0zlw9didtggcci6zmip6nf2ego7i9fy1ki000z" />
       <link rel='stylesheet' type='text/css' href='//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css' />
     </Helmet>
     <HeroHome title={title} text={description} />
